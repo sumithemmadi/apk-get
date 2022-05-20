@@ -9,10 +9,11 @@ allApks = ""
 for line in lines:
     app_info = line.split()
     if len(app_info) != 0:
-        appName = app_info[1]
+        appName = app_info[0]
+        print(appName)
         if tempName != appName:
             allApks += appName + "\n"
-            tempName = appName
+            
 os.makedirs(os.environ['PWD'] + "/.config/apk-get", exist_ok=True)
 
 with open(".config/apk-get/apklist1.txt", "w") as output:

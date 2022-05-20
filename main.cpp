@@ -110,7 +110,8 @@ int install_app(char apkName[]) {
 }
 
 int main(int argc, char **argv) {
-  // cout << argv[2];
+  string url;
+  string file_path;
   if (argc == 1) {
     cout << "Show Help";
   } else if (argc == 2) {
@@ -137,13 +138,13 @@ int main(int argc, char **argv) {
   } else {
     if (strcmp(argv[1], "install") == 0) {
       cout << "fetching repo\n";
-      string url;
-      string file_path;
+      // string file_path;
+      char lurl[] = "https://f-droid.org/repo/org.telegram.messenger_26006.apk";
+      url = std::string{lurl};
       file_path = extract_file_name(url);
-      url = string{"https://f-droid.org/repo/org.telegram.messenger_26006.apk"};
+      cout << url;
       download(url, file_path);
       for (int i = 2; i < argc; ++i) {
-
         install_app(argv[i]);
       }
     } else if (strcmp(argv[1], "search") == 0) {
