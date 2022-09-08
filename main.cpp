@@ -11,6 +11,7 @@ char search_app(char apk[])
   char tmp[256];
   char str[100];
   string temp;
+  char app_list[50];
   int n = 0;
   int i = 0;
 
@@ -29,16 +30,18 @@ char search_app(char apk[])
     {
       if (strstr(tmp, apk) != NULL)
       {
-        string line = tmp;
-        string arr[4];
-        int i = 0;
-        stringstream ssin(line);
-        while (ssin.good() && i < 4)
-        {
-          ssin >> arr[i];
-          ++i;
-        }
-        cout << n << ". " << arr[0] << endl;
+        // string line = tmp;
+        // char arr[4];
+        // int i = 0;
+        // stringstream ssin(line);
+        // while (ssin.good() && i < 4)
+        // {
+        //   ssin >> arr[i];
+        //   ++i;
+        // }
+        cout << n << ". " << tmp ;
+        app_list[n] = *tmp;
+        n++;
       }
     }
   }
