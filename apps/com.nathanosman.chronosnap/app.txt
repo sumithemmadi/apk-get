@@ -1,2 +1,10 @@
 com.nathanosman.chronosnap_5.apk
 com.nathanosman.chronosnap_6.apk
+com.nathanosman.chronosnap_5.apk
+com.nathanosman.chronosnap_6.apk
+com.nathanosman.chronosnap_5.apk
+com.nathanosman.chronosnap_6.apk
+com.nathanosman.chronosnap_5.apk
+com.nathanosman.chronosnap_6.apk
+com.nathanosman.chronosnap_5.apk
+com.nathanosman.chronosnap_6.apk

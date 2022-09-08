@@ -1,1 +1,5 @@
 org.glpi.inventory.agent_39351.apk
+org.glpi.inventory.agent_39351.apk
+org.glpi.inventory.agent_39351.apk
+org.glpi.inventory.agent_39351.apk
+org.glpi.inventory.agent_39351.apk

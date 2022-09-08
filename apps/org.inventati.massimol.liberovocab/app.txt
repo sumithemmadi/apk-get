@@ -1,3 +1,15 @@
 org.inventati.massimol.liberovocab_35.apk
 org.inventati.massimol.liberovocab_37.apk
 org.inventati.massimol.liberovocab_38.apk
+org.inventati.massimol.liberovocab_35.apk
+org.inventati.massimol.liberovocab_37.apk
+org.inventati.massimol.liberovocab_38.apk
+org.inventati.massimol.liberovocab_35.apk
+org.inventati.massimol.liberovocab_37.apk
+org.inventati.massimol.liberovocab_38.apk
+org.inventati.massimol.liberovocab_35.apk
+org.inventati.massimol.liberovocab_37.apk
+org.inventati.massimol.liberovocab_38.apk
+org.inventati.massimol.liberovocab_35.apk
+org.inventati.massimol.liberovocab_37.apk
+org.inventati.massimol.liberovocab_38.apk

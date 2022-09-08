@@ -1,2 +1,10 @@
 com.quaap.audiometer_1.apk
 com.quaap.audiometer_3.apk
+com.quaap.audiometer_1.apk
+com.quaap.audiometer_3.apk
+com.quaap.audiometer_1.apk
+com.quaap.audiometer_3.apk
+com.quaap.audiometer_1.apk
+com.quaap.audiometer_3.apk
+com.quaap.audiometer_1.apk
+com.quaap.audiometer_3.apk

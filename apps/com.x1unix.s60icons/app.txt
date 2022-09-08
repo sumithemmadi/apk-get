@@ -1,2 +1,10 @@
 com.x1unix.s60icons_100.apk
 com.x1unix.s60icons_110.apk
+com.x1unix.s60icons_100.apk
+com.x1unix.s60icons_110.apk
+com.x1unix.s60icons_100.apk
+com.x1unix.s60icons_110.apk
+com.x1unix.s60icons_100.apk
+com.x1unix.s60icons_110.apk
+com.x1unix.s60icons_100.apk
+com.x1unix.s60icons_110.apk

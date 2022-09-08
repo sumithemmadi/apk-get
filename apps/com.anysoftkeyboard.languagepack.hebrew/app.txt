@@ -1,3 +1,15 @@
 com.anysoftkeyboard.languagepack.hebrew_102.apk
 com.anysoftkeyboard.languagepack.hebrew_168.apk
 com.anysoftkeyboard.languagepack.hebrew_2908.apk
+com.anysoftkeyboard.languagepack.hebrew_102.apk
+com.anysoftkeyboard.languagepack.hebrew_168.apk
+com.anysoftkeyboard.languagepack.hebrew_2908.apk
+com.anysoftkeyboard.languagepack.hebrew_102.apk
+com.anysoftkeyboard.languagepack.hebrew_168.apk
+com.anysoftkeyboard.languagepack.hebrew_2908.apk
+com.anysoftkeyboard.languagepack.hebrew_102.apk
+com.anysoftkeyboard.languagepack.hebrew_168.apk
+com.anysoftkeyboard.languagepack.hebrew_2908.apk
+com.anysoftkeyboard.languagepack.hebrew_102.apk
+com.anysoftkeyboard.languagepack.hebrew_168.apk
+com.anysoftkeyboard.languagepack.hebrew_2908.apk

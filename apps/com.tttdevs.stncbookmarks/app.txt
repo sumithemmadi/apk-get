@@ -1,2 +1,10 @@
 com.tttdevs.stncbookmarks_1.apk
 com.tttdevs.stncbookmarks_2.apk
+com.tttdevs.stncbookmarks_1.apk
+com.tttdevs.stncbookmarks_2.apk
+com.tttdevs.stncbookmarks_1.apk
+com.tttdevs.stncbookmarks_2.apk
+com.tttdevs.stncbookmarks_1.apk
+com.tttdevs.stncbookmarks_2.apk
+com.tttdevs.stncbookmarks_1.apk
+com.tttdevs.stncbookmarks_2.apk

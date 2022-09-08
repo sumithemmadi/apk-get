@@ -1,3 +1,15 @@
 ca.pr0ps.xposed.entrustunblocker_1.apk
 ca.pr0ps.xposed.entrustunblocker_2.apk
 ca.pr0ps.xposed.entrustunblocker_3.apk
+ca.pr0ps.xposed.entrustunblocker_1.apk
+ca.pr0ps.xposed.entrustunblocker_2.apk
+ca.pr0ps.xposed.entrustunblocker_3.apk
+ca.pr0ps.xposed.entrustunblocker_1.apk
+ca.pr0ps.xposed.entrustunblocker_2.apk
+ca.pr0ps.xposed.entrustunblocker_3.apk
+ca.pr0ps.xposed.entrustunblocker_1.apk
+ca.pr0ps.xposed.entrustunblocker_2.apk
+ca.pr0ps.xposed.entrustunblocker_3.apk
+ca.pr0ps.xposed.entrustunblocker_1.apk
+ca.pr0ps.xposed.entrustunblocker_2.apk
+ca.pr0ps.xposed.entrustunblocker_3.apk

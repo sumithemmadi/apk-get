@@ -1,3 +1,15 @@
 com.willhauck.linconnectclient_7.apk
 com.willhauck.linconnectclient_220.apk
 com.willhauck.linconnectclient_221.apk
+com.willhauck.linconnectclient_7.apk
+com.willhauck.linconnectclient_220.apk
+com.willhauck.linconnectclient_221.apk
+com.willhauck.linconnectclient_7.apk
+com.willhauck.linconnectclient_220.apk
+com.willhauck.linconnectclient_221.apk
+com.willhauck.linconnectclient_7.apk
+com.willhauck.linconnectclient_220.apk
+com.willhauck.linconnectclient_221.apk
+com.willhauck.linconnectclient_7.apk
+com.willhauck.linconnectclient_220.apk
+com.willhauck.linconnectclient_221.apk

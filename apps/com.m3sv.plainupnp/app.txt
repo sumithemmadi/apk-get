@@ -1,3 +1,15 @@
 com.m3sv.plainupnp_62.apk
 com.m3sv.plainupnp_64.apk
 com.m3sv.plainupnp_75.apk
+com.m3sv.plainupnp_62.apk
+com.m3sv.plainupnp_64.apk
+com.m3sv.plainupnp_75.apk
+com.m3sv.plainupnp_62.apk
+com.m3sv.plainupnp_64.apk
+com.m3sv.plainupnp_75.apk
+com.m3sv.plainupnp_62.apk
+com.m3sv.plainupnp_64.apk
+com.m3sv.plainupnp_75.apk
+com.m3sv.plainupnp_62.apk
+com.m3sv.plainupnp_64.apk
+com.m3sv.plainupnp_75.apk

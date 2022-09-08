@@ -1,3 +1,15 @@
 org.tigase.messenger.phone.pro_11.apk
 org.tigase.messenger.phone.pro_15.apk
 org.tigase.messenger.phone.pro_90.apk
+org.tigase.messenger.phone.pro_11.apk
+org.tigase.messenger.phone.pro_15.apk
+org.tigase.messenger.phone.pro_90.apk
+org.tigase.messenger.phone.pro_11.apk
+org.tigase.messenger.phone.pro_15.apk
+org.tigase.messenger.phone.pro_90.apk
+org.tigase.messenger.phone.pro_11.apk
+org.tigase.messenger.phone.pro_15.apk
+org.tigase.messenger.phone.pro_90.apk
+org.tigase.messenger.phone.pro_11.apk
+org.tigase.messenger.phone.pro_15.apk
+org.tigase.messenger.phone.pro_90.apk

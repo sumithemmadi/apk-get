@@ -1,2 +1,10 @@
 com.tobiaskuban.android.monthcalendarwidgetfoss_4.apk
 com.tobiaskuban.android.monthcalendarwidgetfoss_5.apk
+com.tobiaskuban.android.monthcalendarwidgetfoss_4.apk
+com.tobiaskuban.android.monthcalendarwidgetfoss_5.apk
+com.tobiaskuban.android.monthcalendarwidgetfoss_4.apk
+com.tobiaskuban.android.monthcalendarwidgetfoss_5.apk
+com.tobiaskuban.android.monthcalendarwidgetfoss_4.apk
+com.tobiaskuban.android.monthcalendarwidgetfoss_5.apk
+com.tobiaskuban.android.monthcalendarwidgetfoss_4.apk
+com.tobiaskuban.android.monthcalendarwidgetfoss_5.apk

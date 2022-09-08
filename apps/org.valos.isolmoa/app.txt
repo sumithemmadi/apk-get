@@ -1,2 +1,10 @@
 org.valos.isolmoa_1.apk
 org.valos.isolmoa_2.apk
+org.valos.isolmoa_1.apk
+org.valos.isolmoa_2.apk
+org.valos.isolmoa_1.apk
+org.valos.isolmoa_2.apk
+org.valos.isolmoa_1.apk
+org.valos.isolmoa_2.apk
+org.valos.isolmoa_1.apk
+org.valos.isolmoa_2.apk

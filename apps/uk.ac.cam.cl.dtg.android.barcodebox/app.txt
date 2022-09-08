@@ -1,3 +1,15 @@
 uk.ac.cam.cl.dtg.android.barcodebox_3.apk
 uk.ac.cam.cl.dtg.android.barcodebox_4.apk
 ve/uk.ac.cam.cl.dtg.android.barcodebox_3.apk
+uk.ac.cam.cl.dtg.android.barcodebox_3.apk
+uk.ac.cam.cl.dtg.android.barcodebox_4.apk
+ve/uk.ac.cam.cl.dtg.android.barcodebox_3.apk
+uk.ac.cam.cl.dtg.android.barcodebox_3.apk
+uk.ac.cam.cl.dtg.android.barcodebox_4.apk
+ve/uk.ac.cam.cl.dtg.android.barcodebox_3.apk
+uk.ac.cam.cl.dtg.android.barcodebox_3.apk
+uk.ac.cam.cl.dtg.android.barcodebox_4.apk
+ve/uk.ac.cam.cl.dtg.android.barcodebox_3.apk
+uk.ac.cam.cl.dtg.android.barcodebox_3.apk
+uk.ac.cam.cl.dtg.android.barcodebox_4.apk
+ve/uk.ac.cam.cl.dtg.android.barcodebox_3.apk

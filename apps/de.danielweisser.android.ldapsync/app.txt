@@ -1,2 +1,10 @@
 de.danielweisser.android.ldapsync_12.apk
 ve/de.danielweisser.android.ldapsync_12.apk
+de.danielweisser.android.ldapsync_12.apk
+ve/de.danielweisser.android.ldapsync_12.apk
+de.danielweisser.android.ldapsync_12.apk
+ve/de.danielweisser.android.ldapsync_12.apk
+de.danielweisser.android.ldapsync_12.apk
+ve/de.danielweisser.android.ldapsync_12.apk
+de.danielweisser.android.ldapsync_12.apk
+ve/de.danielweisser.android.ldapsync_12.apk

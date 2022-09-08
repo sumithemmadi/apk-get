@@ -1,3 +1,15 @@
 app.fedilab.mobilizon_1.apk
 app.fedilab.mobilizon_2.apk
 app.fedilab.mobilizon_3.apk
+app.fedilab.mobilizon_1.apk
+app.fedilab.mobilizon_2.apk
+app.fedilab.mobilizon_3.apk
+app.fedilab.mobilizon_1.apk
+app.fedilab.mobilizon_2.apk
+app.fedilab.mobilizon_3.apk
+app.fedilab.mobilizon_1.apk
+app.fedilab.mobilizon_2.apk
+app.fedilab.mobilizon_3.apk
+app.fedilab.mobilizon_1.apk
+app.fedilab.mobilizon_2.apk
+app.fedilab.mobilizon_3.apk

@@ -1,1 +1,5 @@
 com.android.camera2_1.apk
+com.android.camera2_1.apk
+com.android.camera2_1.apk
+com.android.camera2_1.apk
+com.android.camera2_1.apk

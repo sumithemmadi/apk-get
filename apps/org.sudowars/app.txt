@@ -1,1 +1,5 @@
 org.sudowars_2.apk
+org.sudowars_2.apk
+org.sudowars_2.apk
+org.sudowars_2.apk
+org.sudowars_2.apk

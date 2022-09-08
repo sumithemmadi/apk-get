@@ -1,2 +1,10 @@
 com.allansimon.verbisteandroid_1.apk
 com.allansimon.verbisteandroid_2.apk
+com.allansimon.verbisteandroid_1.apk
+com.allansimon.verbisteandroid_2.apk
+com.allansimon.verbisteandroid_1.apk
+com.allansimon.verbisteandroid_2.apk
+com.allansimon.verbisteandroid_1.apk
+com.allansimon.verbisteandroid_2.apk
+com.allansimon.verbisteandroid_1.apk
+com.allansimon.verbisteandroid_2.apk

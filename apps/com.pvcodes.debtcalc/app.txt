@@ -1,2 +1,10 @@
 com.pvcodes.debtcalc_2.apk
 com.pvcodes.debtcalc_3.apk
+com.pvcodes.debtcalc_2.apk
+com.pvcodes.debtcalc_3.apk
+com.pvcodes.debtcalc_2.apk
+com.pvcodes.debtcalc_3.apk
+com.pvcodes.debtcalc_2.apk
+com.pvcodes.debtcalc_3.apk
+com.pvcodes.debtcalc_2.apk
+com.pvcodes.debtcalc_3.apk

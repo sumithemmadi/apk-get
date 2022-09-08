@@ -1,3 +1,15 @@
 com.jmstudios.pointandhit.android_10.apk
 com.jmstudios.pointandhit.android_11.apk
 com.jmstudios.pointandhit.android_12.apk
+com.jmstudios.pointandhit.android_10.apk
+com.jmstudios.pointandhit.android_11.apk
+com.jmstudios.pointandhit.android_12.apk
+com.jmstudios.pointandhit.android_10.apk
+com.jmstudios.pointandhit.android_11.apk
+com.jmstudios.pointandhit.android_12.apk
+com.jmstudios.pointandhit.android_10.apk
+com.jmstudios.pointandhit.android_11.apk
+com.jmstudios.pointandhit.android_12.apk
+com.jmstudios.pointandhit.android_10.apk
+com.jmstudios.pointandhit.android_11.apk
+com.jmstudios.pointandhit.android_12.apk

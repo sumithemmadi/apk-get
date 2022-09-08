@@ -1,2 +1,10 @@
 com.gitlab.terrakok.gitfox_22.apk
 com.gitlab.terrakok.gitfox_609.apk
+com.gitlab.terrakok.gitfox_22.apk
+com.gitlab.terrakok.gitfox_609.apk
+com.gitlab.terrakok.gitfox_22.apk
+com.gitlab.terrakok.gitfox_609.apk
+com.gitlab.terrakok.gitfox_22.apk
+com.gitlab.terrakok.gitfox_609.apk
+com.gitlab.terrakok.gitfox_22.apk
+com.gitlab.terrakok.gitfox_609.apk

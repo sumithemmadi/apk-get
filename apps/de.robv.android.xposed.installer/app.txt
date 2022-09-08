@@ -1,3 +1,15 @@
 de.robv.android.xposed.installer_39.apk
 de.robv.android.xposed.installer_40.apk
 de.robv.android.xposed.installer_43.apk
+de.robv.android.xposed.installer_39.apk
+de.robv.android.xposed.installer_40.apk
+de.robv.android.xposed.installer_43.apk
+de.robv.android.xposed.installer_39.apk
+de.robv.android.xposed.installer_40.apk
+de.robv.android.xposed.installer_43.apk
+de.robv.android.xposed.installer_39.apk
+de.robv.android.xposed.installer_40.apk
+de.robv.android.xposed.installer_43.apk
+de.robv.android.xposed.installer_39.apk
+de.robv.android.xposed.installer_40.apk
+de.robv.android.xposed.installer_43.apk

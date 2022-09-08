@@ -1,2 +1,10 @@
 org.asdtm.fas_2.apk
 org.asdtm.fas_3.apk
+org.asdtm.fas_2.apk
+org.asdtm.fas_3.apk
+org.asdtm.fas_2.apk
+org.asdtm.fas_3.apk
+org.asdtm.fas_2.apk
+org.asdtm.fas_3.apk
+org.asdtm.fas_2.apk
+org.asdtm.fas_3.apk

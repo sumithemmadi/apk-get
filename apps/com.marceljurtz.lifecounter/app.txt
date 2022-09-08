@@ -1,2 +1,10 @@
 com.marceljurtz.lifecounter_10.apk
 com.marceljurtz.lifecounter_15.apk
+com.marceljurtz.lifecounter_10.apk
+com.marceljurtz.lifecounter_15.apk
+com.marceljurtz.lifecounter_10.apk
+com.marceljurtz.lifecounter_15.apk
+com.marceljurtz.lifecounter_10.apk
+com.marceljurtz.lifecounter_15.apk
+com.marceljurtz.lifecounter_10.apk
+com.marceljurtz.lifecounter_15.apk

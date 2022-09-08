@@ -1,2 +1,10 @@
 org.secuso.privacyfriendlyfoodtracker_2.apk
 org.secuso.privacyfriendlyfoodtracker_4.apk
+org.secuso.privacyfriendlyfoodtracker_2.apk
+org.secuso.privacyfriendlyfoodtracker_4.apk
+org.secuso.privacyfriendlyfoodtracker_2.apk
+org.secuso.privacyfriendlyfoodtracker_4.apk
+org.secuso.privacyfriendlyfoodtracker_2.apk
+org.secuso.privacyfriendlyfoodtracker_4.apk
+org.secuso.privacyfriendlyfoodtracker_2.apk
+org.secuso.privacyfriendlyfoodtracker_4.apk

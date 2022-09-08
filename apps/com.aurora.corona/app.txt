@@ -1,3 +1,15 @@
 com.aurora.corona_1.apk
 com.aurora.corona_2.apk
 com.aurora.corona_3.apk
+com.aurora.corona_1.apk
+com.aurora.corona_2.apk
+com.aurora.corona_3.apk
+com.aurora.corona_1.apk
+com.aurora.corona_2.apk
+com.aurora.corona_3.apk
+com.aurora.corona_1.apk
+com.aurora.corona_2.apk
+com.aurora.corona_3.apk
+com.aurora.corona_1.apk
+com.aurora.corona_2.apk
+com.aurora.corona_3.apk

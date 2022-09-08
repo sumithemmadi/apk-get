@@ -1,2 +1,10 @@
 io.github.tiagoshibata.gpsdclient_2.apk
 io.github.tiagoshibata.gpsdclient_5.apk
+io.github.tiagoshibata.gpsdclient_2.apk
+io.github.tiagoshibata.gpsdclient_5.apk
+io.github.tiagoshibata.gpsdclient_2.apk
+io.github.tiagoshibata.gpsdclient_5.apk
+io.github.tiagoshibata.gpsdclient_2.apk
+io.github.tiagoshibata.gpsdclient_5.apk
+io.github.tiagoshibata.gpsdclient_2.apk
+io.github.tiagoshibata.gpsdclient_5.apk

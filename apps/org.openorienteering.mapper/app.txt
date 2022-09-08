@@ -1,2 +1,10 @@
 org.openorienteering.mapper_607.apk
 org.openorienteering.mapper_608.apk
+org.openorienteering.mapper_607.apk
+org.openorienteering.mapper_608.apk
+org.openorienteering.mapper_607.apk
+org.openorienteering.mapper_608.apk
+org.openorienteering.mapper_607.apk
+org.openorienteering.mapper_608.apk
+org.openorienteering.mapper_607.apk
+org.openorienteering.mapper_608.apk

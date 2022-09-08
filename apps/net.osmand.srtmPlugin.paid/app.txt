@@ -1,2 +1,10 @@
 net.osmand.srtmPlugin.paid_6.apk
 net.osmand.srtmPlugin.paid_9.apk
+net.osmand.srtmPlugin.paid_6.apk
+net.osmand.srtmPlugin.paid_9.apk
+net.osmand.srtmPlugin.paid_6.apk
+net.osmand.srtmPlugin.paid_9.apk
+net.osmand.srtmPlugin.paid_6.apk
+net.osmand.srtmPlugin.paid_9.apk
+net.osmand.srtmPlugin.paid_6.apk
+net.osmand.srtmPlugin.paid_9.apk

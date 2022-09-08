@@ -1,2 +1,10 @@
 org.dynamicsoft.caloriescope_2.apk
 org.dynamicsoft.caloriescope_3.apk
+org.dynamicsoft.caloriescope_2.apk
+org.dynamicsoft.caloriescope_3.apk
+org.dynamicsoft.caloriescope_2.apk
+org.dynamicsoft.caloriescope_3.apk
+org.dynamicsoft.caloriescope_2.apk
+org.dynamicsoft.caloriescope_3.apk
+org.dynamicsoft.caloriescope_2.apk
+org.dynamicsoft.caloriescope_3.apk

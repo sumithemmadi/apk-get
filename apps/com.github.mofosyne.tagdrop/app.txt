@@ -1,3 +1,15 @@
 com.github.mofosyne.tagdrop_1.apk
 com.github.mofosyne.tagdrop_3.apk
 com.github.mofosyne.tagdrop_4.apk
+com.github.mofosyne.tagdrop_1.apk
+com.github.mofosyne.tagdrop_3.apk
+com.github.mofosyne.tagdrop_4.apk
+com.github.mofosyne.tagdrop_1.apk
+com.github.mofosyne.tagdrop_3.apk
+com.github.mofosyne.tagdrop_4.apk
+com.github.mofosyne.tagdrop_1.apk
+com.github.mofosyne.tagdrop_3.apk
+com.github.mofosyne.tagdrop_4.apk
+com.github.mofosyne.tagdrop_1.apk
+com.github.mofosyne.tagdrop_3.apk
+com.github.mofosyne.tagdrop_4.apk

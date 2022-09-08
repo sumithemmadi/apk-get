@@ -1,3 +1,15 @@
 org.osmdroid_31.apk
 org.osmdroid_49.apk
 org.osmdroid_50.apk
+org.osmdroid_31.apk
+org.osmdroid_49.apk
+org.osmdroid_50.apk
+org.osmdroid_31.apk
+org.osmdroid_49.apk
+org.osmdroid_50.apk
+org.osmdroid_31.apk
+org.osmdroid_49.apk
+org.osmdroid_50.apk
+org.osmdroid_31.apk
+org.osmdroid_49.apk
+org.osmdroid_50.apk

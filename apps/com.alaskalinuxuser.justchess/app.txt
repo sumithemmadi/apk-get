@@ -1,2 +1,10 @@
 com.alaskalinuxuser.justchess_7.apk
 com.alaskalinuxuser.justchess_10.apk
+com.alaskalinuxuser.justchess_7.apk
+com.alaskalinuxuser.justchess_10.apk
+com.alaskalinuxuser.justchess_7.apk
+com.alaskalinuxuser.justchess_10.apk
+com.alaskalinuxuser.justchess_7.apk
+com.alaskalinuxuser.justchess_10.apk
+com.alaskalinuxuser.justchess_7.apk
+com.alaskalinuxuser.justchess_10.apk

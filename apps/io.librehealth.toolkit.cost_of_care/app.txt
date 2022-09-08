@@ -1,3 +1,15 @@
 io.librehealth.toolkit.cost_of_care_1.apk
 io.librehealth.toolkit.cost_of_care_2.apk
 io.librehealth.toolkit.cost_of_care_3.apk
+io.librehealth.toolkit.cost_of_care_1.apk
+io.librehealth.toolkit.cost_of_care_2.apk
+io.librehealth.toolkit.cost_of_care_3.apk
+io.librehealth.toolkit.cost_of_care_1.apk
+io.librehealth.toolkit.cost_of_care_2.apk
+io.librehealth.toolkit.cost_of_care_3.apk
+io.librehealth.toolkit.cost_of_care_1.apk
+io.librehealth.toolkit.cost_of_care_2.apk
+io.librehealth.toolkit.cost_of_care_3.apk
+io.librehealth.toolkit.cost_of_care_1.apk
+io.librehealth.toolkit.cost_of_care_2.apk
+io.librehealth.toolkit.cost_of_care_3.apk

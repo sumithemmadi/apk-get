@@ -1,2 +1,10 @@
 com.agateau.catgenerator_1.apk
 com.agateau.catgenerator_2.apk
+com.agateau.catgenerator_1.apk
+com.agateau.catgenerator_2.apk
+com.agateau.catgenerator_1.apk
+com.agateau.catgenerator_2.apk
+com.agateau.catgenerator_1.apk
+com.agateau.catgenerator_2.apk
+com.agateau.catgenerator_1.apk
+com.agateau.catgenerator_2.apk

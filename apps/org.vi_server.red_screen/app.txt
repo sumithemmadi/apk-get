@@ -1,2 +1,10 @@
 org.vi_server.red_screen_1.apk
 org.vi_server.red_screen_2.apk
+org.vi_server.red_screen_1.apk
+org.vi_server.red_screen_2.apk
+org.vi_server.red_screen_1.apk
+org.vi_server.red_screen_2.apk
+org.vi_server.red_screen_1.apk
+org.vi_server.red_screen_2.apk
+org.vi_server.red_screen_1.apk
+org.vi_server.red_screen_2.apk

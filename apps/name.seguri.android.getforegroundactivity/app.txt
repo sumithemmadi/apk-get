@@ -1,2 +1,10 @@
 name.seguri.android.getforegroundactivity_1.apk
 name.seguri.android.getforegroundactivity_3.apk
+name.seguri.android.getforegroundactivity_1.apk
+name.seguri.android.getforegroundactivity_3.apk
+name.seguri.android.getforegroundactivity_1.apk
+name.seguri.android.getforegroundactivity_3.apk
+name.seguri.android.getforegroundactivity_1.apk
+name.seguri.android.getforegroundactivity_3.apk
+name.seguri.android.getforegroundactivity_1.apk
+name.seguri.android.getforegroundactivity_3.apk

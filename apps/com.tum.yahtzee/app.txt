@@ -1,3 +1,15 @@
 com.tum.yahtzee_1.apk
 com.tum.yahtzee_2.apk
 ve/com.tum.yahtzee_1.apk
+com.tum.yahtzee_1.apk
+com.tum.yahtzee_2.apk
+ve/com.tum.yahtzee_1.apk
+com.tum.yahtzee_1.apk
+com.tum.yahtzee_2.apk
+ve/com.tum.yahtzee_1.apk
+com.tum.yahtzee_1.apk
+com.tum.yahtzee_2.apk
+ve/com.tum.yahtzee_1.apk
+com.tum.yahtzee_1.apk
+com.tum.yahtzee_2.apk
+ve/com.tum.yahtzee_1.apk

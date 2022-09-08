@@ -1,3 +1,15 @@
 com.marcospoerl.simplypace_5.apk
 com.marcospoerl.simplypace_6.apk
 com.marcospoerl.simplypace_7.apk
+com.marcospoerl.simplypace_5.apk
+com.marcospoerl.simplypace_6.apk
+com.marcospoerl.simplypace_7.apk
+com.marcospoerl.simplypace_5.apk
+com.marcospoerl.simplypace_6.apk
+com.marcospoerl.simplypace_7.apk
+com.marcospoerl.simplypace_5.apk
+com.marcospoerl.simplypace_6.apk
+com.marcospoerl.simplypace_7.apk
+com.marcospoerl.simplypace_5.apk
+com.marcospoerl.simplypace_6.apk
+com.marcospoerl.simplypace_7.apk

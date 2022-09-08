@@ -1,3 +1,15 @@
 aws.apps.usbDeviceEnumerator_5.apk
 aws.apps.usbDeviceEnumerator_6.apk
 aws.apps.usbDeviceEnumerator_7.apk
+aws.apps.usbDeviceEnumerator_5.apk
+aws.apps.usbDeviceEnumerator_6.apk
+aws.apps.usbDeviceEnumerator_7.apk
+aws.apps.usbDeviceEnumerator_5.apk
+aws.apps.usbDeviceEnumerator_6.apk
+aws.apps.usbDeviceEnumerator_7.apk
+aws.apps.usbDeviceEnumerator_5.apk
+aws.apps.usbDeviceEnumerator_6.apk
+aws.apps.usbDeviceEnumerator_7.apk
+aws.apps.usbDeviceEnumerator_5.apk
+aws.apps.usbDeviceEnumerator_6.apk
+aws.apps.usbDeviceEnumerator_7.apk

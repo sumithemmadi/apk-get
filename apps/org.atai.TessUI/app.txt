@@ -1,3 +1,15 @@
 org.atai.TessUI_12.apk
 org.atai.TessUI_13.apk
 org.atai.TessUI_16.apk
+org.atai.TessUI_12.apk
+org.atai.TessUI_13.apk
+org.atai.TessUI_16.apk
+org.atai.TessUI_12.apk
+org.atai.TessUI_13.apk
+org.atai.TessUI_16.apk
+org.atai.TessUI_12.apk
+org.atai.TessUI_13.apk
+org.atai.TessUI_16.apk
+org.atai.TessUI_12.apk
+org.atai.TessUI_13.apk
+org.atai.TessUI_16.apk

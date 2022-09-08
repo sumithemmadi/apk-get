@@ -1,2 +1,10 @@
 com.google.android.apps.iosched_19.apk
 ve/com.google.android.apps.iosched_19.apk
+com.google.android.apps.iosched_19.apk
+ve/com.google.android.apps.iosched_19.apk
+com.google.android.apps.iosched_19.apk
+ve/com.google.android.apps.iosched_19.apk
+com.google.android.apps.iosched_19.apk
+ve/com.google.android.apps.iosched_19.apk
+com.google.android.apps.iosched_19.apk
+ve/com.google.android.apps.iosched_19.apk

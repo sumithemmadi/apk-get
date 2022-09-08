@@ -1,3 +1,15 @@
 org.janb.shoppinglist_1.apk
 org.janb.shoppinglist_2.apk
 org.janb.shoppinglist_4.apk
+org.janb.shoppinglist_1.apk
+org.janb.shoppinglist_2.apk
+org.janb.shoppinglist_4.apk
+org.janb.shoppinglist_1.apk
+org.janb.shoppinglist_2.apk
+org.janb.shoppinglist_4.apk
+org.janb.shoppinglist_1.apk
+org.janb.shoppinglist_2.apk
+org.janb.shoppinglist_4.apk
+org.janb.shoppinglist_1.apk
+org.janb.shoppinglist_2.apk
+org.janb.shoppinglist_4.apk

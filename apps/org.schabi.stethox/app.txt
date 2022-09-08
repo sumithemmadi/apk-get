@@ -1,2 +1,10 @@
 org.schabi.stethox_1.apk
 org.schabi.stethox_2.apk
+org.schabi.stethox_1.apk
+org.schabi.stethox_2.apk
+org.schabi.stethox_1.apk
+org.schabi.stethox_2.apk
+org.schabi.stethox_1.apk
+org.schabi.stethox_2.apk
+org.schabi.stethox_1.apk
+org.schabi.stethox_2.apk

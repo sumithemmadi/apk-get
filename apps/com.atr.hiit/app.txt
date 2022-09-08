@@ -1,2 +1,10 @@
 com.atr.hiit_2.apk
 com.atr.hiit_3.apk
+com.atr.hiit_2.apk
+com.atr.hiit_3.apk
+com.atr.hiit_2.apk
+com.atr.hiit_3.apk
+com.atr.hiit_2.apk
+com.atr.hiit_3.apk
+com.atr.hiit_2.apk
+com.atr.hiit_3.apk

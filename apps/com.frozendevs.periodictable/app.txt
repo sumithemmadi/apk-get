@@ -1,3 +1,15 @@
 com.frozendevs.periodictable_2.apk
 com.frozendevs.periodictable_3.apk
 com.frozendevs.periodictable_5.apk
+com.frozendevs.periodictable_2.apk
+com.frozendevs.periodictable_3.apk
+com.frozendevs.periodictable_5.apk
+com.frozendevs.periodictable_2.apk
+com.frozendevs.periodictable_3.apk
+com.frozendevs.periodictable_5.apk
+com.frozendevs.periodictable_2.apk
+com.frozendevs.periodictable_3.apk
+com.frozendevs.periodictable_5.apk
+com.frozendevs.periodictable_2.apk
+com.frozendevs.periodictable_3.apk
+com.frozendevs.periodictable_5.apk

@@ -1,2 +1,10 @@
 com.nutomic.zertman_2.apk
 com.nutomic.zertman_3.apk
+com.nutomic.zertman_2.apk
+com.nutomic.zertman_3.apk
+com.nutomic.zertman_2.apk
+com.nutomic.zertman_3.apk
+com.nutomic.zertman_2.apk
+com.nutomic.zertman_3.apk
+com.nutomic.zertman_2.apk
+com.nutomic.zertman_3.apk

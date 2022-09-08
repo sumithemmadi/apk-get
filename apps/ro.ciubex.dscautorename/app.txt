@@ -1,2 +1,10 @@
 ro.ciubex.dscautorename_90.apk
 ro.ciubex.dscautorename_103.apk
+ro.ciubex.dscautorename_90.apk
+ro.ciubex.dscautorename_103.apk
+ro.ciubex.dscautorename_90.apk
+ro.ciubex.dscautorename_103.apk
+ro.ciubex.dscautorename_90.apk
+ro.ciubex.dscautorename_103.apk
+ro.ciubex.dscautorename_90.apk
+ro.ciubex.dscautorename_103.apk

@@ -1,3 +1,15 @@
 de.determapp.android_4.apk
 de.determapp.android_5.apk
 de.determapp.android_6.apk
+de.determapp.android_4.apk
+de.determapp.android_5.apk
+de.determapp.android_6.apk
+de.determapp.android_4.apk
+de.determapp.android_5.apk
+de.determapp.android_6.apk
+de.determapp.android_4.apk
+de.determapp.android_5.apk
+de.determapp.android_6.apk
+de.determapp.android_4.apk
+de.determapp.android_5.apk
+de.determapp.android_6.apk

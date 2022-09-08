@@ -1,2 +1,10 @@
 org.openintents.notepad_10068.apk
 org.openintents.notepad_10084.apk
+org.openintents.notepad_10068.apk
+org.openintents.notepad_10084.apk
+org.openintents.notepad_10068.apk
+org.openintents.notepad_10084.apk
+org.openintents.notepad_10068.apk
+org.openintents.notepad_10084.apk
+org.openintents.notepad_10068.apk
+org.openintents.notepad_10084.apk

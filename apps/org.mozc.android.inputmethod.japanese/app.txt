@@ -1,2 +1,10 @@
 org.mozc.android.inputmethod.japanese_6028152.apk
 org.mozc.android.inputmethod.japanese_6028153.apk
+org.mozc.android.inputmethod.japanese_6028152.apk
+org.mozc.android.inputmethod.japanese_6028153.apk
+org.mozc.android.inputmethod.japanese_6028152.apk
+org.mozc.android.inputmethod.japanese_6028153.apk
+org.mozc.android.inputmethod.japanese_6028152.apk
+org.mozc.android.inputmethod.japanese_6028153.apk
+org.mozc.android.inputmethod.japanese_6028152.apk
+org.mozc.android.inputmethod.japanese_6028153.apk

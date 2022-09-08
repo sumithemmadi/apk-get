@@ -1,2 +1,10 @@
 com.termux.gui_4.apk
 com.termux.gui_5.apk
+com.termux.gui_4.apk
+com.termux.gui_5.apk
+com.termux.gui_4.apk
+com.termux.gui_5.apk
+com.termux.gui_4.apk
+com.termux.gui_5.apk
+com.termux.gui_4.apk
+com.termux.gui_5.apk

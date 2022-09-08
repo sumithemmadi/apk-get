@@ -1,3 +1,15 @@
 com.gitlab.kreikenbaum.suntime.fdroid_6.apk
 com.gitlab.kreikenbaum.suntime.fdroid_8.apk
 com.gitlab.kreikenbaum.suntime.fdroid_9.apk
+com.gitlab.kreikenbaum.suntime.fdroid_6.apk
+com.gitlab.kreikenbaum.suntime.fdroid_8.apk
+com.gitlab.kreikenbaum.suntime.fdroid_9.apk
+com.gitlab.kreikenbaum.suntime.fdroid_6.apk
+com.gitlab.kreikenbaum.suntime.fdroid_8.apk
+com.gitlab.kreikenbaum.suntime.fdroid_9.apk
+com.gitlab.kreikenbaum.suntime.fdroid_6.apk
+com.gitlab.kreikenbaum.suntime.fdroid_8.apk
+com.gitlab.kreikenbaum.suntime.fdroid_9.apk
+com.gitlab.kreikenbaum.suntime.fdroid_6.apk
+com.gitlab.kreikenbaum.suntime.fdroid_8.apk
+com.gitlab.kreikenbaum.suntime.fdroid_9.apk

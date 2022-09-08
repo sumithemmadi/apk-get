@@ -1,3 +1,15 @@
 com.hobbyone.HashDroid_18.apk
 com.hobbyone.HashDroid_20.apk
 com.hobbyone.HashDroid_24.apk
+com.hobbyone.HashDroid_18.apk
+com.hobbyone.HashDroid_20.apk
+com.hobbyone.HashDroid_24.apk
+com.hobbyone.HashDroid_18.apk
+com.hobbyone.HashDroid_20.apk
+com.hobbyone.HashDroid_24.apk
+com.hobbyone.HashDroid_18.apk
+com.hobbyone.HashDroid_20.apk
+com.hobbyone.HashDroid_24.apk
+com.hobbyone.HashDroid_18.apk
+com.hobbyone.HashDroid_20.apk
+com.hobbyone.HashDroid_24.apk

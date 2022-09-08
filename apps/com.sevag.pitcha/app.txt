@@ -1,3 +1,15 @@
 com.sevag.pitcha_2.apk
 com.sevag.pitcha_3.apk
 com.sevag.pitcha_4.apk
+com.sevag.pitcha_2.apk
+com.sevag.pitcha_3.apk
+com.sevag.pitcha_4.apk
+com.sevag.pitcha_2.apk
+com.sevag.pitcha_3.apk
+com.sevag.pitcha_4.apk
+com.sevag.pitcha_2.apk
+com.sevag.pitcha_3.apk
+com.sevag.pitcha_4.apk
+com.sevag.pitcha_2.apk
+com.sevag.pitcha_3.apk
+com.sevag.pitcha_4.apk

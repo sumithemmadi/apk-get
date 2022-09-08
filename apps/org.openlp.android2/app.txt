@@ -1,2 +1,10 @@
 org.openlp.android2_5.apk
 org.openlp.android2_6.apk
+org.openlp.android2_5.apk
+org.openlp.android2_6.apk
+org.openlp.android2_5.apk
+org.openlp.android2_6.apk
+org.openlp.android2_5.apk
+org.openlp.android2_6.apk
+org.openlp.android2_5.apk
+org.openlp.android2_6.apk

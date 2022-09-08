@@ -1,2 +1,10 @@
 net.opendasharchive.openarchive.release_16.apk
 net.opendasharchive.openarchive.release_17.apk
+net.opendasharchive.openarchive.release_16.apk
+net.opendasharchive.openarchive.release_17.apk
+net.opendasharchive.openarchive.release_16.apk
+net.opendasharchive.openarchive.release_17.apk
+net.opendasharchive.openarchive.release_16.apk
+net.opendasharchive.openarchive.release_17.apk
+net.opendasharchive.openarchive.release_16.apk
+net.opendasharchive.openarchive.release_17.apk

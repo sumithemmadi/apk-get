@@ -1,2 +1,10 @@
 org.materialos.icons_7.apk
 org.materialos.icons_10.apk
+org.materialos.icons_7.apk
+org.materialos.icons_10.apk
+org.materialos.icons_7.apk
+org.materialos.icons_10.apk
+org.materialos.icons_7.apk
+org.materialos.icons_10.apk
+org.materialos.icons_7.apk
+org.materialos.icons_10.apk

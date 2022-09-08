@@ -1,2 +1,10 @@
 com.fairphone.clock_2.apk
 com.fairphone.clock_3.apk
+com.fairphone.clock_2.apk
+com.fairphone.clock_3.apk
+com.fairphone.clock_2.apk
+com.fairphone.clock_3.apk
+com.fairphone.clock_2.apk
+com.fairphone.clock_3.apk
+com.fairphone.clock_2.apk
+com.fairphone.clock_3.apk

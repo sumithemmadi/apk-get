@@ -1,3 +1,15 @@
 org.schabi.jedentageinset_10.apk
 org.schabi.jedentageinset_20.apk
 org.schabi.jedentageinset_30.apk
+org.schabi.jedentageinset_10.apk
+org.schabi.jedentageinset_20.apk
+org.schabi.jedentageinset_30.apk
+org.schabi.jedentageinset_10.apk
+org.schabi.jedentageinset_20.apk
+org.schabi.jedentageinset_30.apk
+org.schabi.jedentageinset_10.apk
+org.schabi.jedentageinset_20.apk
+org.schabi.jedentageinset_30.apk
+org.schabi.jedentageinset_10.apk
+org.schabi.jedentageinset_20.apk
+org.schabi.jedentageinset_30.apk

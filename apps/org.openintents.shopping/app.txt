@@ -1,3 +1,15 @@
 org.openintents.shopping_100203.apk
 org.openintents.shopping_100213.apk
 org.openintents.shopping_100221.apk
+org.openintents.shopping_100203.apk
+org.openintents.shopping_100213.apk
+org.openintents.shopping_100221.apk
+org.openintents.shopping_100203.apk
+org.openintents.shopping_100213.apk
+org.openintents.shopping_100221.apk
+org.openintents.shopping_100203.apk
+org.openintents.shopping_100213.apk
+org.openintents.shopping_100221.apk
+org.openintents.shopping_100203.apk
+org.openintents.shopping_100213.apk
+org.openintents.shopping_100221.apk

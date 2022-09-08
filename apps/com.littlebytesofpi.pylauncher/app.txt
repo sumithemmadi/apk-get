@@ -1,2 +1,10 @@
 com.littlebytesofpi.pylauncher_4.apk
 com.littlebytesofpi.pylauncher_5.apk
+com.littlebytesofpi.pylauncher_4.apk
+com.littlebytesofpi.pylauncher_5.apk
+com.littlebytesofpi.pylauncher_4.apk
+com.littlebytesofpi.pylauncher_5.apk
+com.littlebytesofpi.pylauncher_4.apk
+com.littlebytesofpi.pylauncher_5.apk
+com.littlebytesofpi.pylauncher_4.apk
+com.littlebytesofpi.pylauncher_5.apk

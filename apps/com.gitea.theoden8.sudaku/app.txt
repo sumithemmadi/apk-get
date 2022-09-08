@@ -1,3 +1,15 @@
 com.gitea.theoden8.sudaku_2.apk
 com.gitea.theoden8.sudaku_6.apk
 com.gitea.theoden8.sudaku_7.apk
+com.gitea.theoden8.sudaku_2.apk
+com.gitea.theoden8.sudaku_6.apk
+com.gitea.theoden8.sudaku_7.apk
+com.gitea.theoden8.sudaku_2.apk
+com.gitea.theoden8.sudaku_6.apk
+com.gitea.theoden8.sudaku_7.apk
+com.gitea.theoden8.sudaku_2.apk
+com.gitea.theoden8.sudaku_6.apk
+com.gitea.theoden8.sudaku_7.apk
+com.gitea.theoden8.sudaku_2.apk
+com.gitea.theoden8.sudaku_6.apk
+com.gitea.theoden8.sudaku_7.apk

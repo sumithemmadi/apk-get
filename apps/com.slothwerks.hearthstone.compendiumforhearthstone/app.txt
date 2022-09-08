@@ -1,2 +1,10 @@
 com.slothwerks.hearthstone.compendiumforhearthstone_1.apk
 com.slothwerks.hearthstone.compendiumforhearthstone_2.apk
+com.slothwerks.hearthstone.compendiumforhearthstone_1.apk
+com.slothwerks.hearthstone.compendiumforhearthstone_2.apk
+com.slothwerks.hearthstone.compendiumforhearthstone_1.apk
+com.slothwerks.hearthstone.compendiumforhearthstone_2.apk
+com.slothwerks.hearthstone.compendiumforhearthstone_1.apk
+com.slothwerks.hearthstone.compendiumforhearthstone_2.apk
+com.slothwerks.hearthstone.compendiumforhearthstone_1.apk
+com.slothwerks.hearthstone.compendiumforhearthstone_2.apk

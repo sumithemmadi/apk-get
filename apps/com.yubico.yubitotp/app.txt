@@ -1,3 +1,15 @@
 com.yubico.yubitotp_4.apk
 com.yubico.yubitotp_6.apk
 ve/com.yubico.yubitotp_4.apk
+com.yubico.yubitotp_4.apk
+com.yubico.yubitotp_6.apk
+ve/com.yubico.yubitotp_4.apk
+com.yubico.yubitotp_4.apk
+com.yubico.yubitotp_6.apk
+ve/com.yubico.yubitotp_4.apk
+com.yubico.yubitotp_4.apk
+com.yubico.yubitotp_6.apk
+ve/com.yubico.yubitotp_4.apk
+com.yubico.yubitotp_4.apk
+com.yubico.yubitotp_6.apk
+ve/com.yubico.yubitotp_4.apk

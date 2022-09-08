@@ -1,1 +1,5 @@
 org.kde.ktrip_1.apk
+org.kde.ktrip_1.apk
+org.kde.ktrip_1.apk
+org.kde.ktrip_1.apk
+org.kde.ktrip_1.apk

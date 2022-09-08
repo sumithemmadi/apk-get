@@ -1,2 +1,10 @@
 org.legtux.m_316k.fortune_1.apk
 org.legtux.m_316k.fortune_2.apk
+org.legtux.m_316k.fortune_1.apk
+org.legtux.m_316k.fortune_2.apk
+org.legtux.m_316k.fortune_1.apk
+org.legtux.m_316k.fortune_2.apk
+org.legtux.m_316k.fortune_1.apk
+org.legtux.m_316k.fortune_2.apk
+org.legtux.m_316k.fortune_1.apk
+org.legtux.m_316k.fortune_2.apk

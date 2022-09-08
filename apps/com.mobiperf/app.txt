@@ -1,3 +1,15 @@
 com.mobiperf_101.apk
 com.mobiperf_1042.apk
 com.mobiperf_1050.apk
+com.mobiperf_101.apk
+com.mobiperf_1042.apk
+com.mobiperf_1050.apk
+com.mobiperf_101.apk
+com.mobiperf_1042.apk
+com.mobiperf_1050.apk
+com.mobiperf_101.apk
+com.mobiperf_1042.apk
+com.mobiperf_1050.apk
+com.mobiperf_101.apk
+com.mobiperf_1042.apk
+com.mobiperf_1050.apk

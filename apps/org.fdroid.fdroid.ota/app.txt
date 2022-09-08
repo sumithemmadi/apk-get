@@ -1,2 +1,10 @@
 org.fdroid.fdroid.ota_1000013.zip
 org.fdroid.fdroid.ota_1001050.zip
+org.fdroid.fdroid.ota_1000013.zip
+org.fdroid.fdroid.ota_1001050.zip
+org.fdroid.fdroid.ota_1000013.zip
+org.fdroid.fdroid.ota_1001050.zip
+org.fdroid.fdroid.ota_1000013.zip
+org.fdroid.fdroid.ota_1001050.zip
+org.fdroid.fdroid.ota_1000013.zip
+org.fdroid.fdroid.ota_1001050.zip

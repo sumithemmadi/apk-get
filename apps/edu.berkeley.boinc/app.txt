@@ -1,2 +1,10 @@
 edu.berkeley.boinc_71616.apk
 edu.berkeley.boinc_71801.apk
+edu.berkeley.boinc_71616.apk
+edu.berkeley.boinc_71801.apk
+edu.berkeley.boinc_71616.apk
+edu.berkeley.boinc_71801.apk
+edu.berkeley.boinc_71616.apk
+edu.berkeley.boinc_71801.apk
+edu.berkeley.boinc_71616.apk
+edu.berkeley.boinc_71801.apk

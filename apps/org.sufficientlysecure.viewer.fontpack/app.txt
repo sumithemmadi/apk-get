@@ -1,3 +1,15 @@
 org.sufficientlysecure.viewer.fontpack_2100.apk
 org.sufficientlysecure.viewer.fontpack_2200.apk
 org.sufficientlysecure.viewer.fontpack_2300.apk
+org.sufficientlysecure.viewer.fontpack_2100.apk
+org.sufficientlysecure.viewer.fontpack_2200.apk
+org.sufficientlysecure.viewer.fontpack_2300.apk
+org.sufficientlysecure.viewer.fontpack_2100.apk
+org.sufficientlysecure.viewer.fontpack_2200.apk
+org.sufficientlysecure.viewer.fontpack_2300.apk
+org.sufficientlysecure.viewer.fontpack_2100.apk
+org.sufficientlysecure.viewer.fontpack_2200.apk
+org.sufficientlysecure.viewer.fontpack_2300.apk
+org.sufficientlysecure.viewer.fontpack_2100.apk
+org.sufficientlysecure.viewer.fontpack_2200.apk
+org.sufficientlysecure.viewer.fontpack_2300.apk

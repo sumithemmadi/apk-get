@@ -1,2 +1,10 @@
 com.googlecode.android.wifi.tether_38.apk
 ve/com.googlecode.android.wifi.tether_38.apk
+com.googlecode.android.wifi.tether_38.apk
+ve/com.googlecode.android.wifi.tether_38.apk
+com.googlecode.android.wifi.tether_38.apk
+ve/com.googlecode.android.wifi.tether_38.apk
+com.googlecode.android.wifi.tether_38.apk
+ve/com.googlecode.android.wifi.tether_38.apk
+com.googlecode.android.wifi.tether_38.apk
+ve/com.googlecode.android.wifi.tether_38.apk

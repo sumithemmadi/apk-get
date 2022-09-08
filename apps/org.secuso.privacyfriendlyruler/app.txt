@@ -1,3 +1,15 @@
 org.secuso.privacyfriendlyruler_1.apk
 org.secuso.privacyfriendlyruler_2.apk
 org.secuso.privacyfriendlyruler_3.apk
+org.secuso.privacyfriendlyruler_1.apk
+org.secuso.privacyfriendlyruler_2.apk
+org.secuso.privacyfriendlyruler_3.apk
+org.secuso.privacyfriendlyruler_1.apk
+org.secuso.privacyfriendlyruler_2.apk
+org.secuso.privacyfriendlyruler_3.apk
+org.secuso.privacyfriendlyruler_1.apk
+org.secuso.privacyfriendlyruler_2.apk
+org.secuso.privacyfriendlyruler_3.apk
+org.secuso.privacyfriendlyruler_1.apk
+org.secuso.privacyfriendlyruler_2.apk
+org.secuso.privacyfriendlyruler_3.apk

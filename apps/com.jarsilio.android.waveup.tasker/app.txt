@@ -1,3 +1,15 @@
 com.jarsilio.android.waveup.tasker_3.apk
 com.jarsilio.android.waveup.tasker_4.apk
 com.jarsilio.android.waveup.tasker_5.apk
+com.jarsilio.android.waveup.tasker_3.apk
+com.jarsilio.android.waveup.tasker_4.apk
+com.jarsilio.android.waveup.tasker_5.apk
+com.jarsilio.android.waveup.tasker_3.apk
+com.jarsilio.android.waveup.tasker_4.apk
+com.jarsilio.android.waveup.tasker_5.apk
+com.jarsilio.android.waveup.tasker_3.apk
+com.jarsilio.android.waveup.tasker_4.apk
+com.jarsilio.android.waveup.tasker_5.apk
+com.jarsilio.android.waveup.tasker_3.apk
+com.jarsilio.android.waveup.tasker_4.apk
+com.jarsilio.android.waveup.tasker_5.apk

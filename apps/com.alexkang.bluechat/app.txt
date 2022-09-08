@@ -1,2 +1,10 @@
 com.alexkang.bluechat_1.apk
 com.alexkang.bluechat_2.apk
+com.alexkang.bluechat_1.apk
+com.alexkang.bluechat_2.apk
+com.alexkang.bluechat_1.apk
+com.alexkang.bluechat_2.apk
+com.alexkang.bluechat_1.apk
+com.alexkang.bluechat_2.apk
+com.alexkang.bluechat_1.apk
+com.alexkang.bluechat_2.apk

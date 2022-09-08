@@ -1,3 +1,15 @@
 com.dozingcatsoftware.dodge_8.apk
 com.dozingcatsoftware.dodge_10.apk
 ve/com.dozingcatsoftware.dodge_8.apk
+com.dozingcatsoftware.dodge_8.apk
+com.dozingcatsoftware.dodge_10.apk
+ve/com.dozingcatsoftware.dodge_8.apk
+com.dozingcatsoftware.dodge_8.apk
+com.dozingcatsoftware.dodge_10.apk
+ve/com.dozingcatsoftware.dodge_8.apk
+com.dozingcatsoftware.dodge_8.apk
+com.dozingcatsoftware.dodge_10.apk
+ve/com.dozingcatsoftware.dodge_8.apk
+com.dozingcatsoftware.dodge_8.apk
+com.dozingcatsoftware.dodge_10.apk
+ve/com.dozingcatsoftware.dodge_8.apk

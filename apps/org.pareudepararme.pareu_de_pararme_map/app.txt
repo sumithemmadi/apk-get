@@ -1,2 +1,10 @@
 org.pareudepararme.pareu_de_pararme_map_2.apk
 org.pareudepararme.pareu_de_pararme_map_4.apk
+org.pareudepararme.pareu_de_pararme_map_2.apk
+org.pareudepararme.pareu_de_pararme_map_4.apk
+org.pareudepararme.pareu_de_pararme_map_2.apk
+org.pareudepararme.pareu_de_pararme_map_4.apk
+org.pareudepararme.pareu_de_pararme_map_2.apk
+org.pareudepararme.pareu_de_pararme_map_4.apk
+org.pareudepararme.pareu_de_pararme_map_2.apk
+org.pareudepararme.pareu_de_pararme_map_4.apk

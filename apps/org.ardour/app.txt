@@ -1,2 +1,10 @@
 org.ardour_1.apk
 ve/org.ardour_1.apk
+org.ardour_1.apk
+ve/org.ardour_1.apk
+org.ardour_1.apk
+ve/org.ardour_1.apk
+org.ardour_1.apk
+ve/org.ardour_1.apk
+org.ardour_1.apk
+ve/org.ardour_1.apk

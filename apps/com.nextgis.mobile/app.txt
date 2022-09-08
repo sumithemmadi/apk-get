@@ -1,2 +1,10 @@
 com.nextgis.mobile_13.apk
 com.nextgis.mobile_16.apk
+com.nextgis.mobile_13.apk
+com.nextgis.mobile_16.apk
+com.nextgis.mobile_13.apk
+com.nextgis.mobile_16.apk
+com.nextgis.mobile_13.apk
+com.nextgis.mobile_16.apk
+com.nextgis.mobile_13.apk
+com.nextgis.mobile_16.apk

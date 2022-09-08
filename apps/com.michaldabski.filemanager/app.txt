@@ -1,3 +1,15 @@
 com.michaldabski.filemanager_5.apk
 com.michaldabski.filemanager_6.apk
 com.michaldabski.filemanager_7.apk
+com.michaldabski.filemanager_5.apk
+com.michaldabski.filemanager_6.apk
+com.michaldabski.filemanager_7.apk
+com.michaldabski.filemanager_5.apk
+com.michaldabski.filemanager_6.apk
+com.michaldabski.filemanager_7.apk
+com.michaldabski.filemanager_5.apk
+com.michaldabski.filemanager_6.apk
+com.michaldabski.filemanager_7.apk
+com.michaldabski.filemanager_5.apk
+com.michaldabski.filemanager_6.apk
+com.michaldabski.filemanager_7.apk

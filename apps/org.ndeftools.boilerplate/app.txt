@@ -1,1 +1,5 @@
 org.ndeftools.boilerplate_3.apk
+org.ndeftools.boilerplate_3.apk
+org.ndeftools.boilerplate_3.apk
+org.ndeftools.boilerplate_3.apk
+org.ndeftools.boilerplate_3.apk

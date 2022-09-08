@@ -1,3 +1,15 @@
 org.bitbatzen.wlanscanner_1.apk
 org.bitbatzen.wlanscanner_3.apk
 org.bitbatzen.wlanscanner_4.apk
+org.bitbatzen.wlanscanner_1.apk
+org.bitbatzen.wlanscanner_3.apk
+org.bitbatzen.wlanscanner_4.apk
+org.bitbatzen.wlanscanner_1.apk
+org.bitbatzen.wlanscanner_3.apk
+org.bitbatzen.wlanscanner_4.apk
+org.bitbatzen.wlanscanner_1.apk
+org.bitbatzen.wlanscanner_3.apk
+org.bitbatzen.wlanscanner_4.apk
+org.bitbatzen.wlanscanner_1.apk
+org.bitbatzen.wlanscanner_3.apk
+org.bitbatzen.wlanscanner_4.apk

@@ -1,2 +1,10 @@
 io.github.sds100.keymapper.inputmethod.latin_13.apk
 io.github.sds100.keymapper.inputmethod.latin_18.apk
+io.github.sds100.keymapper.inputmethod.latin_13.apk
+io.github.sds100.keymapper.inputmethod.latin_18.apk
+io.github.sds100.keymapper.inputmethod.latin_13.apk
+io.github.sds100.keymapper.inputmethod.latin_18.apk
+io.github.sds100.keymapper.inputmethod.latin_13.apk
+io.github.sds100.keymapper.inputmethod.latin_18.apk
+io.github.sds100.keymapper.inputmethod.latin_13.apk
+io.github.sds100.keymapper.inputmethod.latin_18.apk

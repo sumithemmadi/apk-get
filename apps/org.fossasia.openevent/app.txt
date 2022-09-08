@@ -1,2 +1,10 @@
 org.fossasia.openevent_83.apk
 org.fossasia.openevent_101.apk
+org.fossasia.openevent_83.apk
+org.fossasia.openevent_101.apk
+org.fossasia.openevent_83.apk
+org.fossasia.openevent_101.apk
+org.fossasia.openevent_83.apk
+org.fossasia.openevent_101.apk
+org.fossasia.openevent_83.apk
+org.fossasia.openevent_101.apk

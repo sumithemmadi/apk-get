@@ -1,2 +1,10 @@
 net.taler.wallet.fdroid_8.apk
 net.taler.wallet.fdroid_9.apk
+net.taler.wallet.fdroid_8.apk
+net.taler.wallet.fdroid_9.apk
+net.taler.wallet.fdroid_8.apk
+net.taler.wallet.fdroid_9.apk
+net.taler.wallet.fdroid_8.apk
+net.taler.wallet.fdroid_9.apk
+net.taler.wallet.fdroid_8.apk
+net.taler.wallet.fdroid_9.apk

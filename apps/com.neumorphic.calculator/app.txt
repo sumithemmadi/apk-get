@@ -1,2 +1,10 @@
 com.neumorphic.calculator_1.apk
 com.neumorphic.calculator_2.apk
+com.neumorphic.calculator_1.apk
+com.neumorphic.calculator_2.apk
+com.neumorphic.calculator_1.apk
+com.neumorphic.calculator_2.apk
+com.neumorphic.calculator_1.apk
+com.neumorphic.calculator_2.apk
+com.neumorphic.calculator_1.apk
+com.neumorphic.calculator_2.apk

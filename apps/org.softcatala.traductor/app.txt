@@ -1,3 +1,15 @@
 org.softcatala.traductor_15.apk
 org.softcatala.traductor_19.apk
 org.softcatala.traductor_39.apk
+org.softcatala.traductor_15.apk
+org.softcatala.traductor_19.apk
+org.softcatala.traductor_39.apk
+org.softcatala.traductor_15.apk
+org.softcatala.traductor_19.apk
+org.softcatala.traductor_39.apk
+org.softcatala.traductor_15.apk
+org.softcatala.traductor_19.apk
+org.softcatala.traductor_39.apk
+org.softcatala.traductor_15.apk
+org.softcatala.traductor_19.apk
+org.softcatala.traductor_39.apk

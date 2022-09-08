@@ -1,3 +1,15 @@
 com.googlecode.gogodroid_13.apk
 com.googlecode.gogodroid_20.apk
 com.googlecode.gogodroid_21.apk
+com.googlecode.gogodroid_13.apk
+com.googlecode.gogodroid_20.apk
+com.googlecode.gogodroid_21.apk
+com.googlecode.gogodroid_13.apk
+com.googlecode.gogodroid_20.apk
+com.googlecode.gogodroid_21.apk
+com.googlecode.gogodroid_13.apk
+com.googlecode.gogodroid_20.apk
+com.googlecode.gogodroid_21.apk
+com.googlecode.gogodroid_13.apk
+com.googlecode.gogodroid_20.apk
+com.googlecode.gogodroid_21.apk

@@ -1,3 +1,15 @@
 com.secuso.torchlight2_2.apk
 com.secuso.torchlight2_3.apk
 com.secuso.torchlight2_4.apk
+com.secuso.torchlight2_2.apk
+com.secuso.torchlight2_3.apk
+com.secuso.torchlight2_4.apk
+com.secuso.torchlight2_2.apk
+com.secuso.torchlight2_3.apk
+com.secuso.torchlight2_4.apk
+com.secuso.torchlight2_2.apk
+com.secuso.torchlight2_3.apk
+com.secuso.torchlight2_4.apk
+com.secuso.torchlight2_2.apk
+com.secuso.torchlight2_3.apk
+com.secuso.torchlight2_4.apk

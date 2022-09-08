@@ -1,2 +1,10 @@
 edu.rit.csh.devin_2.apk
 edu.rit.csh.devin_3.apk
+edu.rit.csh.devin_2.apk
+edu.rit.csh.devin_3.apk
+edu.rit.csh.devin_2.apk
+edu.rit.csh.devin_3.apk
+edu.rit.csh.devin_2.apk
+edu.rit.csh.devin_3.apk
+edu.rit.csh.devin_2.apk
+edu.rit.csh.devin_3.apk

@@ -1,3 +1,15 @@
 com.coinbase.android_7.apk
 com.coinbase.android_9.apk
 com.coinbase.android_15.apk
+com.coinbase.android_7.apk
+com.coinbase.android_9.apk
+com.coinbase.android_15.apk
+com.coinbase.android_7.apk
+com.coinbase.android_9.apk
+com.coinbase.android_15.apk
+com.coinbase.android_7.apk
+com.coinbase.android_9.apk
+com.coinbase.android_15.apk
+com.coinbase.android_7.apk
+com.coinbase.android_9.apk
+com.coinbase.android_15.apk

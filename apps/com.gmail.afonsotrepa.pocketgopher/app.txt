@@ -1,3 +1,15 @@
 com.gmail.afonsotrepa.pocketgopher_1.apk
 com.gmail.afonsotrepa.pocketgopher_2.apk
 com.gmail.afonsotrepa.pocketgopher_3.apk
+com.gmail.afonsotrepa.pocketgopher_1.apk
+com.gmail.afonsotrepa.pocketgopher_2.apk
+com.gmail.afonsotrepa.pocketgopher_3.apk
+com.gmail.afonsotrepa.pocketgopher_1.apk
+com.gmail.afonsotrepa.pocketgopher_2.apk
+com.gmail.afonsotrepa.pocketgopher_3.apk
+com.gmail.afonsotrepa.pocketgopher_1.apk
+com.gmail.afonsotrepa.pocketgopher_2.apk
+com.gmail.afonsotrepa.pocketgopher_3.apk
+com.gmail.afonsotrepa.pocketgopher_1.apk
+com.gmail.afonsotrepa.pocketgopher_2.apk
+com.gmail.afonsotrepa.pocketgopher_3.apk

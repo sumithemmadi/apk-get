@@ -1,2 +1,10 @@
 com.antonok.warpclock_1.apk
 com.antonok.warpclock_2.apk
+com.antonok.warpclock_1.apk
+com.antonok.warpclock_2.apk
+com.antonok.warpclock_1.apk
+com.antonok.warpclock_2.apk
+com.antonok.warpclock_1.apk
+com.antonok.warpclock_2.apk
+com.antonok.warpclock_1.apk
+com.antonok.warpclock_2.apk

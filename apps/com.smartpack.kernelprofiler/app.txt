@@ -1,2 +1,10 @@
 com.smartpack.kernelprofiler_12.apk
 com.smartpack.kernelprofiler_13.apk
+com.smartpack.kernelprofiler_12.apk
+com.smartpack.kernelprofiler_13.apk
+com.smartpack.kernelprofiler_12.apk
+com.smartpack.kernelprofiler_13.apk
+com.smartpack.kernelprofiler_12.apk
+com.smartpack.kernelprofiler_13.apk
+com.smartpack.kernelprofiler_12.apk
+com.smartpack.kernelprofiler_13.apk

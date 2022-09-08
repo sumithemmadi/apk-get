@@ -1,2 +1,10 @@
 com.github.grimpy.botifier_14.apk
 com.github.grimpy.botifier_16.apk
+com.github.grimpy.botifier_14.apk
+com.github.grimpy.botifier_16.apk
+com.github.grimpy.botifier_14.apk
+com.github.grimpy.botifier_16.apk
+com.github.grimpy.botifier_14.apk
+com.github.grimpy.botifier_16.apk
+com.github.grimpy.botifier_14.apk
+com.github.grimpy.botifier_16.apk

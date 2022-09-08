@@ -1,2 +1,10 @@
 org.ligi.etheremote_1.apk
 org.ligi.etheremote_2.apk
+org.ligi.etheremote_1.apk
+org.ligi.etheremote_2.apk
+org.ligi.etheremote_1.apk
+org.ligi.etheremote_2.apk
+org.ligi.etheremote_1.apk
+org.ligi.etheremote_2.apk
+org.ligi.etheremote_1.apk
+org.ligi.etheremote_2.apk

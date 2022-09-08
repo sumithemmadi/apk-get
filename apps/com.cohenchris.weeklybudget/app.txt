@@ -1,3 +1,15 @@
 com.cohenchris.weeklybudget_4.apk
 com.cohenchris.weeklybudget_5.apk
 com.cohenchris.weeklybudget_6.apk
+com.cohenchris.weeklybudget_4.apk
+com.cohenchris.weeklybudget_5.apk
+com.cohenchris.weeklybudget_6.apk
+com.cohenchris.weeklybudget_4.apk
+com.cohenchris.weeklybudget_5.apk
+com.cohenchris.weeklybudget_6.apk
+com.cohenchris.weeklybudget_4.apk
+com.cohenchris.weeklybudget_5.apk
+com.cohenchris.weeklybudget_6.apk
+com.cohenchris.weeklybudget_4.apk
+com.cohenchris.weeklybudget_5.apk
+com.cohenchris.weeklybudget_6.apk

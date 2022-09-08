@@ -1,3 +1,15 @@
 com.sigmarelax.doitoscihub_1.apk
 com.sigmarelax.doitoscihub_2.apk
 com.sigmarelax.doitoscihub_3.apk
+com.sigmarelax.doitoscihub_1.apk
+com.sigmarelax.doitoscihub_2.apk
+com.sigmarelax.doitoscihub_3.apk
+com.sigmarelax.doitoscihub_1.apk
+com.sigmarelax.doitoscihub_2.apk
+com.sigmarelax.doitoscihub_3.apk
+com.sigmarelax.doitoscihub_1.apk
+com.sigmarelax.doitoscihub_2.apk
+com.sigmarelax.doitoscihub_3.apk
+com.sigmarelax.doitoscihub_1.apk
+com.sigmarelax.doitoscihub_2.apk
+com.sigmarelax.doitoscihub_3.apk

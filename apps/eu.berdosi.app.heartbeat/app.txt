@@ -1,3 +1,15 @@
 eu.berdosi.app.heartbeat_2.apk
 eu.berdosi.app.heartbeat_3.apk
 eu.berdosi.app.heartbeat_5.apk
+eu.berdosi.app.heartbeat_2.apk
+eu.berdosi.app.heartbeat_3.apk
+eu.berdosi.app.heartbeat_5.apk
+eu.berdosi.app.heartbeat_2.apk
+eu.berdosi.app.heartbeat_3.apk
+eu.berdosi.app.heartbeat_5.apk
+eu.berdosi.app.heartbeat_2.apk
+eu.berdosi.app.heartbeat_3.apk
+eu.berdosi.app.heartbeat_5.apk
+eu.berdosi.app.heartbeat_2.apk
+eu.berdosi.app.heartbeat_3.apk
+eu.berdosi.app.heartbeat_5.apk

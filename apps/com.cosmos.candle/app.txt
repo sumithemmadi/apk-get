@@ -1,3 +1,15 @@
 com.cosmos.candle_4.apk
 com.cosmos.candle_5.apk
 com.cosmos.candle_6.apk
+com.cosmos.candle_4.apk
+com.cosmos.candle_5.apk
+com.cosmos.candle_6.apk
+com.cosmos.candle_4.apk
+com.cosmos.candle_5.apk
+com.cosmos.candle_6.apk
+com.cosmos.candle_4.apk
+com.cosmos.candle_5.apk
+com.cosmos.candle_6.apk
+com.cosmos.candle_4.apk
+com.cosmos.candle_5.apk
+com.cosmos.candle_6.apk

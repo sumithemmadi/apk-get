@@ -1,2 +1,10 @@
 org.secuso.privacyfriendlytapemeasure_2.apk
 org.secuso.privacyfriendlytapemeasure_3.apk
+org.secuso.privacyfriendlytapemeasure_2.apk
+org.secuso.privacyfriendlytapemeasure_3.apk
+org.secuso.privacyfriendlytapemeasure_2.apk
+org.secuso.privacyfriendlytapemeasure_3.apk
+org.secuso.privacyfriendlytapemeasure_2.apk
+org.secuso.privacyfriendlytapemeasure_3.apk
+org.secuso.privacyfriendlytapemeasure_2.apk
+org.secuso.privacyfriendlytapemeasure_3.apk

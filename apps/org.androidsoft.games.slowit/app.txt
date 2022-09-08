@@ -1,2 +1,10 @@
 org.androidsoft.games.slowit_10.apk
 org.androidsoft.games.slowit_11.apk
+org.androidsoft.games.slowit_10.apk
+org.androidsoft.games.slowit_11.apk
+org.androidsoft.games.slowit_10.apk
+org.androidsoft.games.slowit_11.apk
+org.androidsoft.games.slowit_10.apk
+org.androidsoft.games.slowit_11.apk
+org.androidsoft.games.slowit_10.apk
+org.androidsoft.games.slowit_11.apk

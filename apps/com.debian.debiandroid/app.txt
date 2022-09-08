@@ -1,1 +1,5 @@
 com.debian.debiandroid_2.apk
+com.debian.debiandroid_2.apk
+com.debian.debiandroid_2.apk
+com.debian.debiandroid_2.apk
+com.debian.debiandroid_2.apk

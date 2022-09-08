@@ -1,2 +1,10 @@
 org.sensors2.pd_1.apk
 org.sensors2.pd_2.apk
+org.sensors2.pd_1.apk
+org.sensors2.pd_2.apk
+org.sensors2.pd_1.apk
+org.sensors2.pd_2.apk
+org.sensors2.pd_1.apk
+org.sensors2.pd_2.apk
+org.sensors2.pd_1.apk
+org.sensors2.pd_2.apk

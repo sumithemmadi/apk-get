@@ -1,2 +1,10 @@
 com.github.pires.obd.reader_12.apk
 com.github.pires.obd.reader_13.apk
+com.github.pires.obd.reader_12.apk
+com.github.pires.obd.reader_13.apk
+com.github.pires.obd.reader_12.apk
+com.github.pires.obd.reader_13.apk
+com.github.pires.obd.reader_12.apk
+com.github.pires.obd.reader_13.apk
+com.github.pires.obd.reader_12.apk
+com.github.pires.obd.reader_13.apk

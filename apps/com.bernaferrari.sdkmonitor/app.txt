@@ -1,2 +1,10 @@
 com.bernaferrari.sdkmonitor_3.apk
 com.bernaferrari.sdkmonitor_12.apk
+com.bernaferrari.sdkmonitor_3.apk
+com.bernaferrari.sdkmonitor_12.apk
+com.bernaferrari.sdkmonitor_3.apk
+com.bernaferrari.sdkmonitor_12.apk
+com.bernaferrari.sdkmonitor_3.apk
+com.bernaferrari.sdkmonitor_12.apk
+com.bernaferrari.sdkmonitor_3.apk
+com.bernaferrari.sdkmonitor_12.apk

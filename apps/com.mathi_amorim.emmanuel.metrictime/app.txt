@@ -1,3 +1,15 @@
 com.mathi_amorim.emmanuel.metrictime_2.apk
 com.mathi_amorim.emmanuel.metrictime_3.apk
 com.mathi_amorim.emmanuel.metrictime_4.apk
+com.mathi_amorim.emmanuel.metrictime_2.apk
+com.mathi_amorim.emmanuel.metrictime_3.apk
+com.mathi_amorim.emmanuel.metrictime_4.apk
+com.mathi_amorim.emmanuel.metrictime_2.apk
+com.mathi_amorim.emmanuel.metrictime_3.apk
+com.mathi_amorim.emmanuel.metrictime_4.apk
+com.mathi_amorim.emmanuel.metrictime_2.apk
+com.mathi_amorim.emmanuel.metrictime_3.apk
+com.mathi_amorim.emmanuel.metrictime_4.apk
+com.mathi_amorim.emmanuel.metrictime_2.apk
+com.mathi_amorim.emmanuel.metrictime_3.apk
+com.mathi_amorim.emmanuel.metrictime_4.apk

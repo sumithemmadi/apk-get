@@ -1,2 +1,10 @@
 org.androidappdev.batterywidget_13.apk
 ve/org.androidappdev.batterywidget_13.apk
+org.androidappdev.batterywidget_13.apk
+ve/org.androidappdev.batterywidget_13.apk
+org.androidappdev.batterywidget_13.apk
+ve/org.androidappdev.batterywidget_13.apk
+org.androidappdev.batterywidget_13.apk
+ve/org.androidappdev.batterywidget_13.apk
+org.androidappdev.batterywidget_13.apk
+ve/org.androidappdev.batterywidget_13.apk

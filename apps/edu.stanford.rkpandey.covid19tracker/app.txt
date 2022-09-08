@@ -1,2 +1,10 @@
 edu.stanford.rkpandey.covid19tracker_1.apk
 edu.stanford.rkpandey.covid19tracker_2.apk
+edu.stanford.rkpandey.covid19tracker_1.apk
+edu.stanford.rkpandey.covid19tracker_2.apk
+edu.stanford.rkpandey.covid19tracker_1.apk
+edu.stanford.rkpandey.covid19tracker_2.apk
+edu.stanford.rkpandey.covid19tracker_1.apk
+edu.stanford.rkpandey.covid19tracker_2.apk
+edu.stanford.rkpandey.covid19tracker_1.apk
+edu.stanford.rkpandey.covid19tracker_2.apk

@@ -1,3 +1,15 @@
 com.vladrip.drgassistant_1.apk
 com.vladrip.drgassistant_2.apk
 com.vladrip.drgassistant_3.apk
+com.vladrip.drgassistant_1.apk
+com.vladrip.drgassistant_2.apk
+com.vladrip.drgassistant_3.apk
+com.vladrip.drgassistant_1.apk
+com.vladrip.drgassistant_2.apk
+com.vladrip.drgassistant_3.apk
+com.vladrip.drgassistant_1.apk
+com.vladrip.drgassistant_2.apk
+com.vladrip.drgassistant_3.apk
+com.vladrip.drgassistant_1.apk
+com.vladrip.drgassistant_2.apk
+com.vladrip.drgassistant_3.apk

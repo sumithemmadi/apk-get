@@ -1,2 +1,10 @@
 com.releasestandard.scriptmanager_1.apk
 com.releasestandard.scriptmanager_5.apk
+com.releasestandard.scriptmanager_1.apk
+com.releasestandard.scriptmanager_5.apk
+com.releasestandard.scriptmanager_1.apk
+com.releasestandard.scriptmanager_5.apk
+com.releasestandard.scriptmanager_1.apk
+com.releasestandard.scriptmanager_5.apk
+com.releasestandard.scriptmanager_1.apk
+com.releasestandard.scriptmanager_5.apk

@@ -1,3 +1,15 @@
 ca.cmetcalfe.xposed.disablebatterywarnings_1.apk
 ca.cmetcalfe.xposed.disablebatterywarnings_2.apk
 ca.cmetcalfe.xposed.disablebatterywarnings_3.apk
+ca.cmetcalfe.xposed.disablebatterywarnings_1.apk
+ca.cmetcalfe.xposed.disablebatterywarnings_2.apk
+ca.cmetcalfe.xposed.disablebatterywarnings_3.apk
+ca.cmetcalfe.xposed.disablebatterywarnings_1.apk
+ca.cmetcalfe.xposed.disablebatterywarnings_2.apk
+ca.cmetcalfe.xposed.disablebatterywarnings_3.apk
+ca.cmetcalfe.xposed.disablebatterywarnings_1.apk
+ca.cmetcalfe.xposed.disablebatterywarnings_2.apk
+ca.cmetcalfe.xposed.disablebatterywarnings_3.apk
+ca.cmetcalfe.xposed.disablebatterywarnings_1.apk
+ca.cmetcalfe.xposed.disablebatterywarnings_2.apk
+ca.cmetcalfe.xposed.disablebatterywarnings_3.apk

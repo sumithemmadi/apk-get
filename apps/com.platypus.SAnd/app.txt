@@ -1,3 +1,15 @@
 com.platypus.SAnd_1.apk
 com.platypus.SAnd_2.apk
 com.platypus.SAnd_3.apk
+com.platypus.SAnd_1.apk
+com.platypus.SAnd_2.apk
+com.platypus.SAnd_3.apk
+com.platypus.SAnd_1.apk
+com.platypus.SAnd_2.apk
+com.platypus.SAnd_3.apk
+com.platypus.SAnd_1.apk
+com.platypus.SAnd_2.apk
+com.platypus.SAnd_3.apk
+com.platypus.SAnd_1.apk
+com.platypus.SAnd_2.apk
+com.platypus.SAnd_3.apk

@@ -1,3 +1,15 @@
 com.dozingcatsoftware.mouse_pounce_2.apk
 com.dozingcatsoftware.mouse_pounce_3.apk
 com.dozingcatsoftware.mouse_pounce_5.apk
+com.dozingcatsoftware.mouse_pounce_2.apk
+com.dozingcatsoftware.mouse_pounce_3.apk
+com.dozingcatsoftware.mouse_pounce_5.apk
+com.dozingcatsoftware.mouse_pounce_2.apk
+com.dozingcatsoftware.mouse_pounce_3.apk
+com.dozingcatsoftware.mouse_pounce_5.apk
+com.dozingcatsoftware.mouse_pounce_2.apk
+com.dozingcatsoftware.mouse_pounce_3.apk
+com.dozingcatsoftware.mouse_pounce_5.apk
+com.dozingcatsoftware.mouse_pounce_2.apk
+com.dozingcatsoftware.mouse_pounce_3.apk
+com.dozingcatsoftware.mouse_pounce_5.apk

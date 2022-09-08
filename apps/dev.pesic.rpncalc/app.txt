@@ -1,3 +1,15 @@
 dev.pesic.rpncalc_2.apk
 dev.pesic.rpncalc_4.apk
 dev.pesic.rpncalc_7.apk
+dev.pesic.rpncalc_2.apk
+dev.pesic.rpncalc_4.apk
+dev.pesic.rpncalc_7.apk
+dev.pesic.rpncalc_2.apk
+dev.pesic.rpncalc_4.apk
+dev.pesic.rpncalc_7.apk
+dev.pesic.rpncalc_2.apk
+dev.pesic.rpncalc_4.apk
+dev.pesic.rpncalc_7.apk
+dev.pesic.rpncalc_2.apk
+dev.pesic.rpncalc_4.apk
+dev.pesic.rpncalc_7.apk

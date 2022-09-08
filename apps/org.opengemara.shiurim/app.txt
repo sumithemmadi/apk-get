@@ -1,2 +1,10 @@
 org.opengemara.shiurim_2.apk
 org.opengemara.shiurim_4.apk
+org.opengemara.shiurim_2.apk
+org.opengemara.shiurim_4.apk
+org.opengemara.shiurim_2.apk
+org.opengemara.shiurim_4.apk
+org.opengemara.shiurim_2.apk
+org.opengemara.shiurim_4.apk
+org.opengemara.shiurim_2.apk
+org.opengemara.shiurim_4.apk

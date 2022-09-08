@@ -1,2 +1,10 @@
 com.github.niccokunzmann.hanumanchalisa_6.apk
 com.github.niccokunzmann.hanumanchalisa_8.apk
+com.github.niccokunzmann.hanumanchalisa_6.apk
+com.github.niccokunzmann.hanumanchalisa_8.apk
+com.github.niccokunzmann.hanumanchalisa_6.apk
+com.github.niccokunzmann.hanumanchalisa_8.apk
+com.github.niccokunzmann.hanumanchalisa_6.apk
+com.github.niccokunzmann.hanumanchalisa_8.apk
+com.github.niccokunzmann.hanumanchalisa_6.apk
+com.github.niccokunzmann.hanumanchalisa_8.apk

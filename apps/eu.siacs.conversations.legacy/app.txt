@@ -1,3 +1,15 @@
 eu.siacs.conversations.legacy_255.apk
 eu.siacs.conversations.legacy_256.apk
 eu.siacs.conversations.legacy_258.apk
+eu.siacs.conversations.legacy_255.apk
+eu.siacs.conversations.legacy_256.apk
+eu.siacs.conversations.legacy_258.apk
+eu.siacs.conversations.legacy_255.apk
+eu.siacs.conversations.legacy_256.apk
+eu.siacs.conversations.legacy_258.apk
+eu.siacs.conversations.legacy_255.apk
+eu.siacs.conversations.legacy_256.apk
+eu.siacs.conversations.legacy_258.apk
+eu.siacs.conversations.legacy_255.apk
+eu.siacs.conversations.legacy_256.apk
+eu.siacs.conversations.legacy_258.apk

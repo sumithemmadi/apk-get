@@ -1,3 +1,15 @@
 com.evenement.encapsulation_1.apk
 com.evenement.encapsulation_2.apk
 com.evenement.encapsulation_3.apk
+com.evenement.encapsulation_1.apk
+com.evenement.encapsulation_2.apk
+com.evenement.encapsulation_3.apk
+com.evenement.encapsulation_1.apk
+com.evenement.encapsulation_2.apk
+com.evenement.encapsulation_3.apk
+com.evenement.encapsulation_1.apk
+com.evenement.encapsulation_2.apk
+com.evenement.encapsulation_3.apk
+com.evenement.encapsulation_1.apk
+com.evenement.encapsulation_2.apk
+com.evenement.encapsulation_3.apk

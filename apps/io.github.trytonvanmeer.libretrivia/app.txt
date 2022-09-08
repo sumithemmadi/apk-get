@@ -1,3 +1,15 @@
 io.github.trytonvanmeer.libretrivia_1.apk
 io.github.trytonvanmeer.libretrivia_2.apk
 io.github.trytonvanmeer.libretrivia_3.apk
+io.github.trytonvanmeer.libretrivia_1.apk
+io.github.trytonvanmeer.libretrivia_2.apk
+io.github.trytonvanmeer.libretrivia_3.apk
+io.github.trytonvanmeer.libretrivia_1.apk
+io.github.trytonvanmeer.libretrivia_2.apk
+io.github.trytonvanmeer.libretrivia_3.apk
+io.github.trytonvanmeer.libretrivia_1.apk
+io.github.trytonvanmeer.libretrivia_2.apk
+io.github.trytonvanmeer.libretrivia_3.apk
+io.github.trytonvanmeer.libretrivia_1.apk
+io.github.trytonvanmeer.libretrivia_2.apk
+io.github.trytonvanmeer.libretrivia_3.apk

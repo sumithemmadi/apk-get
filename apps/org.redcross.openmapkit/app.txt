@@ -1,1 +1,5 @@
 org.redcross.openmapkit_23.apk
+org.redcross.openmapkit_23.apk
+org.redcross.openmapkit_23.apk
+org.redcross.openmapkit_23.apk
+org.redcross.openmapkit_23.apk
