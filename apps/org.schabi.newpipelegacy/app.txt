@@ -1,0 +1,11 @@
+org.schabi.newpipelegacy_1.apk
+org.schabi.newpipelegacy_10.apk
+org.schabi.newpipelegacy_20.apk
+org.schabi.newpipelegacy_40.apk
+org.schabi.newpipelegacy_41.apk
+org.schabi.newpipelegacy_50.apk
+org.schabi.newpipelegacy_60.apk
+org.schabi.newpipelegacy_90.apk
+org.schabi.newpipelegacy_100.apk
+org.schabi.newpipelegacy_110.apk
+org.schabi.newpipelegacy_120.apk

@@ -1,0 +1,2 @@
+ua.bossly.tools.translit_1.apk
+ua.bossly.tools.translit_3.apk

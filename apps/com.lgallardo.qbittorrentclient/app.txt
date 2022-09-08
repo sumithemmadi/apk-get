@@ -1,0 +1,2 @@
+com.lgallardo.qbittorrentclient_220.apk
+com.lgallardo.qbittorrentclient_370.apk

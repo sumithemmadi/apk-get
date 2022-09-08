@@ -1,0 +1,6 @@
+com.tomer.screenshotsharer_1.apk
+com.tomer.screenshotsharer_4.apk
+com.tomer.screenshotsharer_5.apk
+com.tomer.screenshotsharer_6.apk
+com.tomer.screenshotsharer_8.apk
+com.tomer.screenshotsharer_10.apk

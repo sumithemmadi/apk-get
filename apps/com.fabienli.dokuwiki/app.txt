@@ -1,0 +1,12 @@
+com.fabienli.dokuwiki_52.apk
+com.fabienli.dokuwiki_54.apk
+com.fabienli.dokuwiki_55.apk
+com.fabienli.dokuwiki_58.apk
+com.fabienli.dokuwiki_60.apk
+com.fabienli.dokuwiki_61.apk
+com.fabienli.dokuwiki_62.apk
+com.fabienli.dokuwiki_63.apk
+com.fabienli.dokuwiki_64.apk
+com.fabienli.dokuwiki_65.apk
+com.fabienli.dokuwiki_66.apk
+com.fabienli.dokuwiki_67.apk

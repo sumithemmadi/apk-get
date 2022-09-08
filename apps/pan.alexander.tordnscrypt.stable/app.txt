@@ -1,0 +1,9 @@
+pan.alexander.tordnscrypt.stable_2122.apk
+pan.alexander.tordnscrypt.stable_2125.apk
+pan.alexander.tordnscrypt.stable_2128.apk
+pan.alexander.tordnscrypt.stable_2133.apk
+pan.alexander.tordnscrypt.stable_2137.apk
+pan.alexander.tordnscrypt.stable_2143.apk
+pan.alexander.tordnscrypt.stable_2154.apk
+pan.alexander.tordnscrypt.stable_2162.apk
+pan.alexander.tordnscrypt.stable_2170.apk

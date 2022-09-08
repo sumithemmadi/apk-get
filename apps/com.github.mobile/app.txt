@@ -1,0 +1,17 @@
+com.github.mobile_600.apk
+com.github.mobile_700.apk
+com.github.mobile_900.apk
+com.github.mobile_1000.apk
+com.github.mobile_1100.apk
+com.github.mobile_1300.apk
+com.github.mobile_1400.apk
+com.github.mobile_1500.apk
+com.github.mobile_1700.apk
+com.github.mobile_1800.apk
+com.github.mobile_1900.apk
+ve/com.github.mobile_600.apk
+ve/com.github.mobile_700.apk
+ve/com.github.mobile_900.apk
+ve/com.github.mobile_1000.apk
+ve/com.github.mobile_1100.apk
+ve/com.github.mobile_1300.apk

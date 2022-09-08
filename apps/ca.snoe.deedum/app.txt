@@ -1,0 +1,6 @@
+ca.snoe.deedum_13.apk
+ca.snoe.deedum_16.apk
+ca.snoe.deedum_18.apk
+ca.snoe.deedum_19.apk
+ca.snoe.deedum_20.apk
+ca.snoe.deedum_21.apk

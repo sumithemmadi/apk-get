@@ -1,0 +1,6 @@
+net.foucry.pilldroid_100.apk
+net.foucry.pilldroid_200.apk
+net.foucry.pilldroid_201.apk
+net.foucry.pilldroid_300.apk
+net.foucry.pilldroid_301.apk
+net.foucry.pilldroid_302.apk

@@ -1,0 +1,3 @@
+org.schabi.etherwake_1.apk
+org.schabi.etherwake_2.apk
+org.schabi.etherwake_3.apk

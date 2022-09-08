@@ -1,0 +1,3 @@
+com.xabber.android.classic_103.apk
+com.xabber.android.classic_105.apk
+com.xabber.android.classic_106.apk

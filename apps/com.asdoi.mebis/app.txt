@@ -1,0 +1,2 @@
+com.asdoi.mebis_130.apk
+com.asdoi.mebis_150.apk

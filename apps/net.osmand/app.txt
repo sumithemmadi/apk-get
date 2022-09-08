@@ -1,0 +1,6 @@
+OsmAnd-0.5.1beta-b2.apk
+OsmAnd-0.5.1beta-b3.apk
+net.osmand_25.apk
+net.osmand_26.apk
+ve/OsmAnd-0.5.1beta-b2.apk
+ve/OsmAnd-0.5.1beta-b3.apk

@@ -1,0 +1,2 @@
+io.davidar.tensor_2.apk
+io.davidar.tensor_3.apk

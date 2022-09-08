@@ -1,0 +1,6 @@
+com.simplytranslate_mobile_3.apk
+com.simplytranslate_mobile_4.apk
+com.simplytranslate_mobile_5.apk
+com.simplytranslate_mobile_6.apk
+com.simplytranslate_mobile_7.apk
+com.simplytranslate_mobile_8.apk

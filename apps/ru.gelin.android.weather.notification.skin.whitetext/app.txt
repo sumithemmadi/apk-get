@@ -1,0 +1,11 @@
+ru.gelin.android.weather.notification.skin.whitetext_9.apk
+ru.gelin.android.weather.notification.skin.whitetext_11.apk
+ru.gelin.android.weather.notification.skin.whitetext_12.apk
+ru.gelin.android.weather.notification.skin.whitetext_14.apk
+ru.gelin.android.weather.notification.skin.whitetext_15.apk
+ru.gelin.android.weather.notification.skin.whitetext_17.apk
+ru.gelin.android.weather.notification.skin.whitetext_18.apk
+ve/ru.gelin.android.weather.notification.skin.whitetext_9.apk
+ve/ru.gelin.android.weather.notification.skin.whitetext_11.apk
+ve/ru.gelin.android.weather.notification.skin.whitetext_12.apk
+ve/ru.gelin.android.weather.notification.skin.whitetext_14.apk

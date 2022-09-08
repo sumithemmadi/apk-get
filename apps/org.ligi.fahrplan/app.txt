@@ -1,0 +1,7 @@
+org.ligi.fahrplan_40.apk
+org.ligi.fahrplan_41.apk
+org.ligi.fahrplan_42.apk
+org.ligi.fahrplan_45.apk
+org.ligi.fahrplan_47.apk
+org.ligi.fahrplan_49.apk
+org.ligi.fahrplan_50.apk

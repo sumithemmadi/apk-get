@@ -1,0 +1,3 @@
+com.github.siggel.coordinatejoker_27.apk
+com.github.siggel.coordinatejoker_28.apk
+com.github.siggel.coordinatejoker_31.apk

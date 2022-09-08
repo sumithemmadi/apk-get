@@ -1,0 +1,3 @@
+com.asdoi.quicktiles_12.apk
+com.asdoi.quicktiles_13.apk
+com.asdoi.quicktiles_14.apk

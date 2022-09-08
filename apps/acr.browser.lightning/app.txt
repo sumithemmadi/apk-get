@@ -1,0 +1,15 @@
+acr.browser.lightning_66.apk
+acr.browser.lightning_67.apk
+acr.browser.lightning_68.apk
+acr.browser.lightning_76.apk
+acr.browser.lightning_77.apk
+acr.browser.lightning_78.apk
+acr.browser.lightning_84.apk
+acr.browser.lightning_88.apk
+acr.browser.lightning_89.apk
+acr.browser.lightning_90.apk
+acr.browser.lightning_91.apk
+acr.browser.lightning_95.apk
+acr.browser.lightning_96.apk
+acr.browser.lightning_100.apk
+acr.browser.lightning_101.apk

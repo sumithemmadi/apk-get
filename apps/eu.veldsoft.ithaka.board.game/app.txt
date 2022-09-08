@@ -1,0 +1,5 @@
+eu.veldsoft.ithaka.board.game_1.apk
+eu.veldsoft.ithaka.board.game_2.apk
+eu.veldsoft.ithaka.board.game_4.apk
+eu.veldsoft.ithaka.board.game_5.apk
+eu.veldsoft.ithaka.board.game_6.apk

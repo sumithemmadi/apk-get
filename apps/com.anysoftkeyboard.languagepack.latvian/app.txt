@@ -1,0 +1,2 @@
+com.anysoftkeyboard.languagepack.latvian_100.apk
+com.anysoftkeyboard.languagepack.latvian_2908.apk

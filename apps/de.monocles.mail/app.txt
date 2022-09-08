@@ -1,0 +1,6 @@
+de.monocles.mail_1.apk
+de.monocles.mail_2.apk
+de.monocles.mail_3.apk
+de.monocles.mail_4.apk
+de.monocles.mail_5.apk
+de.monocles.mail_6.apk

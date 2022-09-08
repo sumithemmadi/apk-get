@@ -1,0 +1,6 @@
+de.monocles.browser_1.apk
+de.monocles.browser_2.apk
+de.monocles.browser_3.apk
+de.monocles.browser_5.apk
+de.monocles.browser_6.apk
+de.monocles.browser_7.apk

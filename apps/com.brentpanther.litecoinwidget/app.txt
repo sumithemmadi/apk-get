@@ -1,0 +1,7 @@
+com.brentpanther.litecoinwidget_8.apk
+com.brentpanther.litecoinwidget_9.apk
+com.brentpanther.litecoinwidget_10.apk
+com.brentpanther.litecoinwidget_11.apk
+com.brentpanther.litecoinwidget_12.apk
+com.brentpanther.litecoinwidget_22.apk
+com.brentpanther.litecoinwidget_23.apk

@@ -1,0 +1,6 @@
+eu.domob.anacam_10000.apk
+eu.domob.anacam_10100.apk
+eu.domob.anacam_10200.apk
+ve/eu.domob.anacam_10000.apk
+ve/eu.domob.anacam_10100.apk
+ve/eu.domob.anacam_10200.apk

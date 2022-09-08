@@ -1,0 +1,4 @@
+com.syncedsynapse.kore2_3.apk
+com.syncedsynapse.kore2_4.apk
+com.syncedsynapse.kore2_5.apk
+com.syncedsynapse.kore2_7.apk

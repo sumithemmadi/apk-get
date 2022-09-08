@@ -1,0 +1,12 @@
+org.krita_1040404.apk
+org.krita_1050006.apk
+org.krita_1050008.apk
+org.krita_2040404.apk
+org.krita_2050006.apk
+org.krita_2050008.apk
+org.krita_3040404.apk
+org.krita_3050006.apk
+org.krita_3050008.apk
+org.krita_4040404.apk
+org.krita_4050006.apk
+org.krita_4050008.apk

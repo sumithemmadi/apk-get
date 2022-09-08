@@ -1,0 +1,6 @@
+org.odk.collect.android_1015.apk
+org.odk.collect.android_1020.apk
+org.odk.collect.android_1023.apk
+ve/org.odk.collect.android_1015.apk
+ve/org.odk.collect.android_1020.apk
+ve/org.odk.collect.android_1023.apk

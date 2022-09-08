@@ -1,0 +1,16 @@
+com.poupa.attestationdeplacement_12.apk
+com.poupa.attestationdeplacement_13.apk
+com.poupa.attestationdeplacement_14.apk
+com.poupa.attestationdeplacement_15.apk
+com.poupa.attestationdeplacement_16.apk
+com.poupa.attestationdeplacement_17.apk
+com.poupa.attestationdeplacement_18.apk
+com.poupa.attestationdeplacement_19.apk
+com.poupa.attestationdeplacement_20.apk
+com.poupa.attestationdeplacement_22.apk
+com.poupa.attestationdeplacement_23.apk
+com.poupa.attestationdeplacement_24.apk
+com.poupa.attestationdeplacement_25.apk
+com.poupa.attestationdeplacement_26.apk
+com.poupa.attestationdeplacement_27.apk
+com.poupa.attestationdeplacement_28.apk

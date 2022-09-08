@@ -1,0 +1,5 @@
+com.github.yeriomin.smsscheduler_1.apk
+com.github.yeriomin.smsscheduler_2.apk
+com.github.yeriomin.smsscheduler_3.apk
+com.github.yeriomin.smsscheduler_4.apk
+com.github.yeriomin.smsscheduler_5.apk

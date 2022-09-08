@@ -1,0 +1,7 @@
+com.ghostsq.commander.samba_51.apk
+com.ghostsq.commander.samba_52.apk
+com.ghostsq.commander.samba_57.apk
+com.ghostsq.commander.samba_58.apk
+com.ghostsq.commander.samba_60.apk
+com.ghostsq.commander.samba_62.apk
+com.ghostsq.commander.samba_73.apk

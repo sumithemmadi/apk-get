@@ -1,0 +1,2 @@
+com.googlecode.openwnn.legacy_133.apk
+ve/com.googlecode.openwnn.legacy_133.apk

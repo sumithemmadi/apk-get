@@ -1,0 +1,5 @@
+com.googlecode.gtalksms_64.apk
+com.googlecode.gtalksms_66.apk
+com.googlecode.gtalksms_69.apk
+ve/com.googlecode.gtalksms_64.apk
+ve/com.googlecode.gtalksms_66.apk

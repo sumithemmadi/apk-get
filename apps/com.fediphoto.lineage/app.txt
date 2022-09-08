@@ -1,0 +1,13 @@
+com.fediphoto.lineage_30.apk
+com.fediphoto.lineage_31.apk
+com.fediphoto.lineage_32.apk
+com.fediphoto.lineage_33.apk
+com.fediphoto.lineage_50.apk
+com.fediphoto.lineage_51.apk
+com.fediphoto.lineage_52.apk
+com.fediphoto.lineage_53.apk
+com.fediphoto.lineage_60.apk
+com.fediphoto.lineage_61.apk
+com.fediphoto.lineage_62.apk
+com.fediphoto.lineage_63.apk
+com.fediphoto.lineage_64.apk

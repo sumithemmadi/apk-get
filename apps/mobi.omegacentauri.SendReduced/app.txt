@@ -1,0 +1,14 @@
+mobi.omegacentauri.SendReduced_3.apk
+mobi.omegacentauri.SendReduced_4.apk
+mobi.omegacentauri.SendReduced_5.apk
+mobi.omegacentauri.SendReduced_8.apk
+mobi.omegacentauri.SendReduced_900.apk
+mobi.omegacentauri.SendReduced_1000.apk
+mobi.omegacentauri.SendReduced_1100.apk
+mobi.omegacentauri.SendReduced_1200.apk
+mobi.omegacentauri.SendReduced_1300.apk
+mobi.omegacentauri.SendReduced_1600.apk
+mobi.omegacentauri.SendReduced_2600.apk
+mobi.omegacentauri.SendReduced_2700.apk
+ve/mobi.omegacentauri.SendReduced_3.apk
+ve/mobi.omegacentauri.SendReduced_4.apk

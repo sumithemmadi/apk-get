@@ -1,0 +1,9 @@
+com.dfa.hubzilla_android_38.apk
+com.dfa.hubzilla_android_39.apk
+com.dfa.hubzilla_android_40.apk
+com.dfa.hubzilla_android_41.apk
+com.dfa.hubzilla_android_42.apk
+com.dfa.hubzilla_android_43.apk
+com.dfa.hubzilla_android_44.apk
+com.dfa.hubzilla_android_45.apk
+com.dfa.hubzilla_android_46.apk

@@ -1,0 +1,5 @@
+com.anysoftkeyboard.languagepack.neo_4.apk
+com.anysoftkeyboard.languagepack.neo_5.apk
+com.anysoftkeyboard.languagepack.neo_6.apk
+com.anysoftkeyboard.languagepack.neo_7.apk
+com.anysoftkeyboard.languagepack.neo_8.apk

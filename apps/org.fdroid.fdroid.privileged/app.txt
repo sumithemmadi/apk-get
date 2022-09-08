@@ -1,0 +1,15 @@
+org.fdroid.fdroid.privileged_1000.apk
+org.fdroid.fdroid.privileged_1050.apk
+org.fdroid.fdroid.privileged_2000.apk
+org.fdroid.fdroid.privileged_2020.apk
+org.fdroid.fdroid.privileged_2030.apk
+org.fdroid.fdroid.privileged_2040.apk
+org.fdroid.fdroid.privileged_2050.apk
+org.fdroid.fdroid.privileged_2060.apk
+org.fdroid.fdroid.privileged_2070.apk
+org.fdroid.fdroid.privileged_2080.apk
+org.fdroid.fdroid.privileged_2090.apk
+org.fdroid.fdroid.privileged_2100.apk
+org.fdroid.fdroid.privileged_2110.apk
+org.fdroid.fdroid.privileged_2120.apk
+org.fdroid.fdroid.privileged_2130.apk

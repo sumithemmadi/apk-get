@@ -1,0 +1,7 @@
+org.nv95.openmanga_102.apk
+org.nv95.openmanga_103.apk
+org.nv95.openmanga_108.apk
+org.nv95.openmanga_1102.apk
+org.nv95.openmanga_1111.apk
+org.nv95.openmanga_1116.apk
+org.nv95.openmanga_51331.apk

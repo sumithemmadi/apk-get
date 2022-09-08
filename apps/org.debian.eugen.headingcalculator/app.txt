@@ -1,0 +1,3 @@
+org.debian.eugen.headingcalculator_1.apk
+org.debian.eugen.headingcalculator_2.apk
+org.debian.eugen.headingcalculator_4.apk

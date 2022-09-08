@@ -1,0 +1,11 @@
+com.tasomaniac.openwith.floss_10700.apk
+com.tasomaniac.openwith.floss_12007.apk
+com.tasomaniac.openwith.floss_14002.apk
+com.tasomaniac.openwith.floss_14003.apk
+com.tasomaniac.openwith.floss_18003.apk
+com.tasomaniac.openwith.floss_19000.apk
+com.tasomaniac.openwith.floss_19001.apk
+com.tasomaniac.openwith.floss_20000.apk
+com.tasomaniac.openwith.floss_20301.apk
+com.tasomaniac.openwith.floss_20503.apk
+com.tasomaniac.openwith.floss_20901.apk

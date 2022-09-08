@@ -1,0 +1,7 @@
+com.nkanaev.comics_1.apk
+com.nkanaev.comics_2.apk
+com.nkanaev.comics_3.apk
+com.nkanaev.comics_4.apk
+com.nkanaev.comics_5.apk
+com.nkanaev.comics_6.apk
+com.nkanaev.comics_7.apk

@@ -1,0 +1,2 @@
+com.anysoftkeyboard.languagepack.portuguese_100.apk
+com.anysoftkeyboard.languagepack.portuguese_101.apk

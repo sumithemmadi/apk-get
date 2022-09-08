@@ -1,0 +1,6 @@
+com.wabadaba.dziennik_3.apk
+com.wabadaba.dziennik_4.apk
+com.wabadaba.dziennik_5.apk
+com.wabadaba.dziennik_6.apk
+com.wabadaba.dziennik_9.apk
+com.wabadaba.dziennik_10.apk

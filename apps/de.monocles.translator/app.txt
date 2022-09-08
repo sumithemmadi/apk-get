@@ -1,0 +1,3 @@
+de.monocles.translator_1.apk
+de.monocles.translator_2.apk
+de.monocles.translator_3.apk

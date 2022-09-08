@@ -1,0 +1,8 @@
+OpenManager_1.1.2.apk
+com.nexes.manager_4.apk
+com.nexes.manager_212.apk
+com.nexes.manager_218.apk
+ve/OpenManager_1.1.2.apk
+ve/com.nexes.manager_4.apk
+ve/com.nexes.manager_212.apk
+ve/com.nexes.manager_218.apk

@@ -1,0 +1,3 @@
+com.emmanuelmess.simpleaccounting_18.apk
+com.emmanuelmess.simpleaccounting_20.apk
+com.emmanuelmess.simpleaccounting_23.apk

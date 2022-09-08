@@ -1,0 +1,6 @@
+org.supertuxkart.stk_10.apk
+org.supertuxkart.stk_104.apk
+org.supertuxkart.stk_105.apk
+org.supertuxkart.stk_144.apk
+org.supertuxkart.stk_205.apk
+org.supertuxkart.stk_298.apk

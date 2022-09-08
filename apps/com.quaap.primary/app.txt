@@ -1,0 +1,6 @@
+com.quaap.primary_1.apk
+com.quaap.primary_2.apk
+com.quaap.primary_3.apk
+com.quaap.primary_31.apk
+com.quaap.primary_32.apk
+com.quaap.primary_33.apk

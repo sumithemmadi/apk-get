@@ -1,0 +1,6 @@
+org.secuso.privacyfriendlydicer_1.apk
+org.secuso.privacyfriendlydicer_3.apk
+org.secuso.privacyfriendlydicer_5.apk
+org.secuso.privacyfriendlydicer_6.apk
+org.secuso.privacyfriendlydicer_7.apk
+org.secuso.privacyfriendlydicer_8.apk

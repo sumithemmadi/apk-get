@@ -1,0 +1,3 @@
+de.k3b.android.contentproviderhelper_3.apk
+de.k3b.android.contentproviderhelper_4.apk
+de.k3b.android.contentproviderhelper_5.apk

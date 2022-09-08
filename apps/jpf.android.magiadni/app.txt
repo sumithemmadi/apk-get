@@ -1,0 +1,4 @@
+jpf.android.magiadni_7.apk
+jpf.android.magiadni_8.apk
+jpf.android.magiadni_9.apk
+jpf.android.magiadni_10.apk

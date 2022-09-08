@@ -1,0 +1,6 @@
+com.bobek.compass_3.apk
+com.bobek.compass_4.apk
+com.bobek.compass_5.apk
+com.bobek.compass_6.apk
+com.bobek.compass_7.apk
+com.bobek.compass_8.apk

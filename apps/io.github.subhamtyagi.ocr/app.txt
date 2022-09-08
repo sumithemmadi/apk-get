@@ -1,0 +1,6 @@
+io.github.subhamtyagi.ocr_5.apk
+io.github.subhamtyagi.ocr_6.apk
+io.github.subhamtyagi.ocr_7.apk
+io.github.subhamtyagi.ocr_8.apk
+io.github.subhamtyagi.ocr_9.apk
+io.github.subhamtyagi.ocr_11.apk

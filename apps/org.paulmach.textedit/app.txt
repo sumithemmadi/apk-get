@@ -1,0 +1,6 @@
+org.paulmach.textedit_12.apk
+org.paulmach.textedit_14.apk
+org.paulmach.textedit_15.apk
+ve/org.paulmach.textedit_12.apk
+ve/org.paulmach.textedit_14.apk
+ve/org.paulmach.textedit_15.apk

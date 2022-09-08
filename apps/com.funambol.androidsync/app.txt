@@ -1,0 +1,12 @@
+com.funambol.androidsync_8.apk
+com.funambol.androidsync_9.apk
+com.funambol.androidsync_10.apk
+com.funambol.androidsync_14.apk
+com.funambol.androidsync_15.apk
+com.funambol.androidsync_16.apk
+ve/com.funambol.androidsync_8.apk
+ve/com.funambol.androidsync_9.apk
+ve/com.funambol.androidsync_10.apk
+ve/com.funambol.androidsync_14.apk
+ve/com.funambol.androidsync_15.apk
+ve/com.funambol.androidsync_16.apk

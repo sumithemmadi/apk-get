@@ -1,0 +1,6 @@
+de.kugihan.dictionaryformids.hmi_android_98.apk
+de.kugihan.dictionaryformids.hmi_android_103.apk
+de.kugihan.dictionaryformids.hmi_android_125.apk
+de.kugihan.dictionaryformids.hmi_android_126.apk
+de.kugihan.dictionaryformids.hmi_android_131.apk
+ve/de.kugihan.dictionaryformids.hmi_android_98.apk

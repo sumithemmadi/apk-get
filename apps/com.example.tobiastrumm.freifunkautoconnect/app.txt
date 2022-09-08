@@ -1,0 +1,6 @@
+com.example.tobiastrumm.freifunkautoconnect_4.apk
+com.example.tobiastrumm.freifunkautoconnect_5.apk
+com.example.tobiastrumm.freifunkautoconnect_7.apk
+com.example.tobiastrumm.freifunkautoconnect_8.apk
+com.example.tobiastrumm.freifunkautoconnect_9.apk
+com.example.tobiastrumm.freifunkautoconnect_10.apk

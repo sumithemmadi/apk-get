@@ -1,0 +1,6 @@
+ro.ui.pttdroid_2.apk
+ro.ui.pttdroid_3.apk
+ro.ui.pttdroid_4.apk
+ro.ui.pttdroid_5.apk
+ve/ro.ui.pttdroid_2.apk
+ve/ro.ui.pttdroid_3.apk

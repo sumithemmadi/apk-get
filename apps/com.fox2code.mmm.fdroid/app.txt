@@ -1,0 +1,17 @@
+com.fox2code.mmm.fdroid_36.apk
+com.fox2code.mmm.fdroid_37.apk
+com.fox2code.mmm.fdroid_38.apk
+com.fox2code.mmm.fdroid_39.apk
+com.fox2code.mmm.fdroid_40.apk
+com.fox2code.mmm.fdroid_42.apk
+com.fox2code.mmm.fdroid_43.apk
+com.fox2code.mmm.fdroid_44.apk
+com.fox2code.mmm.fdroid_45.apk
+com.fox2code.mmm.fdroid_46.apk
+com.fox2code.mmm.fdroid_47.apk
+com.fox2code.mmm.fdroid_49.apk
+com.fox2code.mmm.fdroid_50.apk
+com.fox2code.mmm.fdroid_51.apk
+com.fox2code.mmm.fdroid_52.apk
+com.fox2code.mmm.fdroid_53.apk
+com.fox2code.mmm.fdroid_54.apk

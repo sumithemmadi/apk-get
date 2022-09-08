@@ -1,0 +1,7 @@
+sk.vx.connectbot_21.apk
+sk.vx.connectbot_24.apk
+sk.vx.connectbot_27.apk
+sk.vx.connectbot_29.apk
+sk.vx.connectbot_30.apk
+ve/sk.vx.connectbot_21.apk
+ve/sk.vx.connectbot_24.apk

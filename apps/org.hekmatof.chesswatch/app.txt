@@ -1,0 +1,2 @@
+org.hekmatof.chesswatch_1.apk
+org.hekmatof.chesswatch_2.apk

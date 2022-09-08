@@ -1,0 +1,6 @@
+org.durka.hallmonitor_3.apk
+org.durka.hallmonitor_5.apk
+org.durka.hallmonitor_6.apk
+org.durka.hallmonitor_7.apk
+org.durka.hallmonitor_8.apk
+org.durka.hallmonitor_16.apk

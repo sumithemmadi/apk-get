@@ -1,0 +1,4 @@
+it.mobimentum.dualsimwidget_1.apk
+it.mobimentum.dualsimwidget_2000.apk
+it.mobimentum.dualsimwidget_2004.apk
+it.mobimentum.dualsimwidget_3100.apk

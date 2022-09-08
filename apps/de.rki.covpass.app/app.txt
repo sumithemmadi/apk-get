@@ -1,0 +1,12 @@
+de.rki.covpass.app_480.apk
+de.rki.covpass.app_487.apk
+de.rki.covpass.app_517.apk
+de.rki.covpass.app_711.apk
+de.rki.covpass.app_808.apk
+de.rki.covpass.app_846.apk
+de.rki.covpass.app_876.apk
+de.rki.covpass.app_921.apk
+de.rki.covpass.app_947.apk
+de.rki.covpass.app_1016.apk
+de.rki.covpass.app_1021.apk
+de.rki.covpass.app_1039.apk

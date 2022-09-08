@@ -1,0 +1,14 @@
+net.syncthing.lite_7.apk
+net.syncthing.lite_9.apk
+net.syncthing.lite_10.apk
+net.syncthing.lite_11.apk
+net.syncthing.lite_12.apk
+net.syncthing.lite_14.apk
+net.syncthing.lite_15.apk
+net.syncthing.lite_16.apk
+net.syncthing.lite_17.apk
+net.syncthing.lite_18.apk
+net.syncthing.lite_19.apk
+net.syncthing.lite_20.apk
+net.syncthing.lite_21.apk
+net.syncthing.lite_22.apk

@@ -1,0 +1,5 @@
+pl.net.szafraniec.NFCTagmaker_1.apk
+pl.net.szafraniec.NFCTagmaker_10.apk
+pl.net.szafraniec.NFCTagmaker_14.apk
+pl.net.szafraniec.NFCTagmaker_15.apk
+pl.net.szafraniec.NFCTagmaker_23.apk

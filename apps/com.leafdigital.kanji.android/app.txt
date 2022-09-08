@@ -1,0 +1,2 @@
+com.leafdigital.kanji.android_2.apk
+ve/com.leafdigital.kanji.android_2.apk

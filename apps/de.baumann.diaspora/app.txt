@@ -1,0 +1,3 @@
+de.baumann.diaspora_17.apk
+de.baumann.diaspora_22.apk
+de.baumann.diaspora_23.apk

@@ -1,0 +1,2 @@
+com.confinement.diconfinement_15.apk
+com.confinement.diconfinement_16.apk

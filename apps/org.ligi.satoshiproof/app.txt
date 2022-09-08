@@ -1,0 +1,5 @@
+org.ligi.satoshiproof_7.apk
+org.ligi.satoshiproof_100.apk
+org.ligi.satoshiproof_101.apk
+org.ligi.satoshiproof_103.apk
+org.ligi.satoshiproof_104.apk

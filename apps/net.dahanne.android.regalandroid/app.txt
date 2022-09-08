@@ -1,0 +1,7 @@
+net.dahanne.android.regalandroid_5.apk
+net.dahanne.android.regalandroid_6.apk
+regalandroid-1.0.0-20101204.212606-5.apk
+regalandroid-1.0.1-aligned.apk
+ve/net.dahanne.android.regalandroid_5.apk
+ve/regalandroid-1.0.0-20101204.212606-5.apk
+ve/regalandroid-1.0.1-aligned.apk

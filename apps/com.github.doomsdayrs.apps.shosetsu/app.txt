@@ -1,0 +1,2 @@
+com.github.doomsdayrs.apps.shosetsu_26.apk
+com.github.doomsdayrs.apps.shosetsu_27.apk

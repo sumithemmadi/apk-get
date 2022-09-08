@@ -1,0 +1,6 @@
+com.sanskritbasics.memory_20.apk
+com.sanskritbasics.memory_22.apk
+com.sanskritbasics.memory_23.apk
+com.sanskritbasics.memory_25.apk
+com.sanskritbasics.memory_31.apk
+com.sanskritbasics.memory_32.apk

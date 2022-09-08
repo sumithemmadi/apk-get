@@ -1,0 +1,4 @@
+pt.isec.tp.am_2.apk
+pt.isec.tp.am_4.apk
+ve/pt.isec.tp.am_2.apk
+ve/pt.isec.tp.am_4.apk

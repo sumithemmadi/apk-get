@@ -1,0 +1,15 @@
+org.scid.android_30.apk
+org.scid.android_31.apk
+org.scid.android_32.apk
+org.scid.android_33.apk
+org.scid.android_34.apk
+org.scid.android_40.apk
+org.scid.android_42.apk
+org.scid.android_55.apk
+ve/org.scid.android_30.apk
+ve/org.scid.android_31.apk
+ve/org.scid.android_32.apk
+ve/org.scid.android_33.apk
+ve/org.scid.android_34.apk
+ve/org.scid.android_40.apk
+ve/org.scid.android_42.apk

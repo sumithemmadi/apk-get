@@ -1,0 +1,4 @@
+com.biotstoiq.hayago_17.apk
+com.biotstoiq.hayago_18.apk
+com.biotstoiq.hayago_20.apk
+com.biotstoiq.hayago_21.apk

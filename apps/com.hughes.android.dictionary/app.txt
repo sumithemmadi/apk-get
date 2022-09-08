@@ -1,0 +1,13 @@
+com.hughes.android.dictionary_15.apk
+com.hughes.android.dictionary_16.apk
+com.hughes.android.dictionary_18.apk
+com.hughes.android.dictionary_19.apk
+com.hughes.android.dictionary_21.apk
+com.hughes.android.dictionary_23.apk
+com.hughes.android.dictionary_25.apk
+ve/com.hughes.android.dictionary_15.apk
+ve/com.hughes.android.dictionary_16.apk
+ve/com.hughes.android.dictionary_18.apk
+ve/com.hughes.android.dictionary_19.apk
+ve/com.hughes.android.dictionary_21.apk
+ve/com.hughes.android.dictionary_23.apk

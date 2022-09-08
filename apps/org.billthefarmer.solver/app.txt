@@ -1,0 +1,5 @@
+org.billthefarmer.solver_1.apk
+org.billthefarmer.solver_101.apk
+org.billthefarmer.solver_102.apk
+org.billthefarmer.solver_103.apk
+org.billthefarmer.solver_104.apk

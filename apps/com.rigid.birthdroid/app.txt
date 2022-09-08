@@ -1,0 +1,7 @@
+com.rigid.birthdroid_1.apk
+com.rigid.birthdroid_2.apk
+com.rigid.birthdroid_61.apk
+com.rigid.birthdroid_62.apk
+com.rigid.birthdroid_63.apk
+com.rigid.birthdroid_64.apk
+ve/com.rigid.birthdroid_1.apk

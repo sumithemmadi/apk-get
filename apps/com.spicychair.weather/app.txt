@@ -1,0 +1,5 @@
+com.spicychair.weather_24.apk
+com.spicychair.weather_25.apk
+com.spicychair.weather_28.apk
+com.spicychair.weather_34.apk
+com.spicychair.weather_36.apk

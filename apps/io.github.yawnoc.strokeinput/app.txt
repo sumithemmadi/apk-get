@@ -1,0 +1,16 @@
+io.github.yawnoc.strokeinput_25.apk
+io.github.yawnoc.strokeinput_26.apk
+io.github.yawnoc.strokeinput_27.apk
+io.github.yawnoc.strokeinput_28.apk
+io.github.yawnoc.strokeinput_29.apk
+io.github.yawnoc.strokeinput_30.apk
+io.github.yawnoc.strokeinput_32.apk
+io.github.yawnoc.strokeinput_33.apk
+io.github.yawnoc.strokeinput_35.apk
+io.github.yawnoc.strokeinput_36.apk
+io.github.yawnoc.strokeinput_37.apk
+io.github.yawnoc.strokeinput_38.apk
+io.github.yawnoc.strokeinput_39.apk
+io.github.yawnoc.strokeinput_40.apk
+io.github.yawnoc.strokeinput_41.apk
+io.github.yawnoc.strokeinput_42.apk

@@ -1,0 +1,3 @@
+de.mangelow.throughput_9.apk
+de.mangelow.throughput_12.apk
+de.mangelow.throughput_15.apk

@@ -1,0 +1,5 @@
+com.lubenard.oring_reminder_7.apk
+com.lubenard.oring_reminder_10.apk
+com.lubenard.oring_reminder_11.apk
+com.lubenard.oring_reminder_12.apk
+com.lubenard.oring_reminder_13.apk

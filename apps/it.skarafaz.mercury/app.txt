@@ -1,0 +1,5 @@
+it.skarafaz.mercury_1.apk
+it.skarafaz.mercury_4.apk
+it.skarafaz.mercury_6.apk
+it.skarafaz.mercury_7.apk
+it.skarafaz.mercury_9.apk

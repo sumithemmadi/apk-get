@@ -1,0 +1,11 @@
+com.dnielfe.manager_53.apk
+com.dnielfe.manager_55.apk
+com.dnielfe.manager_56.apk
+com.dnielfe.manager_57.apk
+com.dnielfe.manager_58.apk
+com.dnielfe.manager_59.apk
+com.dnielfe.manager_61.apk
+com.dnielfe.manager_62.apk
+com.dnielfe.manager_63.apk
+com.dnielfe.manager_66.apk
+com.dnielfe.manager_67.apk

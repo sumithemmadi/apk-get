@@ -1,0 +1,8 @@
+net.debian.debiandroid_12.apk
+net.debian.debiandroid_13.apk
+net.debian.debiandroid_16.apk
+net.debian.debiandroid_17.apk
+net.debian.debiandroid_18.apk
+net.debian.debiandroid_19.apk
+net.debian.debiandroid_20.apk
+net.debian.debiandroid_21.apk

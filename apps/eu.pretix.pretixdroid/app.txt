@@ -1,0 +1,3 @@
+eu.pretix.pretixdroid_12.apk
+eu.pretix.pretixdroid_13.apk
+eu.pretix.pretixdroid_15.apk

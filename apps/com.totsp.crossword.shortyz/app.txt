@@ -1,0 +1,7 @@
+com.totsp.crossword.shortyz_30100.apk
+com.totsp.crossword.shortyz_30201.apk
+com.totsp.crossword.shortyz_30210.apk
+com.totsp.crossword.shortyz_40400.apk
+com.totsp.crossword.shortyz_40403.apk
+ve/com.totsp.crossword.shortyz_30100.apk
+ve/com.totsp.crossword.shortyz_30201.apk

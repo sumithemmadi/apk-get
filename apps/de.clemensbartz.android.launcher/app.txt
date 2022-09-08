@@ -1,0 +1,11 @@
+de.clemensbartz.android.launcher_10.apk
+de.clemensbartz.android.launcher_11.apk
+de.clemensbartz.android.launcher_12.apk
+de.clemensbartz.android.launcher_13.apk
+de.clemensbartz.android.launcher_14.apk
+de.clemensbartz.android.launcher_15.apk
+de.clemensbartz.android.launcher_16.apk
+de.clemensbartz.android.launcher_17.apk
+de.clemensbartz.android.launcher_18.apk
+de.clemensbartz.android.launcher_19.apk
+de.clemensbartz.android.launcher_20.apk

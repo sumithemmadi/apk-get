@@ -1,0 +1,13 @@
+com.ominous.quickweather_27.apk
+com.ominous.quickweather_28.apk
+com.ominous.quickweather_29.apk
+com.ominous.quickweather_30.apk
+com.ominous.quickweather_31.apk
+com.ominous.quickweather_33.apk
+com.ominous.quickweather_35.apk
+com.ominous.quickweather_37.apk
+com.ominous.quickweather_38.apk
+com.ominous.quickweather_40.apk
+com.ominous.quickweather_44.apk
+com.ominous.quickweather_45.apk
+com.ominous.quickweather_46.apk

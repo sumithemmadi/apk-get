@@ -1,0 +1,7 @@
+org.qosp.notes_1.apk
+org.qosp.notes_2.apk
+org.qosp.notes_3.apk
+org.qosp.notes_4.apk
+org.qosp.notes_6.apk
+org.qosp.notes_7.apk
+org.qosp.notes_8.apk

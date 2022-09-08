@@ -1,0 +1,4 @@
+com.itds.sms.ping_2.apk
+com.itds.sms.ping_3.apk
+com.itds.sms.ping_4.apk
+com.itds.sms.ping_6.apk

@@ -1,0 +1,2 @@
+org.ale.scanner.zotero_2.apk
+ve/org.ale.scanner.zotero_2.apk

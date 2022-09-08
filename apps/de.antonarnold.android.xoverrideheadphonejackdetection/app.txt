@@ -1,0 +1,3 @@
+de.antonarnold.android.xoverrideheadphonejackdetection_2.apk
+de.antonarnold.android.xoverrideheadphonejackdetection_3.apk
+de.antonarnold.android.xoverrideheadphonejackdetection_5.apk

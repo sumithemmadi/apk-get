@@ -1,0 +1,8 @@
+com.philolog.hoplitekeyboard_20.apk
+com.philolog.hoplitekeyboard_22.apk
+com.philolog.hoplitekeyboard_24.apk
+com.philolog.hoplitekeyboard_26.apk
+com.philolog.hoplitekeyboard_27.apk
+com.philolog.hoplitekeyboard_28.apk
+com.philolog.hoplitekeyboard_29.apk
+com.philolog.hoplitekeyboard_30.apk

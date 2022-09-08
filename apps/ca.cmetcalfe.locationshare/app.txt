@@ -1,0 +1,8 @@
+ca.cmetcalfe.locationshare_1.apk
+ca.cmetcalfe.locationshare_2.apk
+ca.cmetcalfe.locationshare_3.apk
+ca.cmetcalfe.locationshare_5.apk
+ca.cmetcalfe.locationshare_6.apk
+ca.cmetcalfe.locationshare_7.apk
+ca.cmetcalfe.locationshare_8.apk
+ca.cmetcalfe.locationshare_9.apk

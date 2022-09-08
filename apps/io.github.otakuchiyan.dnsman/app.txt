@@ -1,0 +1,7 @@
+io.github.otakuchiyan.dnsman_40.apk
+io.github.otakuchiyan.dnsman_71.apk
+io.github.otakuchiyan.dnsman_72.apk
+io.github.otakuchiyan.dnsman_80.apk
+io.github.otakuchiyan.dnsman_81.apk
+io.github.otakuchiyan.dnsman_100.apk
+io.github.otakuchiyan.dnsman_101.apk

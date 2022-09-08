@@ -1,0 +1,6 @@
+com.qubling.sidekick_11.apk
+com.qubling.sidekick_15.apk
+com.qubling.sidekick_16.apk
+ve/com.qubling.sidekick_11.apk
+ve/com.qubling.sidekick_15.apk
+ve/com.qubling.sidekick_16.apk

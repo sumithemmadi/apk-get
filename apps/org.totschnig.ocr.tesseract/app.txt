@@ -1,0 +1,5 @@
+org.totschnig.ocr.tesseract_2.apk
+org.totschnig.ocr.tesseract_3.apk
+org.totschnig.ocr.tesseract_4.apk
+org.totschnig.ocr.tesseract_6.apk
+org.totschnig.ocr.tesseract_7.apk

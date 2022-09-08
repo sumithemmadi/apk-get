@@ -1,0 +1,8 @@
+com.gabm.fancyplaces_2.apk
+com.gabm.fancyplaces_3.apk
+com.gabm.fancyplaces_4.apk
+com.gabm.fancyplaces_5.apk
+com.gabm.fancyplaces_6.apk
+com.gabm.fancyplaces_7.apk
+com.gabm.fancyplaces_8.apk
+com.gabm.fancyplaces_9.apk

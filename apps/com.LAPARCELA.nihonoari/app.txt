@@ -1,0 +1,6 @@
+com.LAPARCELA.nihonoari_4.apk
+com.LAPARCELA.nihonoari_5.apk
+com.LAPARCELA.nihonoari_6.apk
+com.LAPARCELA.nihonoari_7.apk
+com.LAPARCELA.nihonoari_8.apk
+com.LAPARCELA.nihonoari_9.apk

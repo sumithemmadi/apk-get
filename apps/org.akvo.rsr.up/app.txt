@@ -1,0 +1,2 @@
+org.akvo.rsr.up_15.apk
+org.akvo.rsr.up_36.apk

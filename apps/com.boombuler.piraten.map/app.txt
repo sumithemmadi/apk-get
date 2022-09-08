@@ -1,0 +1,2 @@
+com.boombuler.piraten.map_1300.apk
+com.boombuler.piraten.map_1320.apk

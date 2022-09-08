@@ -1,0 +1,15 @@
+com.bijoysingh.quicknote_18.apk
+com.bijoysingh.quicknote_22.apk
+com.bijoysingh.quicknote_23.apk
+com.bijoysingh.quicknote_27.apk
+com.bijoysingh.quicknote_30.apk
+com.bijoysingh.quicknote_32.apk
+com.bijoysingh.quicknote_39.apk
+com.bijoysingh.quicknote_43.apk
+com.bijoysingh.quicknote_48.apk
+com.bijoysingh.quicknote_57.apk
+com.bijoysingh.quicknote_62.apk
+com.bijoysingh.quicknote_95.apk
+com.bijoysingh.quicknote_111.apk
+com.bijoysingh.quicknote_123.apk
+com.bijoysingh.quicknote_145.apk

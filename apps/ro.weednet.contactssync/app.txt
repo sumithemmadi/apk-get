@@ -1,0 +1,8 @@
+ro.weednet.contactssync_32.apk
+ro.weednet.contactssync_33.apk
+ro.weednet.contactssync_39.apk
+ro.weednet.contactssync_42.apk
+ro.weednet.contactssync_48.apk
+ve/ro.weednet.contactssync_32.apk
+ve/ro.weednet.contactssync_33.apk
+ve/ro.weednet.contactssync_39.apk

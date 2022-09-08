@@ -1,0 +1,6 @@
+com.Sommerlichter.social_1200.apk
+com.Sommerlichter.social_1201.apk
+com.Sommerlichter.social_1310.apk
+com.Sommerlichter.social_1320.apk
+com.Sommerlichter.social_1400.apk
+com.Sommerlichter.social_3300.apk

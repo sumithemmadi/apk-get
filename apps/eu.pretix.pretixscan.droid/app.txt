@@ -1,0 +1,14 @@
+eu.pretix.pretixscan.droid_16.apk
+eu.pretix.pretixscan.droid_17.apk
+eu.pretix.pretixscan.droid_19.apk
+eu.pretix.pretixscan.droid_20.apk
+eu.pretix.pretixscan.droid_22.apk
+eu.pretix.pretixscan.droid_23.apk
+eu.pretix.pretixscan.droid_25.apk
+eu.pretix.pretixscan.droid_26.apk
+eu.pretix.pretixscan.droid_27.apk
+eu.pretix.pretixscan.droid_28.apk
+eu.pretix.pretixscan.droid_29.apk
+eu.pretix.pretixscan.droid_30.apk
+eu.pretix.pretixscan.droid_31.apk
+eu.pretix.pretixscan.droid_56.apk

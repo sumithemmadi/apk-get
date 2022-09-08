@@ -1,0 +1,4 @@
+net.majorkernelpanic.spydroid_420.apk
+net.majorkernelpanic.spydroid_690.apk
+net.majorkernelpanic.spydroid_910.apk
+net.majorkernelpanic.spydroid_1000.apk

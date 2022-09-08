@@ -1,0 +1,8 @@
+com.as.anagramsolver_10.apk
+com.as.anagramsolver_11.apk
+com.as.anagramsolver_12.apk
+com.as.anagramsolver_13.apk
+com.as.anagramsolver_14.apk
+com.as.anagramsolver_16.apk
+com.as.anagramsolver_18.apk
+com.as.anagramsolver_19.apk

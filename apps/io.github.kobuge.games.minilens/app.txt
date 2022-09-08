@@ -1,0 +1,2 @@
+io.github.kobuge.games.minilens_1.apk
+io.github.kobuge.games.minilens_2.apk

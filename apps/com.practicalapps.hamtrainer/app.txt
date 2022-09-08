@@ -1,0 +1,7 @@
+com.practicalapps.hamtrainer_2.apk
+com.practicalapps.hamtrainer_3.apk
+com.practicalapps.hamtrainer_4.apk
+com.practicalapps.hamtrainer_5.apk
+com.practicalapps.hamtrainer_6.apk
+com.practicalapps.hamtrainer_7.apk
+com.practicalapps.hamtrainer_8.apk

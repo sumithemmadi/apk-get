@@ -1,0 +1,2 @@
+com.gcstar.scanner_1.apk
+ve/com.gcstar.scanner_1.apk

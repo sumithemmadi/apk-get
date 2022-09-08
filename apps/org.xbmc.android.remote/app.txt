@@ -1,0 +1,8 @@
+org.xbmc.android.remote_730.apk
+org.xbmc.android.remote_768.apk
+org.xbmc.android.remote_808.apk
+org.xbmc.android.remote_1009.apk
+ve/org.xbmc.android.remote_730.apk
+ve/org.xbmc.android.remote_768.apk
+ve/org.xbmc.android.remote_808.apk
+ve/org.xbmc.android.remote_1009.apk

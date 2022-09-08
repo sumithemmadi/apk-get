@@ -1,0 +1,4 @@
+com.fr3ts0n.androbd.plugin.sensorprovider_10003.apk
+com.fr3ts0n.androbd.plugin.sensorprovider_10004.apk
+com.fr3ts0n.androbd.plugin.sensorprovider_10100.apk
+com.fr3ts0n.androbd.plugin.sensorprovider_10101.apk

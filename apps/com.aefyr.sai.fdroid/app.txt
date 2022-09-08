@@ -1,0 +1,13 @@
+com.aefyr.sai.fdroid_28.apk
+com.aefyr.sai.fdroid_29.apk
+com.aefyr.sai.fdroid_31.apk
+com.aefyr.sai.fdroid_32.apk
+com.aefyr.sai.fdroid_34.apk
+com.aefyr.sai.fdroid_51.apk
+com.aefyr.sai.fdroid_53.apk
+com.aefyr.sai.fdroid_54.apk
+com.aefyr.sai.fdroid_55.apk
+com.aefyr.sai.fdroid_56.apk
+com.aefyr.sai.fdroid_57.apk
+com.aefyr.sai.fdroid_58.apk
+com.aefyr.sai.fdroid_60.apk

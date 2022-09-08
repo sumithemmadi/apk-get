@@ -1,0 +1,11 @@
+com.github.ashutoshgngwr.tenbitclockwidget_161.apk
+com.github.ashutoshgngwr.tenbitclockwidget_162.apk
+com.github.ashutoshgngwr.tenbitclockwidget_163.apk
+com.github.ashutoshgngwr.tenbitclockwidget_170.apk
+com.github.ashutoshgngwr.tenbitclockwidget_180.apk
+com.github.ashutoshgngwr.tenbitclockwidget_190.apk
+com.github.ashutoshgngwr.tenbitclockwidget_200.apk
+com.github.ashutoshgngwr.tenbitclockwidget_201.apk
+com.github.ashutoshgngwr.tenbitclockwidget_203.apk
+com.github.ashutoshgngwr.tenbitclockwidget_210.apk
+com.github.ashutoshgngwr.tenbitclockwidget_211.apk

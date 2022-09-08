@@ -1,0 +1,4 @@
+org.secuso.privacyfriendlyfinancemanager_2.apk
+org.secuso.privacyfriendlyfinancemanager_3.apk
+org.secuso.privacyfriendlyfinancemanager_4.apk
+org.secuso.privacyfriendlyfinancemanager_5.apk

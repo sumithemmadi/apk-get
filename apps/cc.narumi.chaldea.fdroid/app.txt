@@ -1,0 +1,11 @@
+cc.narumi.chaldea.fdroid_900.apk
+cc.narumi.chaldea.fdroid_902.apk
+cc.narumi.chaldea.fdroid_904.apk
+cc.narumi.chaldea.fdroid_905.apk
+cc.narumi.chaldea.fdroid_906.apk
+cc.narumi.chaldea.fdroid_907.apk
+cc.narumi.chaldea.fdroid_908.apk
+cc.narumi.chaldea.fdroid_909.apk
+cc.narumi.chaldea.fdroid_910.apk
+cc.narumi.chaldea.fdroid_911.apk
+cc.narumi.chaldea.fdroid_912.apk

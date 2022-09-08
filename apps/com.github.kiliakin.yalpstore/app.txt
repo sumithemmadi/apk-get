@@ -1,0 +1,2 @@
+com.github.kiliakin.yalpstore_46.apk
+com.github.kiliakin.yalpstore_47.apk

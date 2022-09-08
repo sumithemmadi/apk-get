@@ -1,0 +1,7 @@
+app.fedilab.openmaps_6.apk
+app.fedilab.openmaps_7.apk
+app.fedilab.openmaps_8.apk
+app.fedilab.openmaps_10.apk
+app.fedilab.openmaps_11.apk
+app.fedilab.openmaps_12.apk
+app.fedilab.openmaps_13.apk

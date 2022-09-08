@@ -1,0 +1,3 @@
+org.geometerplus.fbreader.plugin.local_opds_scanner_101001.apk
+org.geometerplus.fbreader.plugin.local_opds_scanner_102000.apk
+org.geometerplus.fbreader.plugin.local_opds_scanner_102001.apk

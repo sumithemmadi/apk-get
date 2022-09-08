@@ -1,0 +1,5 @@
+cz.antecky.netswitch_1.apk
+cz.antecky.netswitch_2.apk
+cz.antecky.netswitch_3.apk
+cz.antecky.netswitch_4.apk
+cz.antecky.netswitch_5.apk

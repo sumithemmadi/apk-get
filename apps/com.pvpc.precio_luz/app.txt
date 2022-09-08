@@ -1,0 +1,17 @@
+com.pvpc.precio_luz_1.apk
+com.pvpc.precio_luz_2.apk
+com.pvpc.precio_luz_6.apk
+com.pvpc.precio_luz_7.apk
+com.pvpc.precio_luz_8.apk
+com.pvpc.precio_luz_9.apk
+com.pvpc.precio_luz_10.apk
+com.pvpc.precio_luz_11.apk
+com.pvpc.precio_luz_12.apk
+com.pvpc.precio_luz_13.apk
+com.pvpc.precio_luz_15.apk
+com.pvpc.precio_luz_16.apk
+com.pvpc.precio_luz_19.apk
+com.pvpc.precio_luz_20.apk
+com.pvpc.precio_luz_22.apk
+com.pvpc.precio_luz_23.apk
+com.pvpc.precio_luz_24.apk

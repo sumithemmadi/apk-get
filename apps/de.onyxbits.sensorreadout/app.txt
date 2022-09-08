@@ -1,0 +1,6 @@
+de.onyxbits.sensorreadout_3.apk
+de.onyxbits.sensorreadout_5.apk
+de.onyxbits.sensorreadout_6.apk
+de.onyxbits.sensorreadout_7.apk
+de.onyxbits.sensorreadout_8.apk
+ve/de.onyxbits.sensorreadout_3.apk

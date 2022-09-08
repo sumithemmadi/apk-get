@@ -1,0 +1,4 @@
+org.jdfossapps.android.shopwithmom_1.apk
+org.jdfossapps.android.shopwithmom_2.apk
+org.jdfossapps.android.shopwithmom_3.apk
+org.jdfossapps.android.shopwithmom_5.apk

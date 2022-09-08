@@ -1,0 +1,4 @@
+com.watabou.pixeldungeon_59.apk
+com.watabou.pixeldungeon_61.apk
+com.watabou.pixeldungeon_70.apk
+com.watabou.pixeldungeon_74.apk

@@ -1,0 +1,6 @@
+fr.xgouchet.texteditor_13.apk
+fr.xgouchet.texteditor_17.apk
+fr.xgouchet.texteditor_19.apk
+ve/fr.xgouchet.texteditor_13.apk
+ve/fr.xgouchet.texteditor_17.apk
+ve/fr.xgouchet.texteditor_19.apk

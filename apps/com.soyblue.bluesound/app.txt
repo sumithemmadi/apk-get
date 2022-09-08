@@ -1,0 +1,6 @@
+com.soyblue.bluesound_4.apk
+com.soyblue.bluesound_6.apk
+com.soyblue.bluesound_7.apk
+com.soyblue.bluesound_8.apk
+com.soyblue.bluesound_9.apk
+com.soyblue.bluesound_10.apk

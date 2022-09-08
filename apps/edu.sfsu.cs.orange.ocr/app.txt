@@ -1,0 +1,3 @@
+edu.sfsu.cs.orange.ocr_31.apk
+edu.sfsu.cs.orange.ocr_33.apk
+ve/edu.sfsu.cs.orange.ocr_31.apk

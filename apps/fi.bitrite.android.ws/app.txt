@@ -1,0 +1,2 @@
+fi.bitrite.android.ws_30000.apk
+fi.bitrite.android.ws_30100.apk

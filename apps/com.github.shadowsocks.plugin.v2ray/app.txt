@@ -1,0 +1,4 @@
+com.github.shadowsocks.plugin.v2ray_1030000.apk
+com.github.shadowsocks.plugin.v2ray_1030100.apk
+com.github.shadowsocks.plugin.v2ray_1030200.apk
+com.github.shadowsocks.plugin.v2ray_1030300.apk

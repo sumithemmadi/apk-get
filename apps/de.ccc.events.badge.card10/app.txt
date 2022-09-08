@@ -1,0 +1,6 @@
+de.ccc.events.badge.card10_1.apk
+de.ccc.events.badge.card10_2.apk
+de.ccc.events.badge.card10_3.apk
+de.ccc.events.badge.card10_4.apk
+de.ccc.events.badge.card10_6.apk
+de.ccc.events.badge.card10_9.apk

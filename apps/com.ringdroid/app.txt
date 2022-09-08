@@ -1,0 +1,11 @@
+Ringdroid-2.3.apk
+Ringdroid-2.4-rc2.apk
+com.ringdroid_20500.apk
+com.ringdroid_20600.apk
+com.ringdroid_20702.apk
+com.ringdroid_20703.apk
+com.ringdroid_20704.apk
+ve/Ringdroid-2.3.apk
+ve/Ringdroid-2.4-rc2.apk
+ve/com.ringdroid_20500.apk
+ve/com.ringdroid_20600.apk

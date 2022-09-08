@@ -1,0 +1,2 @@
+org.fdroid.nearby_1.apk
+org.fdroid.nearby_2.apk

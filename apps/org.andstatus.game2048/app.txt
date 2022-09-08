@@ -1,0 +1,6 @@
+org.andstatus.game2048_27.apk
+org.andstatus.game2048_28.apk
+org.andstatus.game2048_31.apk
+org.andstatus.game2048_32.apk
+org.andstatus.game2048_33.apk
+org.andstatus.game2048_34.apk

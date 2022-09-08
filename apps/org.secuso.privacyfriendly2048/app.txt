@@ -1,0 +1,3 @@
+org.secuso.privacyfriendly2048_1.apk
+org.secuso.privacyfriendly2048_2.apk
+org.secuso.privacyfriendly2048_3.apk

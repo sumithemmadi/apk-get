@@ -1,0 +1,7 @@
+de.ub0r.android.smsdroid_7140002.apk
+de.ub0r.android.smsdroid_7144000.apk
+de.ub0r.android.smsdroid_7150000.apk
+de.ub0r.android.smsdroid_7151000.apk
+de.ub0r.android.smsdroid_91700000.apk
+ve/de.ub0r.android.smsdroid_7140002.apk
+ve/de.ub0r.android.smsdroid_7144000.apk

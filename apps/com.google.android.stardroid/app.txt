@@ -1,0 +1,9 @@
+com.google.android.stardroid_1112.apk
+com.google.android.stardroid_1113.apk
+com.google.android.stardroid_1480.apk
+com.google.android.stardroid_1510.apk
+com.google.android.stardroid_1519.apk
+com.google.android.stardroid_1524.apk
+com.google.android.stardroid_1532.apk
+com.google.android.stardroid_1541.apk
+ve/com.google.android.stardroid_1112.apk

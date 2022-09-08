@@ -1,0 +1,6 @@
+tranquvis.simplesmsremote_100.apk
+tranquvis.simplesmsremote_110.apk
+tranquvis.simplesmsremote_111.apk
+tranquvis.simplesmsremote_120.apk
+tranquvis.simplesmsremote_130.apk
+tranquvis.simplesmsremote_140.apk

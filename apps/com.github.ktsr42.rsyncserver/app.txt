@@ -1,0 +1,1 @@
+com.github.ktsr42.rsyncserver_1.apk

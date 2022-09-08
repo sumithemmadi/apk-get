@@ -1,0 +1,3 @@
+org.ligi.blexplorer_1.apk
+org.ligi.blexplorer_11.apk
+org.ligi.blexplorer_12.apk

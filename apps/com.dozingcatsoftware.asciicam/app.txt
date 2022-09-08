@@ -1,0 +1,8 @@
+com.dozingcatsoftware.asciicam_5.apk
+com.dozingcatsoftware.asciicam_6.apk
+com.dozingcatsoftware.asciicam_7.apk
+com.dozingcatsoftware.asciicam_8.apk
+com.dozingcatsoftware.asciicam_10.apk
+com.dozingcatsoftware.asciicam_11.apk
+com.dozingcatsoftware.asciicam_16.apk
+ve/com.dozingcatsoftware.asciicam_5.apk

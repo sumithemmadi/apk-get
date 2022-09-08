@@ -1,0 +1,4 @@
+com.android.inputmethod.norwegian_13.apk
+com.android.inputmethod.norwegian_15.apk
+ve/com.android.inputmethod.norwegian_13.apk
+ve/com.android.inputmethod.norwegian_15.apk

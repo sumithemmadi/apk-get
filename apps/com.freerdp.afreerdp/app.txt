@@ -1,0 +1,8 @@
+com.freerdp.afreerdp_10.apk
+com.freerdp.afreerdp_11.apk
+com.freerdp.afreerdp_12.apk
+com.freerdp.afreerdp_14.apk
+com.freerdp.afreerdp_19.apk
+com.freerdp.afreerdp_21.apk
+com.freerdp.afreerdp_22.apk
+com.freerdp.afreerdp_23.apk

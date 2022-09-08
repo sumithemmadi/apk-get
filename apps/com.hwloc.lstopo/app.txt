@@ -1,0 +1,2 @@
+com.hwloc.lstopo_265.apk
+com.hwloc.lstopo_266.apk

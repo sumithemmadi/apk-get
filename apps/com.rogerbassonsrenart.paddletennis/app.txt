@@ -1,0 +1,6 @@
+com.rogerbassonsrenart.paddletennis_1.apk
+com.rogerbassonsrenart.paddletennis_2.apk
+com.rogerbassonsrenart.paddletennis_3.apk
+com.rogerbassonsrenart.paddletennis_8.apk
+com.rogerbassonsrenart.paddletennis_9.apk
+com.rogerbassonsrenart.paddletennis_12.apk

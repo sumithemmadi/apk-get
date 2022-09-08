@@ -1,0 +1,8 @@
+org.deluge.trireme_5.apk
+org.deluge.trireme_6.apk
+org.deluge.trireme_7.apk
+org.deluge.trireme_9.apk
+org.deluge.trireme_11.apk
+org.deluge.trireme_15.apk
+org.deluge.trireme_18.apk
+org.deluge.trireme_20.apk

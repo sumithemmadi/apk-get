@@ -1,0 +1,7 @@
+pro.rudloff.openvegemap_6001.apk
+pro.rudloff.openvegemap_7001.apk
+pro.rudloff.openvegemap_7011.apk
+pro.rudloff.openvegemap_7021.apk
+pro.rudloff.openvegemap_8011.apk
+pro.rudloff.openvegemap_9011.apk
+pro.rudloff.openvegemap_10001.apk

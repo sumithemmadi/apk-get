@@ -1,0 +1,10 @@
+com.marv42.ebt.newnote_19.apk
+com.marv42.ebt.newnote_4300.apk
+com.marv42.ebt.newnote_4400.apk
+com.marv42.ebt.newnote_4600.apk
+com.marv42.ebt.newnote_4700.apk
+com.marv42.ebt.newnote_4800.apk
+com.marv42.ebt.newnote_4900.apk
+com.marv42.ebt.newnote_5000.apk
+com.marv42.ebt.newnote_5100.apk
+com.marv42.ebt.newnote_5300.apk

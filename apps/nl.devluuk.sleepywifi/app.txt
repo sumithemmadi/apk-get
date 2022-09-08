@@ -1,0 +1,8 @@
+nl.devluuk.sleepywifi_1.apk
+nl.devluuk.sleepywifi_2.apk
+nl.devluuk.sleepywifi_3.apk
+nl.devluuk.sleepywifi_4.apk
+nl.devluuk.sleepywifi_5.apk
+nl.devluuk.sleepywifi_6.apk
+nl.devluuk.sleepywifi_8.apk
+nl.devluuk.sleepywifi_10.apk

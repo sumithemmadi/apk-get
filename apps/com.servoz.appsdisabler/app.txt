@@ -1,0 +1,11 @@
+com.servoz.appsdisabler_1.apk
+com.servoz.appsdisabler_2.apk
+com.servoz.appsdisabler_4.apk
+com.servoz.appsdisabler_5.apk
+com.servoz.appsdisabler_6.apk
+com.servoz.appsdisabler_13.apk
+com.servoz.appsdisabler_18.apk
+com.servoz.appsdisabler_19.apk
+com.servoz.appsdisabler_120.apk
+com.servoz.appsdisabler_121.apk
+com.servoz.appsdisabler_122.apk

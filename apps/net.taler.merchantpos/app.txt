@@ -1,0 +1,1 @@
+net.taler.merchantpos_2.apk

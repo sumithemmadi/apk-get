@@ -1,0 +1,2 @@
+ch.nexuscomputing.android.osciprimeics_14.apk
+ch.nexuscomputing.android.osciprimeics_16.apk

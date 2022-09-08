@@ -1,0 +1,9 @@
+org.sugr.gearshift_69.apk
+org.sugr.gearshift_79.apk
+org.sugr.gearshift_80.apk
+org.sugr.gearshift_81.apk
+org.sugr.gearshift_82.apk
+org.sugr.gearshift_84.apk
+org.sugr.gearshift_85.apk
+org.sugr.gearshift_87.apk
+org.sugr.gearshift_88.apk

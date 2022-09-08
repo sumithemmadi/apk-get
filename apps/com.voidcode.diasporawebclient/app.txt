@@ -1,0 +1,6 @@
+com.voidcode.diasporawebclient_3.apk
+com.voidcode.diasporawebclient_6.apk
+com.voidcode.diasporawebclient_10.apk
+ve/com.voidcode.diasporawebclient_3.apk
+ve/com.voidcode.diasporawebclient_6.apk
+ve/com.voidcode.diasporawebclient_10.apk

@@ -1,0 +1,4 @@
+com.freezingwind.animereleasenotifier_6.apk
+com.freezingwind.animereleasenotifier_7.apk
+com.freezingwind.animereleasenotifier_8.apk
+com.freezingwind.animereleasenotifier_9.apk

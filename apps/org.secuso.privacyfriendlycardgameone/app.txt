@@ -1,0 +1,2 @@
+org.secuso.privacyfriendlycardgameone_1.apk
+org.secuso.privacyfriendlycardgameone_2.apk

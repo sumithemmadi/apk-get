@@ -1,0 +1,5 @@
+de.beowulf.libretranslater_1.apk
+de.beowulf.libretranslater_2.apk
+de.beowulf.libretranslater_3.apk
+de.beowulf.libretranslater_4.apk
+de.beowulf.libretranslater_5.apk

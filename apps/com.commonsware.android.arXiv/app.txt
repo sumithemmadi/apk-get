@@ -1,0 +1,6 @@
+com.commonsware.android.arXiv_92.apk
+com.commonsware.android.arXiv_106.apk
+com.commonsware.android.arXiv_108.apk
+com.commonsware.android.arXiv_112.apk
+ve/com.commonsware.android.arXiv_92.apk
+ve/com.commonsware.android.arXiv_106.apk

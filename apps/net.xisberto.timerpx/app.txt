@@ -1,0 +1,3 @@
+net.xisberto.timerpx_3.apk
+net.xisberto.timerpx_5.apk
+net.xisberto.timerpx_6.apk

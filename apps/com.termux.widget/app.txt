@@ -1,0 +1,11 @@
+com.termux.widget_3.apk
+com.termux.widget_4.apk
+com.termux.widget_5.apk
+com.termux.widget_6.apk
+com.termux.widget_7.apk
+com.termux.widget_8.apk
+com.termux.widget_9.apk
+com.termux.widget_10.apk
+com.termux.widget_11.apk
+com.termux.widget_12.apk
+com.termux.widget_13.apk

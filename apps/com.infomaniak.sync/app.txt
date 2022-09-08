@@ -1,0 +1,8 @@
+com.infomaniak.sync_23.apk
+com.infomaniak.sync_24.apk
+com.infomaniak.sync_25.apk
+com.infomaniak.sync_26.apk
+com.infomaniak.sync_27.apk
+com.infomaniak.sync_401010002.apk
+com.infomaniak.sync_402010004.apk
+com.infomaniak.sync_402020000.apk

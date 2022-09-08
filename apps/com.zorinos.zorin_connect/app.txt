@@ -1,0 +1,6 @@
+com.zorinos.zorin_connect_11260.apk
+com.zorinos.zorin_connect_11270.apk
+com.zorinos.zorin_connect_11350.apk
+com.zorinos.zorin_connect_11422.apk
+com.zorinos.zorin_connect_11700.apk
+com.zorinos.zorin_connect_11910.apk

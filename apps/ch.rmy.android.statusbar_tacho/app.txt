@@ -1,0 +1,6 @@
+ch.rmy.android.statusbar_tacho_3.apk
+ch.rmy.android.statusbar_tacho_2003000001.apk
+ch.rmy.android.statusbar_tacho_2003010000.apk
+ch.rmy.android.statusbar_tacho_2003020000.apk
+ch.rmy.android.statusbar_tacho_2003030000.apk
+ch.rmy.android.statusbar_tacho_2003040000.apk

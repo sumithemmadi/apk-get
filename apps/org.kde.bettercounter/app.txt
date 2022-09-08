@@ -1,0 +1,12 @@
+org.kde.bettercounter_10600.apk
+org.kde.bettercounter_10700.apk
+org.kde.bettercounter_10810.apk
+org.kde.bettercounter_10900.apk
+org.kde.bettercounter_11100.apk
+org.kde.bettercounter_11110.apk
+org.kde.bettercounter_20000.apk
+org.kde.bettercounter_20010.apk
+org.kde.bettercounter_21010.apk
+org.kde.bettercounter_22000.apk
+org.kde.bettercounter_23001.apk
+org.kde.bettercounter_24000.apk

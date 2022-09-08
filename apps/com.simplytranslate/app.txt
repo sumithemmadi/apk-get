@@ -1,0 +1,2 @@
+com.simplytranslate_1.apk
+com.simplytranslate_2.apk

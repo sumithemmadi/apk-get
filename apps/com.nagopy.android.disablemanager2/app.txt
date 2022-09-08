@@ -1,0 +1,3 @@
+com.nagopy.android.disablemanager2_20002.apk
+com.nagopy.android.disablemanager2_20003.apk
+com.nagopy.android.disablemanager2_20004.apk

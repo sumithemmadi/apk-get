@@ -1,0 +1,11 @@
+de.c3nav.droid_1.apk
+de.c3nav.droid_2.apk
+de.c3nav.droid_3.apk
+de.c3nav.droid_4.apk
+de.c3nav.droid_5.apk
+de.c3nav.droid_7.apk
+de.c3nav.droid_14040000.apk
+de.c3nav.droid_14040001.apk
+de.c3nav.droid_14040002.apk
+de.c3nav.droid_14040100.apk
+de.c3nav.droid_14040101.apk

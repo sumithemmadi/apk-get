@@ -1,0 +1,2 @@
+com.edwardoyarzun.diccionario_1.apk
+com.edwardoyarzun.diccionario_2.apk

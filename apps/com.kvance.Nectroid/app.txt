@@ -1,0 +1,4 @@
+com.kvance.Nectroid_10.apk
+com.kvance.Nectroid_11.apk
+ve/com.kvance.Nectroid_10.apk
+ve/com.kvance.Nectroid_11.apk

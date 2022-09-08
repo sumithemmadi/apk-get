@@ -1,0 +1,2 @@
+com.falconware.prestissimo_10.apk
+com.falconware.prestissimo_11.apk

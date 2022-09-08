@@ -1,0 +1,3 @@
+org.secuso.privacyfriendlymemory_2.apk
+org.secuso.privacyfriendlymemory_3.apk
+org.secuso.privacyfriendlymemory_6.apk

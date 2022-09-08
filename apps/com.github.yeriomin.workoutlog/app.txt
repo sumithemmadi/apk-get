@@ -1,0 +1,2 @@
+com.github.yeriomin.workoutlog_1.apk
+com.github.yeriomin.workoutlog_2.apk

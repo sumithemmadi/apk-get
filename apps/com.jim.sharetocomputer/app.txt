@@ -1,0 +1,7 @@
+com.jim.sharetocomputer_1000.apk
+com.jim.sharetocomputer_1010.apk
+com.jim.sharetocomputer_1100.apk
+com.jim.sharetocomputer_1110.apk
+com.jim.sharetocomputer_1120.apk
+com.jim.sharetocomputer_1130.apk
+com.jim.sharetocomputer_1140.apk

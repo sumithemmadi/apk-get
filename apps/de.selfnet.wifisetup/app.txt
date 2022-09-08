@@ -1,0 +1,4 @@
+de.selfnet.wifisetup_2.apk
+de.selfnet.wifisetup_4.apk
+de.selfnet.wifisetup_5.apk
+de.selfnet.wifisetup_6.apk

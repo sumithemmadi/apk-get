@@ -1,0 +1,4 @@
+com.manor.currentwidget_31.apk
+com.manor.currentwidget_36.apk
+com.manor.currentwidget_38.apk
+com.manor.currentwidget_46.apk

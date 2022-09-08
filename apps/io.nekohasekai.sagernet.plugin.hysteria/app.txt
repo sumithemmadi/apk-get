@@ -1,0 +1,7 @@
+io.nekohasekai.sagernet.plugin.hysteria_55.apk
+io.nekohasekai.sagernet.plugin.hysteria_60.apk
+io.nekohasekai.sagernet.plugin.hysteria_65.apk
+io.nekohasekai.sagernet.plugin.hysteria_70.apk
+io.nekohasekai.sagernet.plugin.hysteria_75.apk
+io.nekohasekai.sagernet.plugin.hysteria_80.apk
+io.nekohasekai.sagernet.plugin.hysteria_85.apk

@@ -1,0 +1,3 @@
+org.secuso.privacyfriendlydame_1.apk
+org.secuso.privacyfriendlydame_2.apk
+org.secuso.privacyfriendlydame_3.apk

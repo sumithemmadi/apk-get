@@ -1,0 +1,6 @@
+com.yubico.yubiclip_1.apk
+com.yubico.yubiclip_2.apk
+com.yubico.yubiclip_3.apk
+com.yubico.yubiclip_4.apk
+com.yubico.yubiclip_5.apk
+com.yubico.yubiclip_10300.apk

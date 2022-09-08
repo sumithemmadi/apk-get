@@ -1,0 +1,5 @@
+org.asdtm.goodweather_7.apk
+org.asdtm.goodweather_10.apk
+org.asdtm.goodweather_11.apk
+org.asdtm.goodweather_12.apk
+org.asdtm.goodweather_13.apk

@@ -1,0 +1,4 @@
+ch.blinkenlights.android.vanillaplug_110.apk
+ch.blinkenlights.android.vanillaplug_150.apk
+ch.blinkenlights.android.vanillaplug_160.apk
+ch.blinkenlights.android.vanillaplug_170.apk

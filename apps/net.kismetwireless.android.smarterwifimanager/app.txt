@@ -1,0 +1,5 @@
+net.kismetwireless.android.smarterwifimanager_56.apk
+net.kismetwireless.android.smarterwifimanager_59.apk
+net.kismetwireless.android.smarterwifimanager_70.apk
+net.kismetwireless.android.smarterwifimanager_84.apk
+net.kismetwireless.android.smarterwifimanager_85.apk

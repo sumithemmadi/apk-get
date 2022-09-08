@@ -1,0 +1,8 @@
+io.ente.photos.fdroid_296.apk
+io.ente.photos.fdroid_315.apk
+io.ente.photos.fdroid_333.apk
+io.ente.photos.fdroid_341.apk
+io.ente.photos.fdroid_342.apk
+io.ente.photos.fdroid_343.apk
+io.ente.photos.fdroid_347.apk
+io.ente.photos.fdroid_349.apk

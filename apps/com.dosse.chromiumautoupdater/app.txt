@@ -1,0 +1,10 @@
+com.dosse.chromiumautoupdater_13.apk
+com.dosse.chromiumautoupdater_14.apk
+com.dosse.chromiumautoupdater_15.apk
+com.dosse.chromiumautoupdater_16.apk
+com.dosse.chromiumautoupdater_17.apk
+com.dosse.chromiumautoupdater_22.apk
+com.dosse.chromiumautoupdater_23.apk
+com.dosse.chromiumautoupdater_24.apk
+com.dosse.chromiumautoupdater_25.apk
+com.dosse.chromiumautoupdater_26.apk

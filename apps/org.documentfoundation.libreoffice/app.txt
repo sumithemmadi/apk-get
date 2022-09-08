@@ -1,0 +1,6 @@
+org.documentfoundation.libreoffice_1.apk
+org.documentfoundation.libreoffice_2.apk
+org.documentfoundation.libreoffice_10.apk
+org.documentfoundation.libreoffice_11.apk
+org.documentfoundation.libreoffice_14.apk
+org.documentfoundation.libreoffice_15.apk

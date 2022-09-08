@@ -1,0 +1,11 @@
+org.droidtr.deletegapps_2.apk
+org.droidtr.deletegapps_4.apk
+org.droidtr.deletegapps_6.apk
+org.droidtr.deletegapps_7.apk
+org.droidtr.deletegapps_8.apk
+org.droidtr.deletegapps_9.apk
+org.droidtr.deletegapps_10.apk
+org.droidtr.deletegapps_11.apk
+org.droidtr.deletegapps_14.apk
+org.droidtr.deletegapps_15.apk
+org.droidtr.deletegapps_16.apk

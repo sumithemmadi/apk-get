@@ -1,0 +1,2 @@
+com.alaskalinuxuser.criticalvelocity_1.apk
+com.alaskalinuxuser.criticalvelocity_10.apk

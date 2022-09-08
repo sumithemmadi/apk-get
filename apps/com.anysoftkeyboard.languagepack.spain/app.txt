@@ -1,0 +1,7 @@
+com.anysoftkeyboard.languagepack.spain_2.apk
+com.anysoftkeyboard.languagepack.spain_3.apk
+com.anysoftkeyboard.languagepack.spain_100.apk
+com.anysoftkeyboard.languagepack.spain_165.apk
+com.anysoftkeyboard.languagepack.spain_167.apk
+com.anysoftkeyboard.languagepack.spain_168.apk
+com.anysoftkeyboard.languagepack.spain_2908.apk

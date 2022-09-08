@@ -1,0 +1,6 @@
+net.sylvek.sharemyposition_16.apk
+net.sylvek.sharemyposition_20.apk
+net.sylvek.sharemyposition_24.apk
+ve/net.sylvek.sharemyposition_16.apk
+ve/net.sylvek.sharemyposition_20.apk
+ve/net.sylvek.sharemyposition_24.apk

@@ -1,0 +1,13 @@
+org.kiwix.kiwixmobile_26.apk
+org.kiwix.kiwixmobile_27.apk
+org.kiwix.kiwixmobile_45.apk
+org.kiwix.kiwixmobile_47.apk
+org.kiwix.kiwixmobile_55.apk
+org.kiwix.kiwixmobile_220501.apk
+org.kiwix.kiwixmobile_220503.apk
+org.kiwix.kiwixmobile_230103.apk
+org.kiwix.kiwixmobile_230201.apk
+org.kiwix.kiwixmobile_230301.apk
+org.kiwix.kiwixmobile_230401.apk
+org.kiwix.kiwixmobile_7230500.apk
+org.kiwix.kiwixmobile_7230600.apk

@@ -1,0 +1,7 @@
+cloud.valetudo.companion_3.apk
+cloud.valetudo.companion_4.apk
+cloud.valetudo.companion_5.apk
+cloud.valetudo.companion_6.apk
+cloud.valetudo.companion_7.apk
+cloud.valetudo.companion_8.apk
+cloud.valetudo.companion_10.apk

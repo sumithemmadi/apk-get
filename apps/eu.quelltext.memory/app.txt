@@ -1,0 +1,6 @@
+eu.quelltext.memory_2.apk
+eu.quelltext.memory_3.apk
+eu.quelltext.memory_4.apk
+eu.quelltext.memory_5.apk
+eu.quelltext.memory_6.apk
+eu.quelltext.memory_7.apk

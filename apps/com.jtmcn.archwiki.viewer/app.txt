@@ -1,0 +1,4 @@
+com.jtmcn.archwiki.viewer_8.apk
+com.jtmcn.archwiki.viewer_12.apk
+com.jtmcn.archwiki.viewer_14.apk
+com.jtmcn.archwiki.viewer_15.apk

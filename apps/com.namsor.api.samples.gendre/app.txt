@@ -1,0 +1,2 @@
+com.namsor.api.samples.gendre_2.apk
+com.namsor.api.samples.gendre_3.apk

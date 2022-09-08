@@ -1,0 +1,2 @@
+com.sismics.reader_5.apk
+com.sismics.reader_6.apk

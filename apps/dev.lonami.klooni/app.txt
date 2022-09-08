@@ -1,0 +1,3 @@
+dev.lonami.klooni_840.apk
+dev.lonami.klooni_850.apk
+dev.lonami.klooni_860.apk

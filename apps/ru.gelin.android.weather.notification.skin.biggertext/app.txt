@@ -1,0 +1,2 @@
+ru.gelin.android.weather.notification.skin.biggertext_17.apk
+ru.gelin.android.weather.notification.skin.biggertext_18.apk

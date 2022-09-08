@@ -1,0 +1,3 @@
+com.correctsyntax.biblenotify_8.apk
+com.correctsyntax.biblenotify_12.apk
+com.correctsyntax.biblenotify_14.apk

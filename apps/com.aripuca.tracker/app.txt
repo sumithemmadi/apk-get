@@ -1,0 +1,10 @@
+com.aripuca.tracker_18.apk
+com.aripuca.tracker_19.apk
+com.aripuca.tracker_20.apk
+com.aripuca.tracker_22.apk
+com.aripuca.tracker_24.apk
+com.aripuca.tracker_26.apk
+ve/com.aripuca.tracker_18.apk
+ve/com.aripuca.tracker_19.apk
+ve/com.aripuca.tracker_20.apk
+ve/com.aripuca.tracker_22.apk

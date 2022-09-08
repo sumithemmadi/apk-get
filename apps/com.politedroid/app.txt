@@ -1,0 +1,7 @@
+com.politedroid_3.apk
+com.politedroid_4.apk
+com.politedroid_5.apk
+com.politedroid_6.apk
+ve/com.politedroid_3.apk
+ve/com.politedroid_4.apk
+ve/com.politedroid_5.apk

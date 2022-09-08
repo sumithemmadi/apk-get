@@ -1,0 +1,5 @@
+net.justdave.nwsweatheralertswidget_7.apk
+net.justdave.nwsweatheralertswidget_8.apk
+net.justdave.nwsweatheralertswidget_9.apk
+net.justdave.nwsweatheralertswidget_10.apk
+net.justdave.nwsweatheralertswidget_12.apk

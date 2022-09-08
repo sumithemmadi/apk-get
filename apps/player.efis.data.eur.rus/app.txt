@@ -1,0 +1,5 @@
+player.efis.data.eur.rus_1.apk
+player.efis.data.eur.rus_3.apk
+player.efis.data.eur.rus_4.apk
+player.efis.data.eur.rus_5.apk
+player.efis.data.eur.rus_6.apk

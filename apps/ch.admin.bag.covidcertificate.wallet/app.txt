@@ -1,0 +1,16 @@
+ch.admin.bag.covidcertificate.wallet_1200.apk
+ch.admin.bag.covidcertificate.wallet_2000.apk
+ch.admin.bag.covidcertificate.wallet_2701.apk
+ch.admin.bag.covidcertificate.wallet_2800.apk
+ch.admin.bag.covidcertificate.wallet_2900.apk
+ch.admin.bag.covidcertificate.wallet_2100000.apk
+ch.admin.bag.covidcertificate.wallet_3000000.apk
+ch.admin.bag.covidcertificate.wallet_3010000.apk
+ch.admin.bag.covidcertificate.wallet_3020000.apk
+ch.admin.bag.covidcertificate.wallet_3030000.apk
+ch.admin.bag.covidcertificate.wallet_3050000.apk
+ch.admin.bag.covidcertificate.wallet_3070000.apk
+ch.admin.bag.covidcertificate.wallet_4000000.apk
+ch.admin.bag.covidcertificate.wallet_4010000.apk
+ch.admin.bag.covidcertificate.wallet_4030000.apk
+ch.admin.bag.covidcertificate.wallet_4040000.apk

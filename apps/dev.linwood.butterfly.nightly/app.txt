@@ -1,0 +1,10 @@
+dev.linwood.butterfly.nightly_30.apk
+dev.linwood.butterfly.nightly_31.apk
+dev.linwood.butterfly.nightly_34.apk
+dev.linwood.butterfly.nightly_35.apk
+dev.linwood.butterfly.nightly_36.apk
+dev.linwood.butterfly.nightly_37.apk
+dev.linwood.butterfly.nightly_38.apk
+dev.linwood.butterfly.nightly_39.apk
+dev.linwood.butterfly.nightly_40.apk
+dev.linwood.butterfly.nightly_41.apk

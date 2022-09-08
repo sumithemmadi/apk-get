@@ -1,0 +1,9 @@
+net.mypapit.mobile.myposition_8.apk
+net.mypapit.mobile.myposition_9.apk
+net.mypapit.mobile.myposition_10.apk
+net.mypapit.mobile.myposition_11.apk
+net.mypapit.mobile.myposition_12.apk
+net.mypapit.mobile.myposition_13.apk
+net.mypapit.mobile.myposition_14.apk
+net.mypapit.mobile.myposition_15.apk
+net.mypapit.mobile.myposition_16.apk

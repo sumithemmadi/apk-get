@@ -1,0 +1,13 @@
+org.openbmap_1.apk
+org.openbmap_2.apk
+org.openbmap_5.apk
+org.openbmap_6.apk
+org.openbmap_7.apk
+org.openbmap_8.apk
+org.openbmap_11.apk
+org.openbmap_12.apk
+org.openbmap_16.apk
+org.openbmap_19.apk
+org.openbmap_22.apk
+org.openbmap_24.apk
+org.openbmap_27.apk

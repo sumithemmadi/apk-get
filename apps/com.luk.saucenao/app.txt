@@ -1,0 +1,15 @@
+com.luk.saucenao_1.apk
+com.luk.saucenao_2.apk
+com.luk.saucenao_3.apk
+com.luk.saucenao_4.apk
+com.luk.saucenao_5.apk
+com.luk.saucenao_6.apk
+com.luk.saucenao_7.apk
+com.luk.saucenao_8.apk
+com.luk.saucenao_9.apk
+com.luk.saucenao_11.apk
+com.luk.saucenao_12.apk
+com.luk.saucenao_13.apk
+com.luk.saucenao_14.apk
+com.luk.saucenao_15.apk
+com.luk.saucenao_16.apk

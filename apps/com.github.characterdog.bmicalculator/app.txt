@@ -1,0 +1,3 @@
+com.github.characterdog.bmicalculator_1.apk
+com.github.characterdog.bmicalculator_2.apk
+com.github.characterdog.bmicalculator_3.apk

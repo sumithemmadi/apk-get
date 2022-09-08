@@ -1,0 +1,3 @@
+net.sourceforge.wifiremoteplay_7.apk
+net.sourceforge.wifiremoteplay_8.apk
+net.sourceforge.wifiremoteplay_9.apk

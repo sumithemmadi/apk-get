@@ -1,0 +1,10 @@
+com.artifex.mupdf.mini.app_30.apk
+com.artifex.mupdf.mini.app_40.apk
+com.artifex.mupdf.mini.app_50.apk
+com.artifex.mupdf.mini.app_60.apk
+com.artifex.mupdf.mini.app_70.apk
+com.artifex.mupdf.mini.app_80.apk
+com.artifex.mupdf.mini.app_90.apk
+com.artifex.mupdf.mini.app_100.apk
+com.artifex.mupdf.mini.app_101.apk
+com.artifex.mupdf.mini.app_102.apk

@@ -1,0 +1,2 @@
+io.homeassistant.android_2.apk
+io.homeassistant.android_4.apk

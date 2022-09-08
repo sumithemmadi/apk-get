@@ -1,0 +1,8 @@
+ch.fixme.status_10.apk
+ch.fixme.status_14.apk
+ch.fixme.status_15.apk
+ch.fixme.status_16.apk
+ch.fixme.status_17.apk
+ch.fixme.status_19.apk
+ch.fixme.status_20.apk
+ch.fixme.status_21.apk

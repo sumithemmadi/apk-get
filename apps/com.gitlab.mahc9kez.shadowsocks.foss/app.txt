@@ -1,0 +1,6 @@
+com.gitlab.mahc9kez.shadowsocks.foss_40807010.apk
+com.gitlab.mahc9kez.shadowsocks.foss_50001000.apk
+com.gitlab.mahc9kez.shadowsocks.foss_50005000.apk
+com.gitlab.mahc9kez.shadowsocks.foss_50006000.apk
+com.gitlab.mahc9kez.shadowsocks.foss_50102000.apk
+com.gitlab.mahc9kez.shadowsocks.foss_50104000.apk

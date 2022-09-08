@@ -1,0 +1,13 @@
+org.secuso.privacyfriendlyweather_1.apk
+org.secuso.privacyfriendlyweather_2.apk
+org.secuso.privacyfriendlyweather_5.apk
+org.secuso.privacyfriendlyweather_6.apk
+org.secuso.privacyfriendlyweather_7.apk
+org.secuso.privacyfriendlyweather_9.apk
+org.secuso.privacyfriendlyweather_10.apk
+org.secuso.privacyfriendlyweather_11.apk
+org.secuso.privacyfriendlyweather_12.apk
+org.secuso.privacyfriendlyweather_13.apk
+org.secuso.privacyfriendlyweather_14.apk
+org.secuso.privacyfriendlyweather_15.apk
+org.secuso.privacyfriendlyweather_17.apk

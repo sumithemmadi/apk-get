@@ -1,0 +1,5 @@
+de.thecode.android.tazreader_3090102.apk
+de.thecode.android.tazreader_3090202.apk
+de.thecode.android.tazreader_3090203.apk
+de.thecode.android.tazreader_3100300.apk
+de.thecode.android.tazreader_3140000.apk

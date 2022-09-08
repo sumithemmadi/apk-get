@@ -1,0 +1,3 @@
+com.porg.gugal_4.apk
+com.porg.gugal_5.apk
+com.porg.gugal_9.apk

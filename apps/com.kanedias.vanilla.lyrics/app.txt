@@ -1,0 +1,13 @@
+com.kanedias.vanilla.lyrics_1.apk
+com.kanedias.vanilla.lyrics_2.apk
+com.kanedias.vanilla.lyrics_3.apk
+com.kanedias.vanilla.lyrics_4.apk
+com.kanedias.vanilla.lyrics_5.apk
+com.kanedias.vanilla.lyrics_6.apk
+com.kanedias.vanilla.lyrics_7.apk
+com.kanedias.vanilla.lyrics_8.apk
+com.kanedias.vanilla.lyrics_9.apk
+com.kanedias.vanilla.lyrics_10.apk
+com.kanedias.vanilla.lyrics_11.apk
+com.kanedias.vanilla.lyrics_12.apk
+com.kanedias.vanilla.lyrics_13.apk

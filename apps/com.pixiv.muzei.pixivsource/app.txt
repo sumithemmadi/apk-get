@@ -1,0 +1,7 @@
+com.pixiv.muzei.pixivsource_10100.apk
+com.pixiv.muzei.pixivsource_10102.apk
+com.pixiv.muzei.pixivsource_10103.apk
+com.pixiv.muzei.pixivsource_20000.apk
+com.pixiv.muzei.pixivsource_20100.apk
+com.pixiv.muzei.pixivsource_20201.apk
+com.pixiv.muzei.pixivsource_30000.apk

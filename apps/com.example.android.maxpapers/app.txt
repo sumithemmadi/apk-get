@@ -1,0 +1,4 @@
+com.example.android.maxpapers_35.apk
+com.example.android.maxpapers_46.apk
+ve/com.example.android.maxpapers_35.apk
+ve/com.example.android.maxpapers_46.apk

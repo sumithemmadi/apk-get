@@ -1,0 +1,2 @@
+com.kolloware.wechange_4.apk
+com.kolloware.wechange_6.apk

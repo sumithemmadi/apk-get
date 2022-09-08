@@ -1,0 +1,5 @@
+org.androidsoft.app.permission_12.apk
+org.androidsoft.app.permission_13.apk
+org.androidsoft.app.permission_18.apk
+ve/org.androidsoft.app.permission_12.apk
+ve/org.androidsoft.app.permission_13.apk

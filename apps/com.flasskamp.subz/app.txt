@@ -1,0 +1,4 @@
+com.flasskamp.subz_1.apk
+com.flasskamp.subz_2.apk
+com.flasskamp.subz_3.apk
+com.flasskamp.subz_4.apk

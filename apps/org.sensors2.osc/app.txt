@@ -1,0 +1,5 @@
+org.sensors2.osc_1.apk
+org.sensors2.osc_2.apk
+org.sensors2.osc_3.apk
+org.sensors2.osc_4.apk
+org.sensors2.osc_5.apk

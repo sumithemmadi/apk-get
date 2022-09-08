@@ -1,0 +1,5 @@
+com.github.yeriomin.dumbphoneassistant_1.apk
+com.github.yeriomin.dumbphoneassistant_2.apk
+com.github.yeriomin.dumbphoneassistant_3.apk
+com.github.yeriomin.dumbphoneassistant_4.apk
+com.github.yeriomin.dumbphoneassistant_5.apk

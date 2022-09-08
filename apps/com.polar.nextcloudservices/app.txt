@@ -1,0 +1,7 @@
+com.polar.nextcloudservices_6.apk
+com.polar.nextcloudservices_7.apk
+com.polar.nextcloudservices_8.apk
+com.polar.nextcloudservices_9.apk
+com.polar.nextcloudservices_10.apk
+com.polar.nextcloudservices_11.apk
+com.polar.nextcloudservices_12.apk

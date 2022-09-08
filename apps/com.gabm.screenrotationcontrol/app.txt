@@ -1,0 +1,10 @@
+com.gabm.screenrotationcontrol_2.apk
+com.gabm.screenrotationcontrol_3.apk
+com.gabm.screenrotationcontrol_4.apk
+com.gabm.screenrotationcontrol_6.apk
+com.gabm.screenrotationcontrol_7.apk
+com.gabm.screenrotationcontrol_8.apk
+com.gabm.screenrotationcontrol_9.apk
+com.gabm.screenrotationcontrol_10.apk
+com.gabm.screenrotationcontrol_12.apk
+com.gabm.screenrotationcontrol_13.apk

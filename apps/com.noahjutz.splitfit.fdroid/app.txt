@@ -1,0 +1,16 @@
+com.noahjutz.splitfit.fdroid_17.apk
+com.noahjutz.splitfit.fdroid_19.apk
+com.noahjutz.splitfit.fdroid_20.apk
+com.noahjutz.splitfit.fdroid_21.apk
+com.noahjutz.splitfit.fdroid_22.apk
+com.noahjutz.splitfit.fdroid_23.apk
+com.noahjutz.splitfit.fdroid_24.apk
+com.noahjutz.splitfit.fdroid_25.apk
+com.noahjutz.splitfit.fdroid_26.apk
+com.noahjutz.splitfit.fdroid_27.apk
+com.noahjutz.splitfit.fdroid_28.apk
+com.noahjutz.splitfit.fdroid_29.apk
+com.noahjutz.splitfit.fdroid_30.apk
+com.noahjutz.splitfit.fdroid_31.apk
+com.noahjutz.splitfit.fdroid_32.apk
+com.noahjutz.splitfit.fdroid_33.apk

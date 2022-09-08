@@ -1,0 +1,5 @@
+com.anysoftkeyboard.languagepack.hungarian_12.apk
+com.anysoftkeyboard.languagepack.hungarian_15.apk
+com.anysoftkeyboard.languagepack.hungarian_16.apk
+com.anysoftkeyboard.languagepack.hungarian_2908.apk
+ve/com.anysoftkeyboard.languagepack.hungarian_12.apk

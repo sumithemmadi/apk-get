@@ -1,0 +1,2 @@
+com.szchoiceway.aios.bridge_7.apk
+com.szchoiceway.aios.bridge_8.apk

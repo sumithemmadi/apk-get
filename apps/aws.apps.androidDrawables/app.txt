@@ -1,0 +1,4 @@
+aws.apps.androidDrawables_7.apk
+aws.apps.androidDrawables_8.apk
+ve/aws.apps.androidDrawables_7.apk
+ve/aws.apps.androidDrawables_8.apk

@@ -1,0 +1,4 @@
+de.nulide.bikecomputer_1.apk
+de.nulide.bikecomputer_2.apk
+de.nulide.bikecomputer_3.apk
+de.nulide.bikecomputer_4.apk

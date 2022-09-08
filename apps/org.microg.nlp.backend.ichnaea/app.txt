@@ -1,0 +1,10 @@
+org.microg.nlp.backend.ichnaea_900.apk
+org.microg.nlp.backend.ichnaea_1000.apk
+org.microg.nlp.backend.ichnaea_1001.apk
+org.microg.nlp.backend.ichnaea_10000.apk
+org.microg.nlp.backend.ichnaea_10100.apk
+org.microg.nlp.backend.ichnaea_10200.apk
+org.microg.nlp.backend.ichnaea_20018.apk
+org.microg.nlp.backend.ichnaea_20026.apk
+org.microg.nlp.backend.ichnaea_20033.apk
+org.microg.nlp.backend.ichnaea_20036.apk

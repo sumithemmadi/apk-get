@@ -1,0 +1,3 @@
+com.zoffcc.applications.metalab_open_widget_10001.apk
+com.zoffcc.applications.metalab_open_widget_10002.apk
+com.zoffcc.applications.metalab_open_widget_10004.apk

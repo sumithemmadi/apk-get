@@ -1,0 +1,4 @@
+com.slash.batterychargelimit_20.apk
+com.slash.batterychargelimit_21.apk
+com.slash.batterychargelimit_22.apk
+com.slash.batterychargelimit_23.apk

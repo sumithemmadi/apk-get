@@ -1,0 +1,2 @@
+com.anysoftkeyboard.languagepack.basque_1.apk
+com.anysoftkeyboard.languagepack.basque_2908.apk

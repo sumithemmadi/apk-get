@@ -1,0 +1,4 @@
+net.basov.lws.fdroid_30001.apk
+net.basov.lws.fdroid_50000.apk
+net.basov.lws.fdroid_60000.apk
+net.basov.lws.fdroid_70000.apk

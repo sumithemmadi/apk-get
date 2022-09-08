@@ -1,0 +1,4 @@
+com.kpz.pomodorotasks.activity_7.apk
+com.kpz.pomodorotasks.activity_8.apk
+ve/com.kpz.pomodorotasks.activity_7.apk
+ve/com.kpz.pomodorotasks.activity_8.apk

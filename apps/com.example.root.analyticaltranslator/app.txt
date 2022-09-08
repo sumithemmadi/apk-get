@@ -1,0 +1,5 @@
+com.example.root.analyticaltranslator_1.apk
+com.example.root.analyticaltranslator_2.apk
+com.example.root.analyticaltranslator_3.apk
+com.example.root.analyticaltranslator_5.apk
+com.example.root.analyticaltranslator_6.apk

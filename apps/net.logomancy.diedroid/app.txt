@@ -1,0 +1,5 @@
+net.logomancy.diedroid_8.apk
+net.logomancy.diedroid_9.apk
+net.logomancy.diedroid_10.apk
+ve/net.logomancy.diedroid_8.apk
+ve/net.logomancy.diedroid_9.apk

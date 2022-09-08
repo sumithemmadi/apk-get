@@ -1,0 +1,6 @@
+protect.gift_card_guard_1.apk
+protect.gift_card_guard_2.apk
+protect.gift_card_guard_3.apk
+protect.gift_card_guard_4.apk
+protect.gift_card_guard_5.apk
+protect.gift_card_guard_6.apk

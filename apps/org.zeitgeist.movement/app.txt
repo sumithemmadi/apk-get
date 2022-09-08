@@ -1,0 +1,4 @@
+org.zeitgeist.movement_24.apk
+org.zeitgeist.movement_25.apk
+ve/org.zeitgeist.movement_24.apk
+ve/org.zeitgeist.movement_25.apk

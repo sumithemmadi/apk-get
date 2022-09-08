@@ -1,0 +1,2 @@
+com.rascarlo.adaptive.brightness.tile_1.apk
+com.rascarlo.adaptive.brightness.tile_2.apk

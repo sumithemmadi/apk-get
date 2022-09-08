@@ -1,0 +1,3 @@
+info.spotcomms.wlanbackend_23.apk
+info.spotcomms.wlanbackend_24.apk
+info.spotcomms.wlanbackend_25.apk

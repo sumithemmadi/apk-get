@@ -1,0 +1,7 @@
+com.phpsysinfo_833.apk
+com.phpsysinfo_840.apk
+com.phpsysinfo_860.apk
+com.phpsysinfo_910.apk
+com.phpsysinfo_940.apk
+com.phpsysinfo_950.apk
+com.phpsysinfo_960.apk

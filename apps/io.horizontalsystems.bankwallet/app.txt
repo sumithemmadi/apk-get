@@ -1,0 +1,17 @@
+io.horizontalsystems.bankwallet_48.apk
+io.horizontalsystems.bankwallet_52.apk
+io.horizontalsystems.bankwallet_53.apk
+io.horizontalsystems.bankwallet_54.apk
+io.horizontalsystems.bankwallet_55.apk
+io.horizontalsystems.bankwallet_56.apk
+io.horizontalsystems.bankwallet_57.apk
+io.horizontalsystems.bankwallet_58.apk
+io.horizontalsystems.bankwallet_59.apk
+io.horizontalsystems.bankwallet_60.apk
+io.horizontalsystems.bankwallet_61.apk
+io.horizontalsystems.bankwallet_62.apk
+io.horizontalsystems.bankwallet_63.apk
+io.horizontalsystems.bankwallet_64.apk
+io.horizontalsystems.bankwallet_65.apk
+io.horizontalsystems.bankwallet_66.apk
+io.horizontalsystems.bankwallet_67.apk

@@ -1,0 +1,3 @@
+com.sensirion.smartgadget_88.apk
+com.sensirion.smartgadget_90.apk
+com.sensirion.smartgadget_96.apk

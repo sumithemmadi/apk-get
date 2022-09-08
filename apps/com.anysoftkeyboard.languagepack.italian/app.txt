@@ -1,0 +1,2 @@
+com.anysoftkeyboard.languagepack.italian_100.apk
+com.anysoftkeyboard.languagepack.italian_2908.apk

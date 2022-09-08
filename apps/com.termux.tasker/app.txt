@@ -1,0 +1,6 @@
+com.termux.tasker_1.apk
+com.termux.tasker_2.apk
+com.termux.tasker_3.apk
+com.termux.tasker_4.apk
+com.termux.tasker_5.apk
+com.termux.tasker_6.apk

@@ -1,0 +1,17 @@
+org.smc.inputmethod.indic_15.apk
+org.smc.inputmethod.indic_21.apk
+org.smc.inputmethod.indic_22.apk
+org.smc.inputmethod.indic_24.apk
+org.smc.inputmethod.indic_25.apk
+org.smc.inputmethod.indic_27.apk
+org.smc.inputmethod.indic_28.apk
+org.smc.inputmethod.indic_45.apk
+org.smc.inputmethod.indic_46.apk
+org.smc.inputmethod.indic_47.apk
+org.smc.inputmethod.indic_48.apk
+org.smc.inputmethod.indic_51.apk
+org.smc.inputmethod.indic_52.apk
+org.smc.inputmethod.indic_70.apk
+org.smc.inputmethod.indic_71.apk
+org.smc.inputmethod.indic_75.apk
+org.smc.inputmethod.indic_76.apk

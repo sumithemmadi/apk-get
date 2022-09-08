@@ -1,0 +1,8 @@
+org.fsociety.vernet_5.apk
+org.fsociety.vernet_7.apk
+org.fsociety.vernet_8.apk
+org.fsociety.vernet_9.apk
+org.fsociety.vernet_10.apk
+org.fsociety.vernet_11.apk
+org.fsociety.vernet_12.apk
+org.fsociety.vernet_13.apk

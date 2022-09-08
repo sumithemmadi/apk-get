@@ -1,0 +1,6 @@
+io.vertretungsplan.client.android_1.apk
+io.vertretungsplan.client.android_2.apk
+io.vertretungsplan.client.android_3.apk
+io.vertretungsplan.client.android_4.apk
+io.vertretungsplan.client.android_5.apk
+io.vertretungsplan.client.android_6.apk

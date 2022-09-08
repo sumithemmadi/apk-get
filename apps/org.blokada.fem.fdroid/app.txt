@@ -1,0 +1,15 @@
+org.blokada.fem.fdroid_505000000.apk
+org.blokada.fem.fdroid_506000000.apk
+org.blokada.fem.fdroid_507000000.apk
+org.blokada.fem.fdroid_508000000.apk
+org.blokada.fem.fdroid_509000000.apk
+org.blokada.fem.fdroid_510000001.apk
+org.blokada.fem.fdroid_512000000.apk
+org.blokada.fem.fdroid_513000000.apk
+org.blokada.fem.fdroid_514000004.apk
+org.blokada.fem.fdroid_515000000.apk
+org.blokada.fem.fdroid_516000000.apk
+org.blokada.fem.fdroid_517000002.apk
+org.blokada.fem.fdroid_518000000.apk
+org.blokada.fem.fdroid_520000002.apk
+org.blokada.fem.fdroid_521000000.apk

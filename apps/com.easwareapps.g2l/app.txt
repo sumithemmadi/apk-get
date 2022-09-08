@@ -1,0 +1,6 @@
+com.easwareapps.g2l_5.apk
+com.easwareapps.g2l_6.apk
+com.easwareapps.g2l_7.apk
+com.easwareapps.g2l_10.apk
+com.easwareapps.g2l_11.apk
+com.easwareapps.g2l_23.apk

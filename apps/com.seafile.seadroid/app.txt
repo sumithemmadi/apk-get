@@ -1,0 +1,2 @@
+com.seafile.seadroid_2.apk
+ve/com.seafile.seadroid_2.apk

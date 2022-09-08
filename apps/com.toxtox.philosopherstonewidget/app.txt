@@ -1,0 +1,3 @@
+com.toxtox.philosopherstonewidget_1.apk
+com.toxtox.philosopherstonewidget_2.apk
+com.toxtox.philosopherstonewidget_3.apk

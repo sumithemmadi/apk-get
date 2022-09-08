@@ -1,0 +1,2 @@
+de.wger.flutter_24.apk
+de.wger.flutter_25.apk

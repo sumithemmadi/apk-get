@@ -1,0 +1,13 @@
+de.shandschuh.slightbackup_6.apk
+de.shandschuh.slightbackup_12.apk
+de.shandschuh.slightbackup_13.apk
+de.shandschuh.slightbackup_15.apk
+de.shandschuh.slightbackup_16.apk
+de.shandschuh.slightbackup_18.apk
+de.shandschuh.slightbackup_19.apk
+ve/de.shandschuh.slightbackup_6.apk
+ve/de.shandschuh.slightbackup_12.apk
+ve/de.shandschuh.slightbackup_13.apk
+ve/de.shandschuh.slightbackup_15.apk
+ve/de.shandschuh.slightbackup_16.apk
+ve/de.shandschuh.slightbackup_18.apk

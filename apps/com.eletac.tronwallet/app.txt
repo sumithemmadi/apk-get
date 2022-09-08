@@ -1,0 +1,2 @@
+com.eletac.tronwallet_11.apk
+com.eletac.tronwallet_37.apk

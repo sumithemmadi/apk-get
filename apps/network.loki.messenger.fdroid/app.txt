@@ -1,0 +1,5 @@
+network.loki.messenger.fdroid_2795.apk
+network.loki.messenger.fdroid_2835.apk
+network.loki.messenger.fdroid_2875.apk
+network.loki.messenger.fdroid_2885.apk
+network.loki.messenger.fdroid_2935.apk

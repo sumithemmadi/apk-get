@@ -1,0 +1,9 @@
+com.github.tmo1.sms_ie_2.apk
+com.github.tmo1.sms_ie_3.apk
+com.github.tmo1.sms_ie_4.apk
+com.github.tmo1.sms_ie_5.apk
+com.github.tmo1.sms_ie_6.apk
+com.github.tmo1.sms_ie_7.apk
+com.github.tmo1.sms_ie_8.apk
+com.github.tmo1.sms_ie_9.apk
+com.github.tmo1.sms_ie_10.apk

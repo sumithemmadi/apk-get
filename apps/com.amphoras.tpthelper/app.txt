@@ -1,0 +1,3 @@
+com.amphoras.tpthelper_24.apk
+com.amphoras.tpthelper_25.apk
+ve/com.amphoras.tpthelper_24.apk

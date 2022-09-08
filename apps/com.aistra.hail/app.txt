@@ -1,0 +1,7 @@
+com.aistra.hail_11.apk
+com.aistra.hail_13.apk
+com.aistra.hail_14.apk
+com.aistra.hail_15.apk
+com.aistra.hail_16.apk
+com.aistra.hail_17.apk
+com.aistra.hail_18.apk

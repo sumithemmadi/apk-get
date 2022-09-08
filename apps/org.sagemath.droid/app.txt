@@ -1,0 +1,5 @@
+org.sagemath.droid_4.apk
+org.sagemath.droid_5.apk
+org.sagemath.droid_7.apk
+org.sagemath.droid_8.apk
+ve/org.sagemath.droid_4.apk

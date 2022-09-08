@@ -1,0 +1,12 @@
+com.maxistar.textpad_17.apk
+com.maxistar.textpad_25.apk
+com.maxistar.textpad_28.apk
+com.maxistar.textpad_29.apk
+com.maxistar.textpad_31.apk
+com.maxistar.textpad_32.apk
+com.maxistar.textpad_33.apk
+com.maxistar.textpad_34.apk
+com.maxistar.textpad_35.apk
+com.maxistar.textpad_37.apk
+com.maxistar.textpad_38.apk
+com.maxistar.textpad_40.apk

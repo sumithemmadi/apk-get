@@ -1,0 +1,5 @@
+kdk.android.simplydo_1.apk
+kdk.android.simplydo_2.apk
+kdk.android.simplydo_3.apk
+ve/kdk.android.simplydo_1.apk
+ve/kdk.android.simplydo_2.apk

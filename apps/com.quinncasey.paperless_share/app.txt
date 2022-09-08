@@ -1,0 +1,5 @@
+com.quinncasey.paperless_share_1005.apk
+com.quinncasey.paperless_share_1006.apk
+com.quinncasey.paperless_share_1008.apk
+com.quinncasey.paperless_share_1009.apk
+com.quinncasey.paperless_share_1011.apk

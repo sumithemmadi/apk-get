@@ -1,0 +1,3 @@
+org.fdroid.dashclock.k9_2.apk
+org.fdroid.dashclock.k9_3.apk
+org.fdroid.dashclock.k9_4.apk

@@ -1,0 +1,14 @@
+org.fastergps_1.apk
+org.fastergps_3.apk
+org.fastergps_4.apk
+org.fastergps_5.apk
+org.fastergps_7.apk
+org.fastergps_11.apk
+org.fastergps_12.apk
+org.fastergps_13.apk
+org.fastergps_14.apk
+ve/org.fastergps_1.apk
+ve/org.fastergps_3.apk
+ve/org.fastergps_4.apk
+ve/org.fastergps_5.apk
+ve/org.fastergps_7.apk

@@ -1,0 +1,9 @@
+com.readrops.app_2.apk
+com.readrops.app_7.apk
+com.readrops.app_8.apk
+com.readrops.app_9.apk
+com.readrops.app_10.apk
+com.readrops.app_11.apk
+com.readrops.app_12.apk
+com.readrops.app_13.apk
+com.readrops.app_14.apk

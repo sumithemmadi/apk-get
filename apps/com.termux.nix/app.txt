@@ -1,0 +1,6 @@
+com.termux.nix_66022.apk
+com.termux.nix_66024.apk
+com.termux.nix_66025.apk
+com.termux.nix_66026.apk
+com.termux.nix_66027.apk
+com.termux.nix_66028.apk

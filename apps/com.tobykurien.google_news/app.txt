@@ -1,0 +1,10 @@
+com.tobykurien.google_news_8.apk
+com.tobykurien.google_news_9.apk
+com.tobykurien.google_news_11.apk
+com.tobykurien.google_news_12.apk
+com.tobykurien.google_news_13.apk
+com.tobykurien.google_news_14.apk
+com.tobykurien.google_news_15.apk
+com.tobykurien.google_news_17.apk
+com.tobykurien.google_news_18.apk
+com.tobykurien.google_news_20.apk

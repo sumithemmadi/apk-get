@@ -1,0 +1,5 @@
+org.projectvoodoo.screentestpatterns_7.apk
+org.projectvoodoo.screentestpatterns_10.apk
+org.projectvoodoo.screentestpatterns_11.apk
+ve/org.projectvoodoo.screentestpatterns_7.apk
+ve/org.projectvoodoo.screentestpatterns_10.apk

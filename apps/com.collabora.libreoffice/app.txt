@@ -1,0 +1,7 @@
+com.collabora.libreoffice_6.apk
+com.collabora.libreoffice_7.apk
+com.collabora.libreoffice_8.apk
+com.collabora.libreoffice_9.apk
+com.collabora.libreoffice_10.apk
+com.collabora.libreoffice_11.apk
+com.collabora.libreoffice_12.apk

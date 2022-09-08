@@ -1,0 +1,9 @@
+net.gcompris.full_9600.apk
+net.gcompris.full_9700.apk
+net.gcompris.full_10000.apk
+net.gcompris.full_10100.apk
+net.gcompris.full_20000.apk
+net.gcompris.full_20100.apk
+net.gcompris.full_20101.apk
+net.gcompris.full_20300.apk
+net.gcompris.full_20400.apk

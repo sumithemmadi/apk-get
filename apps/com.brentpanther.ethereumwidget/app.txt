@@ -1,0 +1,7 @@
+com.brentpanther.ethereumwidget_10.apk
+com.brentpanther.ethereumwidget_11.apk
+com.brentpanther.ethereumwidget_20.apk
+com.brentpanther.ethereumwidget_21.apk
+com.brentpanther.ethereumwidget_22.apk
+com.brentpanther.ethereumwidget_32.apk
+com.brentpanther.ethereumwidget_33.apk

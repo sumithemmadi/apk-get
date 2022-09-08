@@ -1,0 +1,2 @@
+network.ubic.ubic_6.apk
+network.ubic.ubic_7.apk

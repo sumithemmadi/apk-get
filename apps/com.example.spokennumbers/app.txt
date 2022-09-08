@@ -1,0 +1,7 @@
+com.example.spokennumbers_1.apk
+com.example.spokennumbers_2.apk
+com.example.spokennumbers_4.apk
+com.example.spokennumbers_5.apk
+com.example.spokennumbers_6.apk
+com.example.spokennumbers_7.apk
+com.example.spokennumbers_8.apk

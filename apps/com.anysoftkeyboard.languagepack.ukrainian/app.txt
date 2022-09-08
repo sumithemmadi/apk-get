@@ -1,0 +1,3 @@
+com.anysoftkeyboard.languagepack.ukrainian_5.apk
+com.anysoftkeyboard.languagepack.ukrainian_100.apk
+com.anysoftkeyboard.languagepack.ukrainian_101.apk

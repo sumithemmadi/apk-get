@@ -1,0 +1,7 @@
+com.termux.window_8.apk
+com.termux.window_9.apk
+com.termux.window_10.apk
+com.termux.window_11.apk
+com.termux.window_13.apk
+com.termux.window_14.apk
+com.termux.window_15.apk

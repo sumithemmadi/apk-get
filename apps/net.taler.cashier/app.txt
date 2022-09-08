@@ -1,0 +1,1 @@
+net.taler.cashier_1.apk

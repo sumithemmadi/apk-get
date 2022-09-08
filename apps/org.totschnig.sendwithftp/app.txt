@@ -1,0 +1,4 @@
+org.totschnig.sendwithftp_7.apk
+org.totschnig.sendwithftp_8.apk
+org.totschnig.sendwithftp_10.apk
+ve/org.totschnig.sendwithftp_7.apk

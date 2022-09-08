@@ -1,0 +1,12 @@
+com.enrico.earthquake.batterysimplysolid_1.apk
+com.enrico.earthquake.batterysimplysolid_2.apk
+com.enrico.earthquake.batterysimplysolid_4.apk
+com.enrico.earthquake.batterysimplysolid_5.apk
+com.enrico.earthquake.batterysimplysolid_6.apk
+com.enrico.earthquake.batterysimplysolid_7.apk
+com.enrico.earthquake.batterysimplysolid_8.apk
+com.enrico.earthquake.batterysimplysolid_9.apk
+com.enrico.earthquake.batterysimplysolid_10.apk
+com.enrico.earthquake.batterysimplysolid_11.apk
+com.enrico.earthquake.batterysimplysolid_12.apk
+com.enrico.earthquake.batterysimplysolid_13.apk

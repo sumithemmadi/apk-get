@@ -1,0 +1,4 @@
+com.ridgelineapps.resdicegame_13.apk
+com.ridgelineapps.resdicegame_14.apk
+com.ridgelineapps.resdicegame_15.apk
+com.ridgelineapps.resdicegame_16.apk

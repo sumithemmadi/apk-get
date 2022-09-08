@@ -1,0 +1,7 @@
+com.asksven.betterbatterystats_28.apk
+com.asksven.betterbatterystats_38.apk
+com.asksven.betterbatterystats_43.apk
+com.asksven.betterbatterystats_44.apk
+com.asksven.betterbatterystats_85.apk
+com.asksven.betterbatterystats_99.apk
+com.asksven.betterbatterystats_102.apk

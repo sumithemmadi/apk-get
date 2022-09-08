@@ -1,0 +1,6 @@
+com.lostrealm.lembretes_1.apk
+com.lostrealm.lembretes_20.apk
+com.lostrealm.lembretes_22.apk
+com.lostrealm.lembretes_23.apk
+com.lostrealm.lembretes_69.apk
+com.lostrealm.lembretes_93.apk

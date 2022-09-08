@@ -1,0 +1,16 @@
+com.swordfish.lemuroid_100.apk
+com.swordfish.lemuroid_102.apk
+com.swordfish.lemuroid_104.apk
+com.swordfish.lemuroid_110.apk
+com.swordfish.lemuroid_114.apk
+com.swordfish.lemuroid_122.apk
+com.swordfish.lemuroid_141.apk
+com.swordfish.lemuroid_146.apk
+com.swordfish.lemuroid_148.apk
+com.swordfish.lemuroid_154.apk
+com.swordfish.lemuroid_155.apk
+com.swordfish.lemuroid_161.apk
+com.swordfish.lemuroid_163.apk
+com.swordfish.lemuroid_167.apk
+com.swordfish.lemuroid_172.apk
+com.swordfish.lemuroid_175.apk

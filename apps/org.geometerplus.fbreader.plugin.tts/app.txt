@@ -1,0 +1,4 @@
+org.geometerplus.fbreader.plugin.tts_10100.apk
+org.geometerplus.fbreader.plugin.tts_102001.apk
+ve/org.geometerplus.fbreader.plugin.tts_10100.apk
+ve/org.geometerplus.fbreader.plugin.tts_102001.apk

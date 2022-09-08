@@ -1,0 +1,8 @@
+com.tananaev.logcat_5.apk
+com.tananaev.logcat_6.apk
+com.tananaev.logcat_7.apk
+com.tananaev.logcat_8.apk
+com.tananaev.logcat_10.apk
+com.tananaev.logcat_11.apk
+com.tananaev.logcat_12.apk
+com.tananaev.logcat_13.apk

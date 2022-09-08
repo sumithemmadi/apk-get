@@ -1,0 +1,6 @@
+fr.keuse.rightsalert_1.apk
+fr.keuse.rightsalert_2.apk
+fr.keuse.rightsalert_3.apk
+ve/fr.keuse.rightsalert_1.apk
+ve/fr.keuse.rightsalert_2.apk
+ve/fr.keuse.rightsalert_3.apk

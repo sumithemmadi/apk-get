@@ -1,0 +1,5 @@
+com.mschlauch.comfortreader_6.apk
+com.mschlauch.comfortreader_10.apk
+com.mschlauch.comfortreader_11.apk
+com.mschlauch.comfortreader_12.apk
+com.mschlauch.comfortreader_13.apk

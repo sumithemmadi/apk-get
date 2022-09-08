@@ -1,0 +1,11 @@
+net.pfiers.osmfocus_100.apk
+net.pfiers.osmfocus_101.apk
+net.pfiers.osmfocus_110.apk
+net.pfiers.osmfocus_111.apk
+net.pfiers.osmfocus_112.apk
+net.pfiers.osmfocus_121.apk
+net.pfiers.osmfocus_122.apk
+net.pfiers.osmfocus_123.apk
+net.pfiers.osmfocus_130.apk
+net.pfiers.osmfocus_140.apk
+net.pfiers.osmfocus_150.apk

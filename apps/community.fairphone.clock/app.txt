@@ -1,0 +1,2 @@
+community.fairphone.clock_2.apk
+community.fairphone.clock_3.apk

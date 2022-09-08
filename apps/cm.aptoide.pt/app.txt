@@ -1,0 +1,5 @@
+Aptoide.apk
+Aptoide_1.2.0.apk
+Aptoide_2.0.apk
+ve/Aptoide_1.2.0.apk
+ve/Aptoide_2.0.apk

@@ -1,0 +1,5 @@
+jp.takke.cpustats_8.apk
+jp.takke.cpustats_9.apk
+jp.takke.cpustats_10.apk
+jp.takke.cpustats_17.apk
+jp.takke.cpustats_23.apk

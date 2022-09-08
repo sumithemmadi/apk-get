@@ -1,0 +1,2 @@
+de.bwl.lfdi.app_1.apk
+de.bwl.lfdi.app_2.apk

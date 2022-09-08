@@ -1,0 +1,9 @@
+com.kgurgul.cpuinfo_40100.apk
+com.kgurgul.cpuinfo_40200.apk
+com.kgurgul.cpuinfo_40300.apk
+com.kgurgul.cpuinfo_40301.apk
+com.kgurgul.cpuinfo_40302.apk
+com.kgurgul.cpuinfo_40303.apk
+com.kgurgul.cpuinfo_40402.apk
+com.kgurgul.cpuinfo_40403.apk
+com.kgurgul.cpuinfo_40500.apk

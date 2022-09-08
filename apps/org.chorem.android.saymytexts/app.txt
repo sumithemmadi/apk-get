@@ -1,0 +1,4 @@
+org.chorem.android.saymytexts_4.apk
+org.chorem.android.saymytexts_5.apk
+org.chorem.android.saymytexts_6.apk
+org.chorem.android.saymytexts_7.apk

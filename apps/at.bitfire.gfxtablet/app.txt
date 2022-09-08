@@ -1,0 +1,4 @@
+at.bitfire.gfxtablet_2.apk
+at.bitfire.gfxtablet_3.apk
+at.bitfire.gfxtablet_4.apk
+at.bitfire.gfxtablet_5.apk

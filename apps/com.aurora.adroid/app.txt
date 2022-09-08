@@ -1,0 +1,6 @@
+com.aurora.adroid_3.apk
+com.aurora.adroid_4.apk
+com.aurora.adroid_5.apk
+com.aurora.adroid_6.apk
+com.aurora.adroid_7.apk
+com.aurora.adroid_8.apk

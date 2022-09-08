@@ -1,0 +1,7 @@
+li.klass.fhem_51.apk
+li.klass.fhem_58.apk
+li.klass.fhem_128.apk
+li.klass.fhem_141.apk
+ve/li.klass.fhem_51.apk
+ve/li.klass.fhem_58.apk
+ve/li.klass.fhem_128.apk

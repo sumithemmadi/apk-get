@@ -1,0 +1,5 @@
+com.vonglasow.michael.qz_10100.apk
+com.vonglasow.michael.qz_10200.apk
+com.vonglasow.michael.qz_20000.apk
+com.vonglasow.michael.qz_20100.apk
+com.vonglasow.michael.qz_20200.apk

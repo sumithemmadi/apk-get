@@ -1,0 +1,10 @@
+com.darkempire78.opencalculator_1.apk
+com.darkempire78.opencalculator_2.apk
+com.darkempire78.opencalculator_3.apk
+com.darkempire78.opencalculator_5.apk
+com.darkempire78.opencalculator_7.apk
+com.darkempire78.opencalculator_9.apk
+com.darkempire78.opencalculator_10.apk
+com.darkempire78.opencalculator_11.apk
+com.darkempire78.opencalculator_12.apk
+com.darkempire78.opencalculator_14.apk

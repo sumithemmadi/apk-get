@@ -1,0 +1,2 @@
+org.ocsinventoryng.android.agent_23.apk
+org.ocsinventoryng.android.agent_24.apk

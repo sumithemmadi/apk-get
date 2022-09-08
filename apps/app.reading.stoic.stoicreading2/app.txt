@@ -1,0 +1,4 @@
+app.reading.stoic.stoicreading2_72.apk
+app.reading.stoic.stoicreading2_73.apk
+app.reading.stoic.stoicreading2_74.apk
+app.reading.stoic.stoicreading2_75.apk

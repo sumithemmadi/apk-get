@@ -1,0 +1,4 @@
+com.anysoftkeyboard.languagepack.german_100.apk
+com.anysoftkeyboard.languagepack.german_103.apk
+com.anysoftkeyboard.languagepack.german_173.apk
+com.anysoftkeyboard.languagepack.german_2908.apk

@@ -1,0 +1,2 @@
+com.sovworks.edslite_224.apk
+com.sovworks.edslite_237.apk

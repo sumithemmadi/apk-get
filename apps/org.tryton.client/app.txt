@@ -1,0 +1,2 @@
+org.tryton.client_6.apk
+ve/org.tryton.client_6.apk

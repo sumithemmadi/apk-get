@@ -1,0 +1,12 @@
+org.ntpsync_1.apk
+org.ntpsync_2.apk
+org.ntpsync_3.apk
+org.ntpsync_4.apk
+org.ntpsync_9.apk
+org.ntpsync_10.apk
+org.ntpsync_11.apk
+org.ntpsync_12.apk
+ve/org.ntpsync_1.apk
+ve/org.ntpsync_2.apk
+ve/org.ntpsync_3.apk
+ve/org.ntpsync_4.apk

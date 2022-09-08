@@ -1,0 +1,8 @@
+de.k3b.android.locationMapViewer_2.apk
+de.k3b.android.locationMapViewer_3.apk
+de.k3b.android.locationMapViewer_4.apk
+de.k3b.android.locationMapViewer_5.apk
+de.k3b.android.locationMapViewer_6.apk
+de.k3b.android.locationMapViewer_8.apk
+de.k3b.android.locationMapViewer_9.apk
+de.k3b.android.locationMapViewer_10.apk

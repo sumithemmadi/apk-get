@@ -1,0 +1,4 @@
+com.seavenois.tetris_1.apk
+com.seavenois.tetris_3.apk
+ve/com.seavenois.tetris_1.apk
+ve/com.seavenois.tetris_3.apk

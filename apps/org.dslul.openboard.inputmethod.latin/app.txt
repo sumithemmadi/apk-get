@@ -1,0 +1,8 @@
+org.dslul.openboard.inputmethod.latin_1.apk
+org.dslul.openboard.inputmethod.latin_9.apk
+org.dslul.openboard.inputmethod.latin_13.apk
+org.dslul.openboard.inputmethod.latin_14.apk
+org.dslul.openboard.inputmethod.latin_15.apk
+org.dslul.openboard.inputmethod.latin_17.apk
+org.dslul.openboard.inputmethod.latin_18.apk
+org.dslul.openboard.inputmethod.latin_19.apk

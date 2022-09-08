@@ -1,0 +1,2 @@
+com.redblaster.hsl.main_36.apk
+com.redblaster.hsl.main_37.apk

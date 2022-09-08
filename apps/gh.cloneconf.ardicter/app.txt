@@ -1,0 +1,6 @@
+gh.cloneconf.ardicter_1.apk
+gh.cloneconf.ardicter_2.apk
+gh.cloneconf.ardicter_3.apk
+gh.cloneconf.ardicter_7.apk
+gh.cloneconf.ardicter_8.apk
+gh.cloneconf.ardicter_9.apk

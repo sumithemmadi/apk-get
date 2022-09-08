@@ -1,0 +1,5 @@
+org.berlin_vegan.bvapp_18.apk
+org.berlin_vegan.bvapp_21.apk
+org.berlin_vegan.bvapp_24.apk
+org.berlin_vegan.bvapp_25.apk
+org.berlin_vegan.bvapp_26.apk

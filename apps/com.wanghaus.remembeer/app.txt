@@ -1,0 +1,4 @@
+com.wanghaus.remembeer_48.apk
+com.wanghaus.remembeer_50.apk
+ve/com.wanghaus.remembeer_48.apk
+ve/com.wanghaus.remembeer_50.apk
