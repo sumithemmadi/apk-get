@@ -5,16 +5,16 @@
 #include <vector>
 using namespace std;
 
-string * get_apps_with_name()
+char search_app(char apk[])
 {
   FILE *in;
   char tmp[256];
   char str[100];
   string temp;
-  string * app_array = new string[4];
   int n = 0;
   int i = 0;
 
+  cout << "Searching for " << apk << endl;
   in = fopen("all_apps.txt", "r");
   if (in == NULL)
   {
@@ -27,37 +27,30 @@ string * get_apps_with_name()
     memset(tmp, 0x00, sizeof(tmp));
     if (fgets(tmp, 255, in) != NULL)
     {
-      if (strstr(tmp, "termux") != NULL)
+      if (strstr(tmp, apk) != NULL)
       {
         string line = tmp;
+        string arr[4];
         int i = 0;
         stringstream ssin(line);
         while (ssin.good() && i < 4)
         {
-          ssin >> app_array[i];
+          ssin >> arr[i];
           ++i;
         }
+        cout << n << ". " << arr[0] << endl;
       }
     }
   }
   fclose(in);
-  return app_array;
-}
-
-char search_app(char app_name[])
-{
-  cout << "Searching for " << app_name << endl;
+  return 0;
+  return 0;
 }
 
 int install_app(char apkName[])
 {
   cout << "Installing " << apkName << endl;
-  string * app_list = get_apps_with_name();
-  for (int i = 0; i < (*(&app_list + 1) - app_list); i++)
-  {
-    cout << app_list[i] << endl;
-  }
-  
+  cout << "Successfully installed " << apkName << endl;
   return 0;
 }
 
